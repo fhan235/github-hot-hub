@@ -78,6 +78,106 @@ class SnapshotStore:
             dates.append(date)
         return dates
 
+    # ---- 推送去重记录 ----
+
+    @property
+    def _notified_path(self) -> Path:
+        return self.data_dir / "notified_repos.json"
+
+    def load_notified_repos(self) -> dict[str, dict]:
+        """加载推送记录.
+
+        Returns:
+            {full_name: {"last_notified": "2026-04-06", "score": 85.0, "count": 2}}
+        """
+        path = self._notified_path
+        if not path.exists():
+            return {}
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+            return data
+        except Exception as e:
+            logger.error("加载推送记录失败: %s", e)
+            return {}
+
+    def save_notified_repos(self, records: dict[str, dict]) -> None:
+        """保存推送记录."""
+        path = self._notified_path
+        path.write_text(
+            json.dumps(records, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        logger.debug("推送记录已保存: %d 条", len(records))
+
+    def update_notified(
+        self,
+        full_names: list[str],
+        scores: dict[str, float] | None = None,
+    ) -> None:
+        """更新推送记录（推送成功后调用）.
+
+        Args:
+            full_names: 本次推送的仓库列表
+            scores: {full_name: score}，可选
+        """
+        scores = scores or {}
+        today = datetime.now().strftime("%Y-%m-%d")
+        records = self.load_notified_repos()
+
+        for name in full_names:
+            if name in records:
+                records[name]["last_notified"] = today
+                records[name]["count"] = records[name].get("count", 0) + 1
+                records[name]["score"] = scores.get(name, records[name].get("score", 0))
+            else:
+                records[name] = {
+                    "first_notified": today,
+                    "last_notified": today,
+                    "count": 1,
+                    "score": scores.get(name, 0),
+                }
+
+        self.save_notified_repos(records)
+        logger.info("推送记录已更新: 本次 %d 个项目", len(full_names))
+
+    def get_recently_notified(self, cooldown_days: int = 3) -> dict[str, float]:
+        """获取冷却期内已推送的项目.
+
+        Args:
+            cooldown_days: 冷却天数
+
+        Returns:
+            {full_name: last_score} 冷却期内已推送的项目及上次得分
+        """
+        records = self.load_notified_repos()
+        cutoff = (datetime.now() - timedelta(days=cooldown_days)).strftime("%Y-%m-%d")
+        result = {}
+
+        for name, info in records.items():
+            if info.get("last_notified", "") >= cutoff:
+                result[name] = info.get("score", 0)
+
+        return result
+
+    def cleanup_old_notified(self, keep_days: int = 30) -> int:
+        """清理超过指定天数的推送记录.
+
+        Returns:
+            清理的记录数
+        """
+        records = self.load_notified_repos()
+        cutoff = (datetime.now() - timedelta(days=keep_days)).strftime("%Y-%m-%d")
+        to_remove = [
+            name for name, info in records.items()
+            if info.get("last_notified", "") < cutoff
+        ]
+        for name in to_remove:
+            del records[name]
+        if to_remove:
+            self.save_notified_repos(records)
+            logger.info("已清理 %d 条过期推送记录", len(to_remove))
+        return len(to_remove)
+
     def cleanup_old_snapshots(self, keep_days: int = 30) -> int:
         """清理超过指定天数的旧快照.
 

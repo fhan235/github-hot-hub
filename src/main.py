@@ -30,6 +30,7 @@ from src.reporters.markdown_reporter import MarkdownReporter
 from src.scorers.hot_scorer import HotScorer
 from src.storage.snapshot_store import SnapshotStore
 
+logger = logging.getLogger(__name__)
 console = Console()
 
 
@@ -138,28 +139,94 @@ def run(
     console.print(f"  ✅ 报告已保存: [link=file://{report_path}]{report_path}[/link]")
     console.print()
 
-    # 6. 企业微信推送
+    # 7. 企业微信推送（带去重）
     if notify:
-        console.print("[bold]📮 Step 6: 推送到企业微信...[/bold]")
+        console.print("[bold]📮 Step 7: 推送到企业微信...[/bold]")
         notifier = WeComNotifier()
         if notifier.webhook_url:
-            # 企微消息有长度限制，推送 Top 5 并展示 AI 分析
-            success = notifier.notify(scored_repos, top_n=min(top_n, 5))
-            if success:
-                console.print("  ✅ 企业微信推送成功")
+            # 去重：过滤冷却期内已推送的项目
+            push_repos = scored_repos
+            if settings.dedup_enabled:
+                recently_notified = store.get_recently_notified(
+                    cooldown_days=settings.dedup_cooldown_days
+                )
+                if recently_notified:
+                    original_count = len(push_repos)
+                    push_repos = _filter_dedup(push_repos, recently_notified)
+                    skipped = original_count - len(push_repos)
+                    if skipped > 0:
+                        console.print(
+                            f"  🔄 去重过滤: 跳过 [yellow]{skipped}[/yellow] 个"
+                            f"冷却期内项目（{settings.dedup_cooldown_days} 天）"
+                        )
+
+            if not push_repos:
+                console.print("  [yellow]⚠️ 去重后无新项目可推送，跳过[/yellow]")
             else:
-                console.print("  [red]❌ 企业微信推送失败[/red]")
+                # 企微消息有长度限制，推送 Top 5 并展示 AI 分析
+                push_top_n = min(top_n, 5)
+                success = notifier.notify(push_repos, top_n=push_top_n)
+                if success:
+                    # 记录本次推送的项目
+                    notified_names = [r.full_name for r in push_repos[:push_top_n]]
+                    notified_scores = {r.full_name: r.score for r in push_repos[:push_top_n]}
+                    store.update_notified(notified_names, notified_scores)
+                    console.print("  ✅ 企业微信推送成功")
+                else:
+                    console.print("  [red]❌ 企业微信推送失败[/red]")
         else:
             console.print("  [yellow]⚠️  未配置 GHH_WECOM_WEBHOOK_URL，跳过推送[/yellow]")
         console.print()
 
-    # 8. 清理旧快照
+    # 8. 清理旧数据
     store.cleanup_old_snapshots(keep_days=30)
+    store.cleanup_old_notified(keep_days=30)
 
     # 9. 在终端展示 Top N
     _print_top_repos(scored_repos[:top_n])
 
     console.rule("[bold green]✅ 完成[/bold green]")
+
+
+def _filter_dedup(
+    repos: list,
+    recently_notified: dict[str, float],
+) -> list:
+    """过滤冷却期内已推送的项目.
+
+    如果项目分数比上次推送时大幅上升（超过 dedup_score_boost），
+    仍然允许再次推送。
+
+    Args:
+        repos: 评分后的仓库列表
+        recently_notified: {full_name: last_score}
+
+    Returns:
+        过滤后的仓库列表
+    """
+    result = []
+    boost = settings.dedup_score_boost
+
+    for repo in repos:
+        last_score = recently_notified.get(repo.full_name)
+        if last_score is None:
+            # 冷却期内未推送过，保留
+            result.append(repo)
+        elif repo.score - last_score >= boost:
+            # 分数大幅上升，允许再次推送
+            logger.info(
+                "去重例外: %s 分数 %.1f → %.1f (+%.1f ≥ %.1f)",
+                repo.full_name, last_score, repo.score,
+                repo.score - last_score, boost,
+            )
+            result.append(repo)
+        else:
+            logger.debug(
+                "去重跳过: %s (上次 %.1f, 本次 %.1f, 冷却中)",
+                repo.full_name, last_score, repo.score,
+            )
+
+    return result
 
 
 def _print_top_repos(repos: list) -> None:

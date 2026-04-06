@@ -57,6 +57,11 @@ class Settings(BaseSettings):
     # 推送配置（预留）
     wecom_webhook_url: str = ""
 
+    # 推送去重配置
+    dedup_enabled: bool = True              # 是否启用推送去重
+    dedup_cooldown_days: int = 3            # 冷却天数（同一项目 N 天内不重复推送）
+    dedup_score_boost: float = 10.0         # 分数提升阈值（冷却期内分数涨超此值则允许再推）
+
     # LLM 分析配置（DeepSeek）
     llm_api_key: str = ""                           # DeepSeek API Key
     llm_base_url: str = "https://api.deepseek.com"  # DeepSeek API 地址
