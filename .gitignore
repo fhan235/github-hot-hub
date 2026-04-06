@@ -30,4 +30,4 @@ Thumbs.db
 data/
 
 # 报告目录（自动生成，不需要提交。如需分享可手动提交特定报告）
-reports/
+# reports/
