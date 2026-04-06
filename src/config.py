@@ -58,7 +58,7 @@ class Settings(BaseSettings):
     wecom_webhook_url: str = ""
 
     # 报告配置
-    report_top_n: int = 15                       # 报告中展示的项目数量
+    report_top_n: int = 30                       # 报告中展示的项目数量
 
     @property
     def data_dir(self) -> Path:

@@ -22,6 +22,7 @@ from rich.table import Table
 from src.config import settings
 from src.crawlers.github_api import GitHubAPIClient
 from src.crawlers.trending import TrendingCrawler
+from src.notifiers.wecom import WeComNotifier
 from src.reporters.markdown_reporter import MarkdownReporter
 from src.scorers.hot_scorer import HotScorer
 from src.storage.snapshot_store import SnapshotStore
@@ -40,7 +41,7 @@ def setup_logging(verbose: bool = False) -> None:
     )
 
 
-def run(top_n: int | None = None, skip_api: bool = False) -> None:
+def run(top_n: int | None = None, skip_api: bool = False, notify: bool = False) -> None:
     """执行完整的采集-评分-报告流程."""
     top_n = top_n or settings.report_top_n
 
@@ -110,10 +111,25 @@ def run(top_n: int | None = None, skip_api: bool = False) -> None:
     console.print(f"  ✅ 报告已保存: [link=file://{report_path}]{report_path}[/link]")
     console.print()
 
-    # 6. 清理旧快照
+    # 6. 企业微信推送
+    if notify:
+        console.print("[bold]📮 Step 6: 推送到企业微信...[/bold]")
+        notifier = WeComNotifier()
+        if notifier.webhook_url:
+            # 企微消息有长度限制，推送 Top 10 摘要
+            success = notifier.notify(scored_repos, top_n=min(top_n, 10))
+            if success:
+                console.print("  ✅ 企业微信推送成功")
+            else:
+                console.print("  [red]❌ 企业微信推送失败[/red]")
+        else:
+            console.print("  [yellow]⚠️  未配置 GHH_WECOM_WEBHOOK_URL，跳过推送[/yellow]")
+        console.print()
+
+    # 7. 清理旧快照
     store.cleanup_old_snapshots(keep_days=30)
 
-    # 7. 在终端展示 Top N
+    # 8. 在终端展示 Top N
     _print_top_repos(scored_repos[:top_n])
 
     console.rule("[bold green]✅ 完成[/bold green]")
@@ -170,12 +186,17 @@ def main() -> None:
         action="store_true",
         help="显示详细日志",
     )
+    parser.add_argument(
+        "--notify",
+        action="store_true",
+        help="推送结果到企业微信",
+    )
 
     args = parser.parse_args()
     setup_logging(verbose=args.verbose)
 
     try:
-        run(top_n=args.top, skip_api=args.skip_api)
+        run(top_n=args.top, skip_api=args.skip_api, notify=args.notify)
     except KeyboardInterrupt:
         console.print("\n[yellow]用户中断[/yellow]")
         sys.exit(130)

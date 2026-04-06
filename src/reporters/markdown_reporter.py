@@ -65,8 +65,8 @@ class MarkdownReporter:
         output_dir = output_dir or settings.reports_dir
         output_dir.mkdir(parents=True, exist_ok=True)
 
-        today = datetime.now().strftime("%Y-%m-%d")
-        path = output_dir / f"hot-report-{today}.md"
+        now_str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        path = output_dir / f"hot-report-{now_str}.md"
 
         content = self.generate(repos)
         path.write_text(content, encoding="utf-8")
