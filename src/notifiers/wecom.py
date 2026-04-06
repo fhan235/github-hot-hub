@@ -85,6 +85,14 @@ class WeComNotifier:
                     desc = desc[:77] + "..."
                 lines.append(f"> {desc}")
 
+            # LLM 分析摘要（取第一行或前 100 字）
+            if repo.llm_analysis:
+                analysis_brief = repo.llm_analysis.split("\n")[0]
+                if len(analysis_brief) > 100:
+                    analysis_brief = analysis_brief[:97] + "..."
+                if analysis_brief:
+                    lines.append(f"> 🤖 {analysis_brief}")
+
             lines.append("")
 
         lines.append("---")

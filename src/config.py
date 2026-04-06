@@ -57,6 +57,14 @@ class Settings(BaseSettings):
     # 推送配置（预留）
     wecom_webhook_url: str = ""
 
+    # LLM 分析配置（DeepSeek）
+    llm_api_key: str = ""                           # DeepSeek API Key
+    llm_base_url: str = "https://api.deepseek.com"  # DeepSeek API 地址
+    llm_model: str = "deepseek-chat"                # 模型名称
+    llm_max_tokens: int = 500                       # 单个项目分析的最大 token
+    llm_temperature: float = 0.7                    # 生成温度
+    llm_enabled: bool = True                        # 是否启用 LLM 分析
+
     # 报告配置
     report_top_n: int = 30                       # 报告中展示的项目数量
 

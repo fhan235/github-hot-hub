@@ -100,6 +100,13 @@ class MarkdownReporter:
             lines.append(f"> {repo.description}")
             lines.append("")
 
+        # LLM 智能分析
+        if repo.llm_analysis:
+            lines.append("#### 🤖 AI 分析")
+            lines.append("")
+            lines.append(repo.llm_analysis)
+            lines.append("")
+
         # 评分细节 (折叠)
         lines.append("<details>")
         lines.append("<summary>📈 评分详情</summary>")

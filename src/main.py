@@ -4,8 +4,10 @@
 1. 爬取 GitHub Trending 页面
 2. 通过 GitHub API 补充详细信息
 3. 加载历史数据，计算爆发度评分
-4. 保存今日快照
-5. 生成 Markdown 报告
+4. LLM 智能分析（Top N）
+5. 保存今日快照
+6. 生成 Markdown 报告
+7. 推送到企业微信（可选）
 """
 
 from __future__ import annotations
@@ -22,6 +24,7 @@ from rich.table import Table
 from src.config import settings
 from src.crawlers.github_api import GitHubAPIClient
 from src.crawlers.trending import TrendingCrawler
+from src.analyzers.llm_analyzer import LLMAnalyzer
 from src.notifiers.wecom import WeComNotifier
 from src.reporters.markdown_reporter import MarkdownReporter
 from src.scorers.hot_scorer import HotScorer
@@ -41,8 +44,13 @@ def setup_logging(verbose: bool = False) -> None:
     )
 
 
-def run(top_n: int | None = None, skip_api: bool = False, notify: bool = False) -> None:
-    """执行完整的采集-评分-报告流程."""
+def run(
+    top_n: int | None = None,
+    skip_api: bool = False,
+    notify: bool = False,
+    skip_llm: bool = False,
+) -> None:
+    """执行完整的采集-评分-分析-报告流程."""
     top_n = top_n or settings.report_top_n
 
     console.rule("[bold blue]🔥 GitHub Hot Hub[/bold blue]")
@@ -88,8 +96,27 @@ def run(top_n: int | None = None, skip_api: bool = False, notify: bool = False) 
     console.print(f"  ✅ 评分完成，[green]{len(scored_repos)}[/green] 个有效项目")
     console.print()
 
-    # 4. 保存今日快照
-    console.print("[bold]💾 Step 4: 保存今日数据快照...[/bold]")
+    # 4. LLM 智能分析
+    if not skip_llm:
+        console.print("[bold]🤖 Step 4: AI 智能分析...[/bold]")
+        analyzer = LLMAnalyzer()
+        if analyzer.available:
+            # 只分析 Top N 项目（节约 API 调用）
+            llm_top_n = min(top_n, 30)
+            analyses = analyzer.analyze_batch(scored_repos, top_n=llm_top_n)
+            # 写入到 ScoredRepo 对象
+            for repo in scored_repos:
+                if repo.full_name in analyses:
+                    repo.llm_analysis = analyses[repo.full_name]
+            console.print(f"  ✅ AI 分析完成，{len(analyses)} 个项目已生成分析")
+        else:
+            console.print("  [yellow]⚠️  LLM 不可用（未配置 GHH_LLM_API_KEY 或已禁用），跳过[/yellow]")
+    else:
+        console.print("[bold]⏭️  Step 4: 跳过 LLM 分析 (--skip-llm)[/bold]")
+    console.print()
+
+    # 5. 保存今日快照
+    console.print("[bold]💾 Step 5: 保存今日数据快照...[/bold]")
     today_data = {}
     for repo in scored_repos:
         today_data[repo.full_name] = repo.total_stars
@@ -104,8 +131,8 @@ def run(top_n: int | None = None, skip_api: bool = False, notify: bool = False) 
     console.print(f"  ✅ 已保存 {len(today_data)} 个仓库的 star 数据")
     console.print()
 
-    # 5. 生成报告
-    console.print("[bold]📝 Step 5: 生成报告...[/bold]")
+    # 6. 生成报告
+    console.print("[bold]📝 Step 6: 生成报告...[/bold]")
     reporter = MarkdownReporter()
     report_path = reporter.save(scored_repos)
     console.print(f"  ✅ 报告已保存: [link=file://{report_path}]{report_path}[/link]")
@@ -126,10 +153,10 @@ def run(top_n: int | None = None, skip_api: bool = False, notify: bool = False) 
             console.print("  [yellow]⚠️  未配置 GHH_WECOM_WEBHOOK_URL，跳过推送[/yellow]")
         console.print()
 
-    # 7. 清理旧快照
+    # 8. 清理旧快照
     store.cleanup_old_snapshots(keep_days=30)
 
-    # 8. 在终端展示 Top N
+    # 9. 在终端展示 Top N
     _print_top_repos(scored_repos[:top_n])
 
     console.rule("[bold green]✅ 完成[/bold green]")
@@ -148,9 +175,11 @@ def _print_top_repos(repos: list) -> None:
     table.add_column("评分", justify="right", style="bold red")
     table.add_column("分类", style="green")
     table.add_column("标签", max_width=20)
+    table.add_column("AI", max_width=3)
 
     for i, repo in enumerate(repos, 1):
         burst = " ".join(f"{bt.emoji}" for bt in repo.burst_types)
+        ai_mark = "✅" if repo.llm_analysis else ""
         table.add_row(
             str(i),
             repo.full_name,
@@ -159,6 +188,7 @@ def _print_top_repos(repos: list) -> None:
             f"{repo.score:.1f}",
             repo.category,
             burst,
+            ai_mark,
         )
 
     console.print(table)
@@ -182,6 +212,11 @@ def main() -> None:
         help="跳过 GitHub API 获取，仅使用 Trending 页面数据",
     )
     parser.add_argument(
+        "--skip-llm",
+        action="store_true",
+        help="跳过 LLM 智能分析",
+    )
+    parser.add_argument(
         "-v", "--verbose",
         action="store_true",
         help="显示详细日志",
@@ -196,7 +231,7 @@ def main() -> None:
     setup_logging(verbose=args.verbose)
 
     try:
-        run(top_n=args.top, skip_api=args.skip_api, notify=args.notify)
+        run(top_n=args.top, skip_api=args.skip_api, notify=args.notify, skip_llm=args.skip_llm)
     except KeyboardInterrupt:
         console.print("\n[yellow]用户中断[/yellow]")
         sys.exit(130)

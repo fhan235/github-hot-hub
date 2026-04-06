@@ -97,6 +97,9 @@ class ScoredRepo(BaseModel):
     # 分类
     category: str = ""                      # 技术领域分类
 
+    # LLM 分析
+    llm_analysis: str = ""                  # LLM 生成的分析文本
+
     # 元数据
     scored_at: datetime = Field(default_factory=datetime.now)
 
