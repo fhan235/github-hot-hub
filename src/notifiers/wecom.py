@@ -25,12 +25,12 @@ class WeComNotifier:
     def __init__(self, webhook_url: str = "") -> None:
         self.webhook_url = webhook_url or settings.wecom_webhook_url
 
-    def notify(self, repos: list[ScoredRepo], top_n: int = 10) -> bool:
+    def notify(self, repos: list[ScoredRepo], top_n: int = 5) -> bool:
         """推送热点速报到企业微信.
 
         Args:
             repos: 按分数排序的仓库列表
-            top_n: 推送的项目数量（企微消息有长度限制，建议 ≤ 15）
+            top_n: 推送的项目数量（企微消息有长度限制，默认 5 保证 AI 分析能完整展示）
 
         Returns:
             是否推送成功
@@ -85,11 +85,24 @@ class WeComNotifier:
                     desc = desc[:77] + "..."
                 lines.append(f"> {desc}")
 
-            # LLM 分析摘要（取第一行或前 100 字）
+            # LLM 分析摘要（提取核心内容，去掉 Markdown 标题标记）
             if repo.llm_analysis:
-                analysis_brief = repo.llm_analysis.split("\n")[0]
-                if len(analysis_brief) > 100:
-                    analysis_brief = analysis_brief[:97] + "..."
+                # 去掉 **是什么**、**为什么火** 等标题标记，拼接有效内容
+                brief_parts = []
+                for line in repo.llm_analysis.split("\n"):
+                    line = line.strip()
+                    if not line:
+                        continue
+                    # 去掉 Markdown 加粗标题前缀
+                    for prefix in ("**是什么**：", "**是什么**:", "**为什么火**：", "**为什么火**:",
+                                   "**值得关注吗**：", "**值得关注吗**:"):
+                        if line.startswith(prefix):
+                            line = line[len(prefix):]
+                            break
+                    brief_parts.append(line.strip())
+                analysis_brief = " | ".join(brief_parts)
+                if len(analysis_brief) > 150:
+                    analysis_brief = analysis_brief[:147] + "..."
                 if analysis_brief:
                     lines.append(f"> 🤖 {analysis_brief}")
 

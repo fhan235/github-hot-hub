@@ -143,8 +143,8 @@ def run(
         console.print("[bold]📮 Step 6: 推送到企业微信...[/bold]")
         notifier = WeComNotifier()
         if notifier.webhook_url:
-            # 企微消息有长度限制，推送 Top 10 摘要
-            success = notifier.notify(scored_repos, top_n=min(top_n, 10))
+            # 企微消息有长度限制，推送 Top 5 并展示 AI 分析
+            success = notifier.notify(scored_repos, top_n=min(top_n, 5))
             if success:
                 console.print("  ✅ 企业微信推送成功")
             else:

@@ -6,6 +6,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # 支持手动触发（测试用）
 
+permissions:
+  contents: write  # 允许 push 报告到仓库
+
 jobs:
   hot-report:
     runs-on: ubuntu-latest
@@ -33,10 +36,20 @@ jobs:
           GHH_LLM_MODEL: ${{ secrets.GHH_LLM_MODEL }}
         run: python -m src.main --notify
 
-      - name: 📤 Upload report
+      - name: 📤 Upload report artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: hot-report-${{ github.run_id }}
           path: reports/*.md
           retention-days: 30
+
+      - name: 📝 Commit report to repo
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/*.md
+          # 只在有新文件时才 commit
+          git diff --cached --quiet || git commit -m "docs: 📊 $(date -u +%Y-%m-%d) 每日热点报告"
+          git push
