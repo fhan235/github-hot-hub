@@ -1,0 +1,42 @@
+name: "🔥 Daily Hot Report"
+
+on:
+  schedule:
+    # 每天 UTC 0:00 = 北京时间 8:00
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 支持手动触发（测试用）
+
+jobs:
+  hot-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: 📦 Install dependencies
+        run: pip install -e .
+
+      - name: 🔥 Run GitHub Hot Hub
+        env:
+          GHH_GITHUB_TOKEN: ${{ secrets.GHH_GITHUB_TOKEN }}
+          GHH_WECOM_WEBHOOK_URL: ${{ secrets.GHH_WECOM_WEBHOOK_URL }}
+          GHH_LLM_API_KEY: ${{ secrets.GHH_LLM_API_KEY }}
+          GHH_LLM_BASE_URL: ${{ secrets.GHH_LLM_BASE_URL }}
+          GHH_LLM_MODEL: ${{ secrets.GHH_LLM_MODEL }}
+        run: python -m src.main --notify
+
+      - name: 📤 Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hot-report-${{ github.run_id }}
+          path: reports/*.md
+          retention-days: 30
