@@ -7,9 +7,9 @@
   },
   "luongnv89/claude-howto": {
     "first_notified": "2026-04-07",
-    "last_notified": "2026-04-07",
-    "count": 1,
-    "score": 84.0
+    "last_notified": "2026-04-11",
+    "count": 2,
+    "score": 67.3
   },
   "Yeachan-Heo/oh-my-claudecode": {
     "first_notified": "2026-04-07",
@@ -118,5 +118,29 @@
     "last_notified": "2026-04-10",
     "count": 1,
     "score": 59.3
+  },
+  "TheCraigHewitt/seomachine": {
+    "first_notified": "2026-04-11",
+    "last_notified": "2026-04-11",
+    "count": 1,
+    "score": 71.1
+  },
+  "vercel-labs/agent-browser": {
+    "first_notified": "2026-04-11",
+    "last_notified": "2026-04-11",
+    "count": 1,
+    "score": 62.3
+  },
+  "jo-inc/camofox-browser": {
+    "first_notified": "2026-04-11",
+    "last_notified": "2026-04-11",
+    "count": 1,
+    "score": 59.9
+  },
+  "aaif-goose/goose": {
+    "first_notified": "2026-04-11",
+    "last_notified": "2026-04-11",
+    "count": 1,
+    "score": 57.9
   }
 }
