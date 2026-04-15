@@ -85,9 +85,9 @@
   },
   "obra/superpowers": {
     "first_notified": "2026-04-09",
-    "last_notified": "2026-04-09",
-    "count": 1,
-    "score": 57.6
+    "last_notified": "2026-04-15",
+    "count": 2,
+    "score": 57.3
   },
   "google-ai-edge/LiteRT-LM": {
     "first_notified": "2026-04-10",
@@ -121,9 +121,9 @@
   },
   "TheCraigHewitt/seomachine": {
     "first_notified": "2026-04-11",
-    "last_notified": "2026-04-11",
-    "count": 1,
-    "score": 71.1
+    "last_notified": "2026-04-15",
+    "count": 2,
+    "score": 68.9
   },
   "vercel-labs/agent-browser": {
     "first_notified": "2026-04-11",
@@ -169,9 +169,9 @@
   },
   "forrestchang/andrej-karpathy-skills": {
     "first_notified": "2026-04-13",
-    "last_notified": "2026-04-13",
-    "count": 1,
-    "score": 57.1
+    "last_notified": "2026-04-15",
+    "count": 2,
+    "score": 70.2
   },
   "YishenTu/claudian": {
     "first_notified": "2026-04-13",
@@ -196,5 +196,17 @@
     "last_notified": "2026-04-14",
     "count": 1,
     "score": 58.9
+  },
+  "sivchari/kumo": {
+    "first_notified": "2026-04-15",
+    "last_notified": "2026-04-15",
+    "count": 1,
+    "score": 62.9
+  },
+  "ResearAI/DeepScientist": {
+    "first_notified": "2026-04-15",
+    "last_notified": "2026-04-15",
+    "count": 1,
+    "score": 56.4
   }
 }
