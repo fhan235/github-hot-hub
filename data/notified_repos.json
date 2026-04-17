@@ -79,9 +79,9 @@
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-04-09",
-    "last_notified": "2026-04-13",
-    "count": 2,
-    "score": 58.4
+    "last_notified": "2026-04-17",
+    "count": 3,
+    "score": 79.7
   },
   "obra/superpowers": {
     "first_notified": "2026-04-09",
@@ -232,5 +232,29 @@
     "last_notified": "2026-04-16",
     "count": 1,
     "score": 62.3
+  },
+  "OpenBMB/VoxCPM": {
+    "first_notified": "2026-04-17",
+    "last_notified": "2026-04-17",
+    "count": 1,
+    "score": 80.4
+  },
+  "hugohe3/ppt-master": {
+    "first_notified": "2026-04-17",
+    "last_notified": "2026-04-17",
+    "count": 1,
+    "score": 65.5
+  },
+  "EvoMap/evolver": {
+    "first_notified": "2026-04-17",
+    "last_notified": "2026-04-17",
+    "count": 1,
+    "score": 64.8
+  },
+  "lsdefine/GenericAgent": {
+    "first_notified": "2026-04-17",
+    "last_notified": "2026-04-17",
+    "count": 1,
+    "score": 61.8
   }
 }
