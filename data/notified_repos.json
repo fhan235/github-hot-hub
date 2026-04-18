@@ -133,9 +133,9 @@
   },
   "jo-inc/camofox-browser": {
     "first_notified": "2026-04-11",
-    "last_notified": "2026-04-11",
-    "count": 1,
-    "score": 59.9
+    "last_notified": "2026-04-18",
+    "count": 2,
+    "score": 62.6
   },
   "aaif-goose/goose": {
     "first_notified": "2026-04-11",
@@ -169,9 +169,9 @@
   },
   "forrestchang/andrej-karpathy-skills": {
     "first_notified": "2026-04-13",
-    "last_notified": "2026-04-15",
-    "count": 2,
-    "score": 70.2
+    "last_notified": "2026-04-18",
+    "count": 3,
+    "score": 84.5
   },
   "YishenTu/claudian": {
     "first_notified": "2026-04-13",
@@ -256,5 +256,23 @@
     "last_notified": "2026-04-17",
     "count": 1,
     "score": 61.8
+  },
+  "steipete/wacli": {
+    "first_notified": "2026-04-18",
+    "last_notified": "2026-04-18",
+    "count": 1,
+    "score": 69.8
+  },
+  "firecrawl/pdf-inspector": {
+    "first_notified": "2026-04-18",
+    "last_notified": "2026-04-18",
+    "count": 1,
+    "score": 68.0
+  },
+  "diegosouzapw/OmniRoute": {
+    "first_notified": "2026-04-18",
+    "last_notified": "2026-04-18",
+    "count": 1,
+    "score": 66.7
   }
 }
