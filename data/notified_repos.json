@@ -274,5 +274,35 @@
     "last_notified": "2026-04-18",
     "count": 1,
     "score": 66.7
+  },
+  "multica-ai/andrej-karpathy-skills": {
+    "first_notified": "2026-04-19",
+    "last_notified": "2026-04-19",
+    "count": 1,
+    "score": 86.0
+  },
+  "thunderbird/thunderbolt": {
+    "first_notified": "2026-04-19",
+    "last_notified": "2026-04-19",
+    "count": 1,
+    "score": 59.4
+  },
+  "OpenMOSS/MOSS-TTS": {
+    "first_notified": "2026-04-19",
+    "last_notified": "2026-04-19",
+    "count": 1,
+    "score": 58.1
+  },
+  "mayocream/koharu": {
+    "first_notified": "2026-04-19",
+    "last_notified": "2026-04-19",
+    "count": 1,
+    "score": 57.9
+  },
+  "hotheadhacker/no-as-a-service": {
+    "first_notified": "2026-04-19",
+    "last_notified": "2026-04-19",
+    "count": 1,
+    "score": 57.1
   }
 }
