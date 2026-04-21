@@ -79,9 +79,9 @@
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-04-09",
-    "last_notified": "2026-04-17",
-    "count": 3,
-    "score": 79.7
+    "last_notified": "2026-04-21",
+    "count": 4,
+    "score": 68.6
   },
   "obra/superpowers": {
     "first_notified": "2026-04-09",
@@ -253,9 +253,9 @@
   },
   "lsdefine/GenericAgent": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-04-17",
-    "count": 1,
-    "score": 61.8
+    "last_notified": "2026-04-21",
+    "count": 2,
+    "score": 78.5
   },
   "steipete/wacli": {
     "first_notified": "2026-04-18",
@@ -316,5 +316,23 @@
     "last_notified": "2026-04-20",
     "count": 1,
     "score": 65.5
+  },
+  "pascalorg/editor": {
+    "first_notified": "2026-04-21",
+    "last_notified": "2026-04-21",
+    "count": 1,
+    "score": 70.1
+  },
+  "jamiepine/voicebox": {
+    "first_notified": "2026-04-21",
+    "last_notified": "2026-04-21",
+    "count": 1,
+    "score": 67.5
+  },
+  "Fincept-Corporation/FinceptTerminal": {
+    "first_notified": "2026-04-21",
+    "last_notified": "2026-04-21",
+    "count": 1,
+    "score": 64.6
   }
 }
