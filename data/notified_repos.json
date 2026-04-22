@@ -169,9 +169,9 @@
   },
   "forrestchang/andrej-karpathy-skills": {
     "first_notified": "2026-04-13",
-    "last_notified": "2026-04-18",
-    "count": 3,
-    "score": 84.5
+    "last_notified": "2026-04-22",
+    "count": 4,
+    "score": 82.1
   },
   "YishenTu/claudian": {
     "first_notified": "2026-04-13",
@@ -247,9 +247,9 @@
   },
   "EvoMap/evolver": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-04-17",
-    "count": 1,
-    "score": 64.8
+    "last_notified": "2026-04-22",
+    "count": 2,
+    "score": 79.7
   },
   "lsdefine/GenericAgent": {
     "first_notified": "2026-04-17",
@@ -259,9 +259,9 @@
   },
   "steipete/wacli": {
     "first_notified": "2026-04-18",
-    "last_notified": "2026-04-18",
-    "count": 1,
-    "score": 69.8
+    "last_notified": "2026-04-22",
+    "count": 2,
+    "score": 68.9
   },
   "firecrawl/pdf-inspector": {
     "first_notified": "2026-04-18",
@@ -334,5 +334,17 @@
     "last_notified": "2026-04-21",
     "count": 1,
     "score": 64.6
+  },
+  "Tracer-Cloud/opensre": {
+    "first_notified": "2026-04-22",
+    "last_notified": "2026-04-22",
+    "count": 1,
+    "score": 74.7
+  },
+  "BasedHardware/omi": {
+    "first_notified": "2026-04-22",
+    "last_notified": "2026-04-22",
+    "count": 1,
+    "score": 64.2
   }
 }
