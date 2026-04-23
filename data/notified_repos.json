@@ -223,9 +223,9 @@
   },
   "vercel-labs/open-agents": {
     "first_notified": "2026-04-16",
-    "last_notified": "2026-04-16",
-    "count": 1,
-    "score": 66.7
+    "last_notified": "2026-04-23",
+    "count": 2,
+    "score": 72.9
   },
   "z-lab/dflash": {
     "first_notified": "2026-04-16",
@@ -241,9 +241,9 @@
   },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-04-17",
-    "count": 1,
-    "score": 65.5
+    "last_notified": "2026-04-23",
+    "count": 2,
+    "score": 67.3
   },
   "EvoMap/evolver": {
     "first_notified": "2026-04-17",
@@ -346,5 +346,23 @@
     "last_notified": "2026-04-22",
     "count": 1,
     "score": 64.2
+  },
+  "pbakaus/impeccable": {
+    "first_notified": "2026-04-23",
+    "last_notified": "2026-04-23",
+    "count": 1,
+    "score": 60.6
+  },
+  "mnfst/manifest": {
+    "first_notified": "2026-04-23",
+    "last_notified": "2026-04-23",
+    "count": 1,
+    "score": 59.8
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "first_notified": "2026-04-23",
+    "last_notified": "2026-04-23",
+    "count": 1,
+    "score": 57.7
   }
 }
