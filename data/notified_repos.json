@@ -79,9 +79,9 @@
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-04-09",
-    "last_notified": "2026-04-21",
-    "count": 4,
-    "score": 68.6
+    "last_notified": "2026-04-25",
+    "count": 5,
+    "score": 62.3
   },
   "obra/superpowers": {
     "first_notified": "2026-04-09",
@@ -253,9 +253,9 @@
   },
   "lsdefine/GenericAgent": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-04-21",
-    "count": 2,
-    "score": 78.5
+    "last_notified": "2026-04-25",
+    "count": 3,
+    "score": 79.4
   },
   "steipete/wacli": {
     "first_notified": "2026-04-18",
@@ -325,9 +325,9 @@
   },
   "jamiepine/voicebox": {
     "first_notified": "2026-04-21",
-    "last_notified": "2026-04-21",
-    "count": 1,
-    "score": 67.5
+    "last_notified": "2026-04-25",
+    "count": 2,
+    "score": 59.2
   },
   "Fincept-Corporation/FinceptTerminal": {
     "first_notified": "2026-04-21",
@@ -373,8 +373,14 @@
   },
   "huggingface/ml-intern": {
     "first_notified": "2026-04-24",
-    "last_notified": "2026-04-24",
+    "last_notified": "2026-04-25",
+    "count": 2,
+    "score": 77.6
+  },
+  "mksglu/context-mode": {
+    "first_notified": "2026-04-25",
+    "last_notified": "2026-04-25",
     "count": 1,
-    "score": 60.4
+    "score": 61.5
   }
 }
