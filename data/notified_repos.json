@@ -241,9 +241,9 @@
   },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-04-23",
-    "count": 2,
-    "score": 67.3
+    "last_notified": "2026-04-27",
+    "count": 3,
+    "score": 57.8
   },
   "EvoMap/evolver": {
     "first_notified": "2026-04-17",
@@ -331,9 +331,9 @@
   },
   "Fincept-Corporation/FinceptTerminal": {
     "first_notified": "2026-04-21",
-    "last_notified": "2026-04-21",
-    "count": 1,
-    "score": 64.6
+    "last_notified": "2026-04-27",
+    "count": 2,
+    "score": 82.0
   },
   "Tracer-Cloud/opensre": {
     "first_notified": "2026-04-22",
@@ -388,5 +388,23 @@
     "last_notified": "2026-04-26",
     "count": 1,
     "score": 72.7
+  },
+  "zilliztech/claude-context": {
+    "first_notified": "2026-04-27",
+    "last_notified": "2026-04-27",
+    "count": 1,
+    "score": 68.0
+  },
+  "rtk-ai/rtk": {
+    "first_notified": "2026-04-27",
+    "last_notified": "2026-04-27",
+    "count": 1,
+    "score": 60.6
+  },
+  "mattpocock/skills": {
+    "first_notified": "2026-04-27",
+    "last_notified": "2026-04-27",
+    "count": 1,
+    "score": 55.5
   }
 }
