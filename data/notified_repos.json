@@ -97,9 +97,9 @@
   },
   "multica-ai/multica": {
     "first_notified": "2026-04-10",
-    "last_notified": "2026-04-24",
-    "count": 4,
-    "score": 65.9
+    "last_notified": "2026-04-28",
+    "count": 5,
+    "score": 60.9
   },
   "vectorize-io/hindsight": {
     "first_notified": "2026-04-10",
@@ -211,9 +211,9 @@
   },
   "addyosmani/agent-skills": {
     "first_notified": "2026-04-16",
-    "last_notified": "2026-04-20",
-    "count": 2,
-    "score": 65.5
+    "last_notified": "2026-04-28",
+    "count": 3,
+    "score": 74.1
   },
   "shiyu-coder/Kronos": {
     "first_notified": "2026-04-16",
@@ -367,9 +367,9 @@
   },
   "Alishahryar1/free-claude-code": {
     "first_notified": "2026-04-24",
-    "last_notified": "2026-04-24",
-    "count": 1,
-    "score": 69.7
+    "last_notified": "2026-04-28",
+    "count": 2,
+    "score": 60.1
   },
   "huggingface/ml-intern": {
     "first_notified": "2026-04-24",
@@ -406,5 +406,17 @@
     "last_notified": "2026-04-27",
     "count": 1,
     "score": 55.5
+  },
+  "open-metadata/OpenMetadata": {
+    "first_notified": "2026-04-28",
+    "last_notified": "2026-04-28",
+    "count": 1,
+    "score": 62.3
+  },
+  "razvandimescu/numa": {
+    "first_notified": "2026-04-28",
+    "last_notified": "2026-04-28",
+    "count": 1,
+    "score": 61.1
   }
 }
