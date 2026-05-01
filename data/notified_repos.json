@@ -331,9 +331,9 @@
   },
   "Fincept-Corporation/FinceptTerminal": {
     "first_notified": "2026-04-21",
-    "last_notified": "2026-04-27",
-    "count": 2,
-    "score": 82.0
+    "last_notified": "2026-05-01",
+    "count": 3,
+    "score": 60.9
   },
   "Tracer-Cloud/opensre": {
     "first_notified": "2026-04-22",
@@ -403,9 +403,9 @@
   },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
-    "last_notified": "2026-04-27",
-    "count": 1,
-    "score": 55.5
+    "last_notified": "2026-05-01",
+    "count": 2,
+    "score": 60.3
   },
   "open-metadata/OpenMetadata": {
     "first_notified": "2026-04-28",
@@ -436,5 +436,23 @@
     "last_notified": "2026-04-30",
     "count": 1,
     "score": 72.6
+  },
+  "chenhg5/cc-connect": {
+    "first_notified": "2026-05-01",
+    "last_notified": "2026-05-01",
+    "count": 1,
+    "score": 61.6
+  },
+  "gastownhall/gascity": {
+    "first_notified": "2026-05-01",
+    "last_notified": "2026-05-01",
+    "count": 1,
+    "score": 61.4
+  },
+  "1jehuang/jcode": {
+    "first_notified": "2026-05-01",
+    "last_notified": "2026-05-01",
+    "count": 1,
+    "score": 60.0
   }
 }
