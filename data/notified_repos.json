@@ -145,9 +145,9 @@
   },
   "abhigyanpatwari/GitNexus": {
     "first_notified": "2026-04-12",
-    "last_notified": "2026-04-12",
-    "count": 1,
-    "score": 68.7
+    "last_notified": "2026-05-02",
+    "count": 2,
+    "score": 59.2
   },
   "aloshdenny/reverse-SynthID": {
     "first_notified": "2026-04-12",
@@ -454,5 +454,29 @@
     "last_notified": "2026-05-01",
     "count": 1,
     "score": 60.0
+  },
+  "fspecii/ace-step-ui": {
+    "first_notified": "2026-05-02",
+    "last_notified": "2026-05-02",
+    "count": 1,
+    "score": 72.0
+  },
+  "Hmbown/DeepSeek-TUI": {
+    "first_notified": "2026-05-02",
+    "last_notified": "2026-05-02",
+    "count": 1,
+    "score": 70.1
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+    "first_notified": "2026-05-02",
+    "last_notified": "2026-05-02",
+    "count": 1,
+    "score": 60.6
+  },
+  "farion1231/cc-switch": {
+    "first_notified": "2026-05-02",
+    "last_notified": "2026-05-02",
+    "count": 1,
+    "score": 57.9
   }
 }
