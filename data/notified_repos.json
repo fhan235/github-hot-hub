@@ -337,9 +337,9 @@
   },
   "Tracer-Cloud/opensre": {
     "first_notified": "2026-04-22",
-    "last_notified": "2026-04-30",
-    "count": 3,
-    "score": 66.9
+    "last_notified": "2026-05-05",
+    "count": 4,
+    "score": 53.5
   },
   "BasedHardware/omi": {
     "first_notified": "2026-04-22",
@@ -349,9 +349,9 @@
   },
   "pbakaus/impeccable": {
     "first_notified": "2026-04-23",
-    "last_notified": "2026-04-23",
-    "count": 1,
-    "score": 60.6
+    "last_notified": "2026-05-05",
+    "count": 2,
+    "score": 53.7
   },
   "mnfst/manifest": {
     "first_notified": "2026-04-23",
@@ -496,5 +496,23 @@
     "last_notified": "2026-05-04",
     "count": 1,
     "score": 75.7
+  },
+  "msitarzewski/agency-agents": {
+    "first_notified": "2026-05-05",
+    "last_notified": "2026-05-05",
+    "count": 1,
+    "score": 55.3
+  },
+  "raullenchai/Rapid-MLX": {
+    "first_notified": "2026-05-05",
+    "last_notified": "2026-05-05",
+    "count": 1,
+    "score": 54.7
+  },
+  "lukilabs/craft-agents-oss": {
+    "first_notified": "2026-05-05",
+    "last_notified": "2026-05-05",
+    "count": 1,
+    "score": 54.1
   }
 }
