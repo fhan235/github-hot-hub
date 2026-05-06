@@ -241,9 +241,9 @@
   },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-04-27",
-    "count": 3,
-    "score": 57.8
+    "last_notified": "2026-05-06",
+    "count": 4,
+    "score": 66.9
   },
   "EvoMap/evolver": {
     "first_notified": "2026-04-17",
@@ -463,9 +463,9 @@
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-02",
-    "count": 1,
-    "score": 70.1
+    "last_notified": "2026-05-06",
+    "count": 2,
+    "score": 66.4
   },
   "ZhuLinsen/daily_stock_analysis": {
     "first_notified": "2026-05-02",
@@ -514,5 +514,23 @@
     "last_notified": "2026-05-05",
     "count": 1,
     "score": 54.1
+  },
+  "HunxByts/GhostTrack": {
+    "first_notified": "2026-05-06",
+    "last_notified": "2026-05-06",
+    "count": 1,
+    "score": 62.5
+  },
+  "iamgio/quarkdown": {
+    "first_notified": "2026-05-06",
+    "last_notified": "2026-05-06",
+    "count": 1,
+    "score": 60.8
+  },
+  "AnmolSaini16/mapcn": {
+    "first_notified": "2026-05-06",
+    "last_notified": "2026-05-06",
+    "count": 1,
+    "score": 59.1
   }
 }
