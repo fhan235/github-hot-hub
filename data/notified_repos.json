@@ -403,9 +403,9 @@
   },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
-    "last_notified": "2026-05-03",
-    "count": 3,
-    "score": 82.7
+    "last_notified": "2026-05-07",
+    "count": 4,
+    "score": 70.6
   },
   "open-metadata/OpenMetadata": {
     "first_notified": "2026-04-28",
@@ -451,9 +451,9 @@
   },
   "1jehuang/jcode": {
     "first_notified": "2026-05-01",
-    "last_notified": "2026-05-01",
-    "count": 1,
-    "score": 60.0
+    "last_notified": "2026-05-07",
+    "count": 2,
+    "score": 77.1
   },
   "fspecii/ace-step-ui": {
     "first_notified": "2026-05-02",
@@ -463,9 +463,9 @@
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-06",
-    "count": 2,
-    "score": 66.4
+    "last_notified": "2026-05-07",
+    "count": 3,
+    "score": 77.2
   },
   "ZhuLinsen/daily_stock_analysis": {
     "first_notified": "2026-05-02",
@@ -532,5 +532,17 @@
     "last_notified": "2026-05-06",
     "count": 1,
     "score": 59.1
+  },
+  "TauricResearch/TradingAgents": {
+    "first_notified": "2026-05-07",
+    "last_notified": "2026-05-07",
+    "count": 1,
+    "score": 63.1
+  },
+  "soxoj/maigret": {
+    "first_notified": "2026-05-07",
+    "last_notified": "2026-05-07",
+    "count": 1,
+    "score": 60.4
   }
 }
