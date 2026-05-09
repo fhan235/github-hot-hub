@@ -23,30 +23,6 @@
     "count": 2,
     "score": 69.5
   },
-  "dmtrKovalenko/fff.nvim": {
-    "first_notified": "2026-04-08",
-    "last_notified": "2026-04-08",
-    "count": 1,
-    "score": 72.8
-  },
-  "xandemon/developer-icons": {
-    "first_notified": "2026-04-08",
-    "last_notified": "2026-04-08",
-    "count": 1,
-    "score": 66.8
-  },
-  "punitarani/fli": {
-    "first_notified": "2026-04-08",
-    "last_notified": "2026-04-08",
-    "count": 1,
-    "score": 64.9
-  },
-  "masterking32/MasterDnsVPN": {
-    "first_notified": "2026-04-08",
-    "last_notified": "2026-04-08",
-    "count": 1,
-    "score": 64.2
-  },
   "atilaahmettaner/tradingview-mcp": {
     "first_notified": "2026-04-09",
     "last_notified": "2026-04-09",
@@ -367,9 +343,9 @@
   },
   "mksglu/context-mode": {
     "first_notified": "2026-04-25",
-    "last_notified": "2026-05-04",
-    "count": 3,
-    "score": 65.1
+    "last_notified": "2026-05-09",
+    "count": 4,
+    "score": 58.2
   },
   "tractorjuice/arc-kit": {
     "first_notified": "2026-04-26",
@@ -445,9 +421,9 @@
   },
   "fspecii/ace-step-ui": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-02",
-    "count": 1,
-    "score": 72.0
+    "last_notified": "2026-05-09",
+    "count": 2,
+    "score": 61.2
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
@@ -550,5 +526,23 @@
     "last_notified": "2026-05-08",
     "count": 1,
     "score": 64.1
+  },
+  "anthropics/financial-services": {
+    "first_notified": "2026-05-09",
+    "last_notified": "2026-05-09",
+    "count": 1,
+    "score": 64.3
+  },
+  "docusealco/docuseal": {
+    "first_notified": "2026-05-09",
+    "last_notified": "2026-05-09",
+    "count": 1,
+    "score": 60.9
+  },
+  "CloakHQ/CloakBrowser": {
+    "first_notified": "2026-05-09",
+    "last_notified": "2026-05-09",
+    "count": 1,
+    "score": 59.2
   }
 }
