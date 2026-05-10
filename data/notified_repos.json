@@ -23,24 +23,6 @@
     "count": 2,
     "score": 69.5
   },
-  "atilaahmettaner/tradingview-mcp": {
-    "first_notified": "2026-04-09",
-    "last_notified": "2026-04-09",
-    "count": 1,
-    "score": 63.3
-  },
-  "affaan-m/everything-claude-code": {
-    "first_notified": "2026-04-09",
-    "last_notified": "2026-04-09",
-    "count": 1,
-    "score": 61.7
-  },
-  "onyx-dot-app/onyx": {
-    "first_notified": "2026-04-09",
-    "last_notified": "2026-04-09",
-    "count": 1,
-    "score": 60.4
-  },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-04-09",
     "last_notified": "2026-04-25",
@@ -205,9 +187,9 @@
   },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-05-06",
-    "count": 4,
-    "score": 66.9
+    "last_notified": "2026-05-10",
+    "count": 5,
+    "score": 60.8
   },
   "EvoMap/evolver": {
     "first_notified": "2026-04-17",
@@ -544,5 +526,29 @@
     "last_notified": "2026-05-09",
     "count": 1,
     "score": 59.2
+  },
+  "tinyhumansai/openhuman": {
+    "first_notified": "2026-05-10",
+    "last_notified": "2026-05-10",
+    "count": 1,
+    "score": 59.2
+  },
+  "czlonkowski/n8n-mcp": {
+    "first_notified": "2026-05-10",
+    "last_notified": "2026-05-10",
+    "count": 1,
+    "score": 58.5
+  },
+  "millionco/react-doctor": {
+    "first_notified": "2026-05-10",
+    "last_notified": "2026-05-10",
+    "count": 1,
+    "score": 58.4
+  },
+  "thesysdev/openui": {
+    "first_notified": "2026-05-10",
+    "last_notified": "2026-05-10",
+    "count": 1,
+    "score": 56.1
   }
 }
