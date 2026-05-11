@@ -47,23 +47,11 @@
     "count": 5,
     "score": 60.9
   },
-  "vectorize-io/hindsight": {
-    "first_notified": "2026-04-10",
-    "last_notified": "2026-04-10",
-    "count": 1,
-    "score": 64.3
-  },
   "NVIDIA/personaplex": {
     "first_notified": "2026-04-10",
     "last_notified": "2026-04-14",
     "count": 2,
     "score": 58.7
-  },
-  "google-ai-edge/gallery": {
-    "first_notified": "2026-04-10",
-    "last_notified": "2026-04-10",
-    "count": 1,
-    "score": 59.3
   },
   "TheCraigHewitt/seomachine": {
     "first_notified": "2026-04-11",
@@ -175,9 +163,9 @@
   },
   "z-lab/dflash": {
     "first_notified": "2026-04-16",
-    "last_notified": "2026-04-20",
-    "count": 2,
-    "score": 64.6
+    "last_notified": "2026-05-11",
+    "count": 3,
+    "score": 72.0
   },
   "OpenBMB/VoxCPM": {
     "first_notified": "2026-04-17",
@@ -397,9 +385,9 @@
   },
   "1jehuang/jcode": {
     "first_notified": "2026-05-01",
-    "last_notified": "2026-05-07",
-    "count": 2,
-    "score": 77.1
+    "last_notified": "2026-05-11",
+    "count": 3,
+    "score": 68.8
   },
   "fspecii/ace-step-ui": {
     "first_notified": "2026-05-02",
@@ -409,9 +397,9 @@
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-07",
-    "count": 3,
-    "score": 77.2
+    "last_notified": "2026-05-11",
+    "count": 4,
+    "score": 83.4
   },
   "ZhuLinsen/daily_stock_analysis": {
     "first_notified": "2026-05-02",
@@ -550,5 +538,17 @@
     "last_notified": "2026-05-10",
     "count": 1,
     "score": 56.1
+  },
+  "romainsimon/paperasse": {
+    "first_notified": "2026-05-11",
+    "last_notified": "2026-05-11",
+    "count": 1,
+    "score": 68.5
+  },
+  "withastro/flue": {
+    "first_notified": "2026-05-11",
+    "last_notified": "2026-05-11",
+    "count": 1,
+    "score": 65.6
   }
 }
