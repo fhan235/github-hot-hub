@@ -1,22 +1,4 @@
 {
-  "Yeachan-Heo/oh-my-codex": {
-    "first_notified": "2026-04-07",
-    "last_notified": "2026-04-12",
-    "count": 2,
-    "score": 74.7
-  },
-  "Yeachan-Heo/oh-my-claudecode": {
-    "first_notified": "2026-04-07",
-    "last_notified": "2026-04-12",
-    "count": 2,
-    "score": 65.9
-  },
-  "siddharthvaddem/openscreen": {
-    "first_notified": "2026-04-08",
-    "last_notified": "2026-04-12",
-    "count": 2,
-    "score": 69.5
-  },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-04-09",
     "last_notified": "2026-04-25",
@@ -64,12 +46,6 @@
     "last_notified": "2026-05-02",
     "count": 2,
     "score": 59.2
-  },
-  "aloshdenny/reverse-SynthID": {
-    "first_notified": "2026-04-12",
-    "last_notified": "2026-04-12",
-    "count": 1,
-    "score": 60.5
   },
   "rowboatlabs/rowboat": {
     "first_notified": "2026-04-13",
@@ -421,9 +397,9 @@
   },
   "raullenchai/Rapid-MLX": {
     "first_notified": "2026-05-05",
-    "last_notified": "2026-05-05",
-    "count": 1,
-    "score": 54.7
+    "last_notified": "2026-05-13",
+    "count": 2,
+    "score": 68.2
   },
   "lukilabs/craft-agents-oss": {
     "first_notified": "2026-05-05",
@@ -469,9 +445,9 @@
   },
   "ruvnet/ruflo": {
     "first_notified": "2026-05-08",
-    "last_notified": "2026-05-08",
-    "count": 1,
-    "score": 67.0
+    "last_notified": "2026-05-13",
+    "count": 2,
+    "score": 59.6
   },
   "openai/symphony": {
     "first_notified": "2026-05-08",
@@ -481,9 +457,9 @@
   },
   "anthropics/financial-services": {
     "first_notified": "2026-05-09",
-    "last_notified": "2026-05-09",
-    "count": 1,
-    "score": 64.3
+    "last_notified": "2026-05-13",
+    "count": 2,
+    "score": 82.5
   },
   "docusealco/docuseal": {
     "first_notified": "2026-05-09",
@@ -544,5 +520,17 @@
     "last_notified": "2026-05-12",
     "count": 1,
     "score": 62.5
+  },
+  "masterking32/MasterDnsVPN": {
+    "first_notified": "2026-05-13",
+    "last_notified": "2026-05-13",
+    "count": 1,
+    "score": 72.1
+  },
+  "playcanvas/supersplat": {
+    "first_notified": "2026-05-13",
+    "last_notified": "2026-05-13",
+    "count": 1,
+    "score": 63.2
   }
 }
