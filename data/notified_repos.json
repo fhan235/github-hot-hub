@@ -11,23 +11,11 @@
     "count": 2,
     "score": 57.3
   },
-  "google-ai-edge/LiteRT-LM": {
-    "first_notified": "2026-04-10",
-    "last_notified": "2026-04-14",
-    "count": 2,
-    "score": 70.7
-  },
   "multica-ai/multica": {
     "first_notified": "2026-04-10",
     "last_notified": "2026-04-28",
     "count": 5,
     "score": 60.9
-  },
-  "NVIDIA/personaplex": {
-    "first_notified": "2026-04-10",
-    "last_notified": "2026-04-14",
-    "count": 2,
-    "score": 58.7
   },
   "TheCraigHewitt/seomachine": {
     "first_notified": "2026-04-11",
@@ -53,23 +41,11 @@
     "count": 7,
     "score": 62.6
   },
-  "HKUDS/DeepTutor": {
-    "first_notified": "2026-04-14",
-    "last_notified": "2026-04-14",
-    "count": 1,
-    "score": 69.5
-  },
   "Anil-matcha/Open-Generative-AI": {
     "first_notified": "2026-04-14",
     "last_notified": "2026-05-03",
     "count": 3,
     "score": 58.7
-  },
-  "RhysSullivan/executor": {
-    "first_notified": "2026-04-14",
-    "last_notified": "2026-04-14",
-    "count": 1,
-    "score": 58.9
   },
   "sivchari/kumo": {
     "first_notified": "2026-04-15",
@@ -115,9 +91,9 @@
   },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
-    "last_notified": "2026-05-10",
-    "count": 5,
-    "score": 60.8
+    "last_notified": "2026-05-15",
+    "count": 6,
+    "score": 68.9
   },
   "EvoMap/evolver": {
     "first_notified": "2026-04-17",
@@ -337,9 +313,9 @@
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-11",
-    "count": 4,
-    "score": 83.4
+    "last_notified": "2026-05-15",
+    "count": 5,
+    "score": 73.6
   },
   "ZhuLinsen/daily_stock_analysis": {
     "first_notified": "2026-05-02",
@@ -538,5 +514,23 @@
     "last_notified": "2026-05-14",
     "count": 1,
     "score": 61.1
+  },
+  "decolua/9router": {
+    "first_notified": "2026-05-15",
+    "last_notified": "2026-05-15",
+    "count": 1,
+    "score": 77.9
+  },
+  "datawhalechina/easy-vibe": {
+    "first_notified": "2026-05-15",
+    "last_notified": "2026-05-15",
+    "count": 1,
+    "score": 63.2
+  },
+  "ton-blockchain/acton": {
+    "first_notified": "2026-05-15",
+    "last_notified": "2026-05-15",
+    "count": 1,
+    "score": 61.9
   }
 }
