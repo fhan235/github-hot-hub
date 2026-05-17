@@ -41,12 +41,6 @@
     "count": 5,
     "score": 64.3
   },
-  "shiyu-coder/Kronos": {
-    "first_notified": "2026-04-16",
-    "last_notified": "2026-04-16",
-    "count": 1,
-    "score": 70.0
-  },
   "vercel-labs/open-agents": {
     "first_notified": "2026-04-16",
     "last_notified": "2026-04-23",
@@ -229,9 +223,9 @@
   },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
-    "last_notified": "2026-05-12",
-    "count": 5,
-    "score": 63.0
+    "last_notified": "2026-05-17",
+    "count": 6,
+    "score": 64.9
   },
   "open-metadata/OpenMetadata": {
     "first_notified": "2026-04-28",
@@ -391,9 +385,9 @@
   },
   "anthropics/financial-services": {
     "first_notified": "2026-05-09",
-    "last_notified": "2026-05-13",
-    "count": 2,
-    "score": 82.5
+    "last_notified": "2026-05-17",
+    "count": 3,
+    "score": 69.0
   },
   "docusealco/docuseal": {
     "first_notified": "2026-05-09",
@@ -403,9 +397,9 @@
   },
   "CloakHQ/CloakBrowser": {
     "first_notified": "2026-05-09",
-    "last_notified": "2026-05-09",
-    "count": 1,
-    "score": 59.2
+    "last_notified": "2026-05-17",
+    "count": 2,
+    "score": 82.6
   },
   "tinyhumansai/openhuman": {
     "first_notified": "2026-05-10",
@@ -514,5 +508,17 @@
     "last_notified": "2026-05-16",
     "count": 1,
     "score": 65.8
+  },
+  "rohitg00/agentmemory": {
+    "first_notified": "2026-05-17",
+    "last_notified": "2026-05-17",
+    "count": 1,
+    "score": 81.5
+  },
+  "yikart/AiToEarn": {
+    "first_notified": "2026-05-17",
+    "last_notified": "2026-05-17",
+    "count": 1,
+    "score": 65.5
   }
 }
