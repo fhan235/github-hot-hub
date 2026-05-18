@@ -53,12 +53,6 @@
     "count": 3,
     "score": 72.0
   },
-  "OpenBMB/VoxCPM": {
-    "first_notified": "2026-04-17",
-    "last_notified": "2026-04-17",
-    "count": 1,
-    "score": 80.4
-  },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
     "last_notified": "2026-05-15",
@@ -241,9 +235,9 @@
   },
   "AIDC-AI/Pixelle-Video": {
     "first_notified": "2026-04-29",
-    "last_notified": "2026-05-12",
-    "count": 4,
-    "score": 65.3
+    "last_notified": "2026-05-18",
+    "count": 5,
+    "score": 58.6
   },
   "microsoft/markitdown": {
     "first_notified": "2026-04-29",
@@ -295,9 +289,9 @@
   },
   "farion1231/cc-switch": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-02",
-    "count": 1,
-    "score": 57.9
+    "last_notified": "2026-05-18",
+    "count": 2,
+    "score": 58.0
   },
   "caamer20/Telegram-Drive": {
     "first_notified": "2026-05-03",
@@ -469,9 +463,9 @@
   },
   "Imbad0202/academic-research-skills": {
     "first_notified": "2026-05-14",
-    "last_notified": "2026-05-14",
-    "count": 1,
-    "score": 70.5
+    "last_notified": "2026-05-18",
+    "count": 2,
+    "score": 71.4
   },
   "HKUDS/ViMax": {
     "first_notified": "2026-05-14",
@@ -520,5 +514,17 @@
     "last_notified": "2026-05-17",
     "count": 1,
     "score": 65.5
+  },
+  "garrytan/gstack": {
+    "first_notified": "2026-05-18",
+    "last_notified": "2026-05-18",
+    "count": 1,
+    "score": 65.9
+  },
+  "modem-dev/hunk": {
+    "first_notified": "2026-05-18",
+    "last_notified": "2026-05-18",
+    "count": 1,
+    "score": 64.0
   }
 }
