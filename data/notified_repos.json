@@ -71,35 +71,11 @@
     "count": 2,
     "score": 68.9
   },
-  "multica-ai/andrej-karpathy-skills": {
-    "first_notified": "2026-04-19",
-    "last_notified": "2026-04-19",
-    "count": 1,
-    "score": 86.0
-  },
   "thunderbird/thunderbolt": {
     "first_notified": "2026-04-19",
     "last_notified": "2026-04-26",
     "count": 2,
     "score": 77.6
-  },
-  "OpenMOSS/MOSS-TTS": {
-    "first_notified": "2026-04-19",
-    "last_notified": "2026-04-19",
-    "count": 1,
-    "score": 58.1
-  },
-  "mayocream/koharu": {
-    "first_notified": "2026-04-19",
-    "last_notified": "2026-04-19",
-    "count": 1,
-    "score": 57.9
-  },
-  "hotheadhacker/no-as-a-service": {
-    "first_notified": "2026-04-19",
-    "last_notified": "2026-04-19",
-    "count": 1,
-    "score": 57.1
   },
   "SimoneAvogadro/android-reverse-engineering-skill": {
     "first_notified": "2026-04-20",
@@ -520,5 +496,35 @@
     "last_notified": "2026-05-19",
     "count": 1,
     "score": 60.2
+  },
+  "joeseesun/qiaomu-anything-to-notebooklm": {
+    "first_notified": "2026-05-20",
+    "last_notified": "2026-05-20",
+    "count": 1,
+    "score": 73.5
+  },
+  "NVIDIA-AI-Blueprints/video-search-and-summarization": {
+    "first_notified": "2026-05-20",
+    "last_notified": "2026-05-20",
+    "count": 1,
+    "score": 70.1
+  },
+  "BenedictKing/ccx": {
+    "first_notified": "2026-05-20",
+    "last_notified": "2026-05-20",
+    "count": 1,
+    "score": 69.6
+  },
+  "truelockmc/streambert": {
+    "first_notified": "2026-05-20",
+    "last_notified": "2026-05-20",
+    "count": 1,
+    "score": 65.0
+  },
+  "silvertakana/worldwideview": {
+    "first_notified": "2026-05-20",
+    "last_notified": "2026-05-20",
+    "count": 1,
+    "score": 64.7
   }
 }
