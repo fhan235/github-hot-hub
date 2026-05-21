@@ -175,9 +175,9 @@
   },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
-    "last_notified": "2026-05-17",
-    "count": 6,
-    "score": 64.9
+    "last_notified": "2026-05-21",
+    "count": 7,
+    "score": 63.5
   },
   "open-metadata/OpenMetadata": {
     "first_notified": "2026-04-28",
@@ -337,9 +337,9 @@
   },
   "anthropics/financial-services": {
     "first_notified": "2026-05-09",
-    "last_notified": "2026-05-17",
-    "count": 3,
-    "score": 69.0
+    "last_notified": "2026-05-21",
+    "count": 4,
+    "score": 60.1
   },
   "docusealco/docuseal": {
     "first_notified": "2026-05-09",
@@ -349,9 +349,9 @@
   },
   "CloakHQ/CloakBrowser": {
     "first_notified": "2026-05-09",
-    "last_notified": "2026-05-17",
-    "count": 2,
-    "score": 82.6
+    "last_notified": "2026-05-21",
+    "count": 3,
+    "score": 79.1
   },
   "tinyhumansai/openhuman": {
     "first_notified": "2026-05-10",
@@ -526,5 +526,17 @@
     "last_notified": "2026-05-20",
     "count": 1,
     "score": 64.7
+  },
+  "stablyai/orca": {
+    "first_notified": "2026-05-21",
+    "last_notified": "2026-05-21",
+    "count": 1,
+    "score": 62.4
+  },
+  "pranshuparmar/witr": {
+    "first_notified": "2026-05-21",
+    "last_notified": "2026-05-21",
+    "count": 1,
+    "score": 60.3
   }
 }
