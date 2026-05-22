@@ -89,12 +89,6 @@
     "count": 2,
     "score": 58.5
   },
-  "pascalorg/editor": {
-    "first_notified": "2026-04-21",
-    "last_notified": "2026-04-21",
-    "count": 1,
-    "score": 70.1
-  },
   "jamiepine/voicebox": {
     "first_notified": "2026-04-21",
     "last_notified": "2026-04-25",
@@ -397,9 +391,9 @@
   },
   "colbymchenry/codegraph": {
     "first_notified": "2026-05-12",
-    "last_notified": "2026-05-16",
-    "count": 2,
-    "score": 60.8
+    "last_notified": "2026-05-22",
+    "count": 3,
+    "score": 67.2
   },
   "masterking32/MasterDnsVPN": {
     "first_notified": "2026-05-13",
@@ -433,9 +427,9 @@
   },
   "supertone-inc/supertonic": {
     "first_notified": "2026-05-14",
-    "last_notified": "2026-05-14",
-    "count": 1,
-    "score": 61.1
+    "last_notified": "2026-05-22",
+    "count": 2,
+    "score": 78.1
   },
   "decolua/9router": {
     "first_notified": "2026-05-15",
@@ -445,9 +439,9 @@
   },
   "datawhalechina/easy-vibe": {
     "first_notified": "2026-05-15",
-    "last_notified": "2026-05-15",
-    "count": 1,
-    "score": 63.2
+    "last_notified": "2026-05-22",
+    "count": 2,
+    "score": 59.6
   },
   "ton-blockchain/acton": {
     "first_notified": "2026-05-15",
@@ -463,9 +457,9 @@
   },
   "rohitg00/agentmemory": {
     "first_notified": "2026-05-17",
-    "last_notified": "2026-05-17",
-    "count": 1,
-    "score": 81.5
+    "last_notified": "2026-05-22",
+    "count": 2,
+    "score": 76.7
   },
   "yikart/AiToEarn": {
     "first_notified": "2026-05-17",
@@ -538,5 +532,11 @@
     "last_notified": "2026-05-21",
     "count": 1,
     "score": 60.3
+  },
+  "affaan-m/ECC": {
+    "first_notified": "2026-05-22",
+    "last_notified": "2026-05-22",
+    "count": 1,
+    "score": 63.3
   }
 }
