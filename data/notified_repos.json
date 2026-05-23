@@ -65,12 +65,6 @@
     "count": 4,
     "score": 64.6
   },
-  "steipete/wacli": {
-    "first_notified": "2026-04-18",
-    "last_notified": "2026-04-22",
-    "count": 2,
-    "score": 68.9
-  },
   "thunderbird/thunderbolt": {
     "first_notified": "2026-04-19",
     "last_notified": "2026-04-26",
@@ -106,12 +100,6 @@
     "last_notified": "2026-05-05",
     "count": 4,
     "score": 53.5
-  },
-  "BasedHardware/omi": {
-    "first_notified": "2026-04-22",
-    "last_notified": "2026-04-22",
-    "count": 1,
-    "score": 64.2
   },
   "pbakaus/impeccable": {
     "first_notified": "2026-04-23",
@@ -349,9 +337,9 @@
   },
   "tinyhumansai/openhuman": {
     "first_notified": "2026-05-10",
-    "last_notified": "2026-05-19",
-    "count": 3,
-    "score": 63.9
+    "last_notified": "2026-05-23",
+    "count": 4,
+    "score": 80.9
   },
   "czlonkowski/n8n-mcp": {
     "first_notified": "2026-05-10",
@@ -433,9 +421,9 @@
   },
   "decolua/9router": {
     "first_notified": "2026-05-15",
-    "last_notified": "2026-05-19",
-    "count": 2,
-    "score": 66.7
+    "last_notified": "2026-05-23",
+    "count": 3,
+    "score": 59.5
   },
   "datawhalechina/easy-vibe": {
     "first_notified": "2026-05-15",
@@ -487,9 +475,9 @@
   },
   "tech-leads-club/agent-skills": {
     "first_notified": "2026-05-19",
-    "last_notified": "2026-05-19",
-    "count": 1,
-    "score": 60.2
+    "last_notified": "2026-05-23",
+    "count": 2,
+    "score": 70.0
   },
   "joeseesun/qiaomu-anything-to-notebooklm": {
     "first_notified": "2026-05-20",
@@ -538,5 +526,17 @@
     "last_notified": "2026-05-22",
     "count": 1,
     "score": 63.3
+  },
+  "dograh-hq/dograh": {
+    "first_notified": "2026-05-23",
+    "last_notified": "2026-05-23",
+    "count": 1,
+    "score": 75.9
+  },
+  "vasu-devs/JustHireMe": {
+    "first_notified": "2026-05-23",
+    "last_notified": "2026-05-23",
+    "count": 1,
+    "score": 60.3
   }
 }
