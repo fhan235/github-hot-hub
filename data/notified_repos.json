@@ -35,12 +35,6 @@
     "count": 5,
     "score": 64.3
   },
-  "vercel-labs/open-agents": {
-    "first_notified": "2026-04-16",
-    "last_notified": "2026-04-23",
-    "count": 2,
-    "score": 72.9
-  },
   "z-lab/dflash": {
     "first_notified": "2026-04-16",
     "last_notified": "2026-05-11",
@@ -106,18 +100,6 @@
     "last_notified": "2026-05-05",
     "count": 2,
     "score": 53.7
-  },
-  "mnfst/manifest": {
-    "first_notified": "2026-04-23",
-    "last_notified": "2026-04-23",
-    "count": 1,
-    "score": 59.8
-  },
-  "ChromeDevTools/chrome-devtools-mcp": {
-    "first_notified": "2026-04-23",
-    "last_notified": "2026-04-23",
-    "count": 1,
-    "score": 57.7
   },
   "Alishahryar1/free-claude-code": {
     "first_notified": "2026-04-24",
@@ -403,15 +385,15 @@
   },
   "Imbad0202/academic-research-skills": {
     "first_notified": "2026-05-14",
-    "last_notified": "2026-05-18",
-    "count": 2,
-    "score": 71.4
+    "last_notified": "2026-05-24",
+    "count": 3,
+    "score": 82.1
   },
   "HKUDS/ViMax": {
     "first_notified": "2026-05-14",
-    "last_notified": "2026-05-14",
-    "count": 1,
-    "score": 64.1
+    "last_notified": "2026-05-24",
+    "count": 2,
+    "score": 66.5
   },
   "supertone-inc/supertonic": {
     "first_notified": "2026-05-14",
@@ -481,9 +463,9 @@
   },
   "joeseesun/qiaomu-anything-to-notebooklm": {
     "first_notified": "2026-05-20",
-    "last_notified": "2026-05-20",
-    "count": 1,
-    "score": 73.5
+    "last_notified": "2026-05-24",
+    "count": 2,
+    "score": 61.8
   },
   "NVIDIA-AI-Blueprints/video-search-and-summarization": {
     "first_notified": "2026-05-20",
@@ -538,5 +520,17 @@
     "last_notified": "2026-05-23",
     "count": 1,
     "score": 60.3
+  },
+  "multica-ai/andrej-karpathy-skills": {
+    "first_notified": "2026-05-24",
+    "last_notified": "2026-05-24",
+    "count": 1,
+    "score": 60.4
+  },
+  "wechat-article/wechat-article-exporter": {
+    "first_notified": "2026-05-24",
+    "last_notified": "2026-05-24",
+    "count": 1,
+    "score": 60.0
   }
 }
