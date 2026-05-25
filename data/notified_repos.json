@@ -65,18 +65,6 @@
     "count": 2,
     "score": 77.6
   },
-  "SimoneAvogadro/android-reverse-engineering-skill": {
-    "first_notified": "2026-04-20",
-    "last_notified": "2026-04-24",
-    "count": 2,
-    "score": 80.3
-  },
-  "thedotmack/claude-mem": {
-    "first_notified": "2026-04-20",
-    "last_notified": "2026-04-24",
-    "count": 2,
-    "score": 58.5
-  },
   "jamiepine/voicebox": {
     "first_notified": "2026-04-21",
     "last_notified": "2026-04-25",
@@ -313,9 +301,9 @@
   },
   "CloakHQ/CloakBrowser": {
     "first_notified": "2026-05-09",
-    "last_notified": "2026-05-21",
-    "count": 3,
-    "score": 79.1
+    "last_notified": "2026-05-25",
+    "count": 4,
+    "score": 69.4
   },
   "tinyhumansai/openhuman": {
     "first_notified": "2026-05-10",
@@ -481,9 +469,9 @@
   },
   "truelockmc/streambert": {
     "first_notified": "2026-05-20",
-    "last_notified": "2026-05-20",
-    "count": 1,
-    "score": 65.0
+    "last_notified": "2026-05-25",
+    "count": 2,
+    "score": 79.5
   },
   "silvertakana/worldwideview": {
     "first_notified": "2026-05-20",
@@ -532,5 +520,23 @@
     "last_notified": "2026-05-24",
     "count": 1,
     "score": 60.0
+  },
+  "aryandas2911/DailyForge": {
+    "first_notified": "2026-05-25",
+    "last_notified": "2026-05-25",
+    "count": 1,
+    "score": 63.1
+  },
+  "NVlabs/Sana": {
+    "first_notified": "2026-05-25",
+    "last_notified": "2026-05-25",
+    "count": 1,
+    "score": 61.4
+  },
+  "Lum1104/Understand-Anything": {
+    "first_notified": "2026-05-25",
+    "last_notified": "2026-05-25",
+    "count": 1,
+    "score": 59.9
   }
 }
