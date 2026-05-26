@@ -1,10 +1,4 @@
 {
-  "NousResearch/hermes-agent": {
-    "first_notified": "2026-04-09",
-    "last_notified": "2026-04-25",
-    "count": 5,
-    "score": 62.3
-  },
   "multica-ai/multica": {
     "first_notified": "2026-04-10",
     "last_notified": "2026-04-28",
@@ -64,12 +58,6 @@
     "last_notified": "2026-04-26",
     "count": 2,
     "score": 77.6
-  },
-  "jamiepine/voicebox": {
-    "first_notified": "2026-04-21",
-    "last_notified": "2026-04-25",
-    "count": 2,
-    "score": 59.2
   },
   "Fincept-Corporation/FinceptTerminal": {
     "first_notified": "2026-04-21",
@@ -415,9 +403,9 @@
   },
   "rohitg00/agentmemory": {
     "first_notified": "2026-05-17",
-    "last_notified": "2026-05-22",
-    "count": 2,
-    "score": 76.7
+    "last_notified": "2026-05-26",
+    "count": 3,
+    "score": 69.6
   },
   "yikart/AiToEarn": {
     "first_notified": "2026-05-17",
@@ -538,5 +526,29 @@
     "last_notified": "2026-05-25",
     "count": 1,
     "score": 59.9
+  },
+  "anthropics/claude-plugins-official": {
+    "first_notified": "2026-05-26",
+    "last_notified": "2026-05-26",
+    "count": 1,
+    "score": 67.8
+  },
+  "can1357/oh-my-pi": {
+    "first_notified": "2026-05-26",
+    "last_notified": "2026-05-26",
+    "count": 1,
+    "score": 65.9
+  },
+  "cursor/plugins": {
+    "first_notified": "2026-05-26",
+    "last_notified": "2026-05-26",
+    "count": 1,
+    "score": 60.1
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+    "first_notified": "2026-05-26",
+    "last_notified": "2026-05-26",
+    "count": 1,
+    "score": 59.7
   }
 }
