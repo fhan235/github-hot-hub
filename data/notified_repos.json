@@ -41,23 +41,11 @@
     "count": 6,
     "score": 68.9
   },
-  "EvoMap/evolver": {
-    "first_notified": "2026-04-17",
-    "last_notified": "2026-04-26",
-    "count": 3,
-    "score": 63.5
-  },
   "lsdefine/GenericAgent": {
     "first_notified": "2026-04-17",
     "last_notified": "2026-04-29",
     "count": 4,
     "score": 64.6
-  },
-  "thunderbird/thunderbolt": {
-    "first_notified": "2026-04-19",
-    "last_notified": "2026-04-26",
-    "count": 2,
-    "score": 77.6
   },
   "Fincept-Corporation/FinceptTerminal": {
     "first_notified": "2026-04-21",
@@ -94,12 +82,6 @@
     "last_notified": "2026-05-09",
     "count": 4,
     "score": 58.2
-  },
-  "tractorjuice/arc-kit": {
-    "first_notified": "2026-04-26",
-    "last_notified": "2026-04-26",
-    "count": 1,
-    "score": 72.7
   },
   "zilliztech/claude-context": {
     "first_notified": "2026-04-27",
@@ -295,9 +277,9 @@
   },
   "tinyhumansai/openhuman": {
     "first_notified": "2026-05-10",
-    "last_notified": "2026-05-23",
-    "count": 4,
-    "score": 80.9
+    "last_notified": "2026-05-27",
+    "count": 5,
+    "score": 68.4
   },
   "czlonkowski/n8n-mcp": {
     "first_notified": "2026-05-10",
@@ -427,9 +409,9 @@
   },
   "rmyndharis/OpenWA": {
     "first_notified": "2026-05-19",
-    "last_notified": "2026-05-19",
-    "count": 1,
-    "score": 74.8
+    "last_notified": "2026-05-27",
+    "count": 2,
+    "score": 74.1
   },
   "tech-leads-club/agent-skills": {
     "first_notified": "2026-05-19",
@@ -550,5 +532,23 @@
     "last_notified": "2026-05-26",
     "count": 1,
     "score": 59.7
+  },
+  "dotnet/skills": {
+    "first_notified": "2026-05-27",
+    "last_notified": "2026-05-27",
+    "count": 1,
+    "score": 70.8
+  },
+  "Chachamaru127/claude-code-harness": {
+    "first_notified": "2026-05-27",
+    "last_notified": "2026-05-27",
+    "count": 1,
+    "score": 67.7
+  },
+  "zakirullin/files.md": {
+    "first_notified": "2026-05-27",
+    "last_notified": "2026-05-27",
+    "count": 1,
+    "score": 64.5
   }
 }
