@@ -83,18 +83,6 @@
     "count": 4,
     "score": 58.2
   },
-  "zilliztech/claude-context": {
-    "first_notified": "2026-04-27",
-    "last_notified": "2026-04-27",
-    "count": 1,
-    "score": 68.0
-  },
-  "rtk-ai/rtk": {
-    "first_notified": "2026-04-27",
-    "last_notified": "2026-04-27",
-    "count": 1,
-    "score": 60.6
-  },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
     "last_notified": "2026-05-21",
@@ -319,9 +307,9 @@
   },
   "colbymchenry/codegraph": {
     "first_notified": "2026-05-12",
-    "last_notified": "2026-05-22",
-    "count": 3,
-    "score": 67.2
+    "last_notified": "2026-05-28",
+    "count": 4,
+    "score": 81.7
   },
   "masterking32/MasterDnsVPN": {
     "first_notified": "2026-05-13",
@@ -343,9 +331,9 @@
   },
   "Imbad0202/academic-research-skills": {
     "first_notified": "2026-05-14",
-    "last_notified": "2026-05-24",
-    "count": 3,
-    "score": 82.1
+    "last_notified": "2026-05-28",
+    "count": 4,
+    "score": 71.0
   },
   "HKUDS/ViMax": {
     "first_notified": "2026-05-14",
@@ -433,9 +421,9 @@
   },
   "BenedictKing/ccx": {
     "first_notified": "2026-05-20",
-    "last_notified": "2026-05-20",
-    "count": 1,
-    "score": 69.6
+    "last_notified": "2026-05-28",
+    "count": 2,
+    "score": 63.8
   },
   "truelockmc/streambert": {
     "first_notified": "2026-05-20",
@@ -550,5 +538,17 @@
     "last_notified": "2026-05-27",
     "count": 1,
     "score": 64.5
+  },
+  "RyanCodrai/turbovec": {
+    "first_notified": "2026-05-28",
+    "last_notified": "2026-05-28",
+    "count": 1,
+    "score": 78.1
+  },
+  "ogulcancelik/herdr": {
+    "first_notified": "2026-05-28",
+    "last_notified": "2026-05-28",
+    "count": 1,
+    "score": 67.0
   }
 }
