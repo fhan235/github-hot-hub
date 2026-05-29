@@ -1,10 +1,4 @@
 {
-  "multica-ai/multica": {
-    "first_notified": "2026-04-10",
-    "last_notified": "2026-04-28",
-    "count": 5,
-    "score": 60.9
-  },
   "abhigyanpatwari/GitNexus": {
     "first_notified": "2026-04-12",
     "last_notified": "2026-05-02",
@@ -88,18 +82,6 @@
     "last_notified": "2026-05-21",
     "count": 7,
     "score": 63.5
-  },
-  "open-metadata/OpenMetadata": {
-    "first_notified": "2026-04-28",
-    "last_notified": "2026-04-28",
-    "count": 1,
-    "score": 62.3
-  },
-  "razvandimescu/numa": {
-    "first_notified": "2026-04-28",
-    "last_notified": "2026-04-28",
-    "count": 1,
-    "score": 61.1
   },
   "AIDC-AI/Pixelle-Video": {
     "first_notified": "2026-04-29",
@@ -457,9 +439,9 @@
   },
   "dograh-hq/dograh": {
     "first_notified": "2026-05-23",
-    "last_notified": "2026-05-23",
-    "count": 1,
-    "score": 75.9
+    "last_notified": "2026-05-29",
+    "count": 2,
+    "score": 59.2
   },
   "vasu-devs/JustHireMe": {
     "first_notified": "2026-05-23",
@@ -517,9 +499,9 @@
   },
   "rohitg00/ai-engineering-from-scratch": {
     "first_notified": "2026-05-26",
-    "last_notified": "2026-05-26",
-    "count": 1,
-    "score": 59.7
+    "last_notified": "2026-05-29",
+    "count": 2,
+    "score": 81.8
   },
   "dotnet/skills": {
     "first_notified": "2026-05-27",
@@ -550,5 +532,23 @@
     "last_notified": "2026-05-28",
     "count": 1,
     "score": 67.0
+  },
+  "microsoft/agent-governance-toolkit": {
+    "first_notified": "2026-05-29",
+    "last_notified": "2026-05-29",
+    "count": 1,
+    "score": 69.2
+  },
+  "anthropics/knowledge-work-plugins": {
+    "first_notified": "2026-05-29",
+    "last_notified": "2026-05-29",
+    "count": 1,
+    "score": 66.2
+  },
+  "NVlabs/LongLive": {
+    "first_notified": "2026-05-29",
+    "last_notified": "2026-05-29",
+    "count": 1,
+    "score": 61.9
   }
 }
