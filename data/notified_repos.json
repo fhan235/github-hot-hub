@@ -35,12 +35,6 @@
     "count": 6,
     "score": 68.9
   },
-  "lsdefine/GenericAgent": {
-    "first_notified": "2026-04-17",
-    "last_notified": "2026-04-29",
-    "count": 4,
-    "score": 64.6
-  },
   "Fincept-Corporation/FinceptTerminal": {
     "first_notified": "2026-04-21",
     "last_notified": "2026-05-01",
@@ -88,12 +82,6 @@
     "last_notified": "2026-05-18",
     "count": 5,
     "score": 58.6
-  },
-  "microsoft/markitdown": {
-    "first_notified": "2026-04-29",
-    "last_notified": "2026-04-29",
-    "count": 1,
-    "score": 60.0
   },
   "warpdotdev/warp": {
     "first_notified": "2026-04-30",
@@ -475,9 +463,9 @@
   },
   "Lum1104/Understand-Anything": {
     "first_notified": "2026-05-25",
-    "last_notified": "2026-05-25",
-    "count": 1,
-    "score": 59.9
+    "last_notified": "2026-05-30",
+    "count": 2,
+    "score": 82.2
   },
   "anthropics/claude-plugins-official": {
     "first_notified": "2026-05-26",
@@ -550,5 +538,29 @@
     "last_notified": "2026-05-29",
     "count": 1,
     "score": 61.9
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "first_notified": "2026-05-30",
+    "last_notified": "2026-05-30",
+    "count": 1,
+    "score": 73.0
+  },
+  "st-tech/ppf-contact-solver": {
+    "first_notified": "2026-05-30",
+    "last_notified": "2026-05-30",
+    "count": 1,
+    "score": 70.1
+  },
+  "manaflow-ai/cmux": {
+    "first_notified": "2026-05-30",
+    "last_notified": "2026-05-30",
+    "count": 1,
+    "score": 63.4
+  },
+  "phodal/routa": {
+    "first_notified": "2026-05-30",
+    "last_notified": "2026-05-30",
+    "count": 1,
+    "score": 62.3
   }
 }
