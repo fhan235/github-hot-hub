@@ -59,12 +59,6 @@
     "count": 4,
     "score": 73.2
   },
-  "huggingface/ml-intern": {
-    "first_notified": "2026-04-24",
-    "last_notified": "2026-04-30",
-    "count": 3,
-    "score": 82.1
-  },
   "mksglu/context-mode": {
     "first_notified": "2026-04-25",
     "last_notified": "2026-05-09",
@@ -499,9 +493,9 @@
   },
   "Chachamaru127/claude-code-harness": {
     "first_notified": "2026-05-27",
-    "last_notified": "2026-05-27",
-    "count": 1,
-    "score": 67.7
+    "last_notified": "2026-05-31",
+    "count": 2,
+    "score": 71.1
   },
   "zakirullin/files.md": {
     "first_notified": "2026-05-27",
@@ -562,5 +556,29 @@
     "last_notified": "2026-05-30",
     "count": 1,
     "score": 62.3
+  },
+  "hardikpandya/stop-slop": {
+    "first_notified": "2026-05-31",
+    "last_notified": "2026-05-31",
+    "count": 1,
+    "score": 73.6
+  },
+  "Leonxlnx/taste-skill": {
+    "first_notified": "2026-05-31",
+    "last_notified": "2026-05-31",
+    "count": 1,
+    "score": 71.6
+  },
+  "google/ax": {
+    "first_notified": "2026-05-31",
+    "last_notified": "2026-05-31",
+    "count": 1,
+    "score": 64.7
+  },
+  "earendil-works/pi": {
+    "first_notified": "2026-05-31",
+    "last_notified": "2026-05-31",
+    "count": 1,
+    "score": 63.7
   }
 }
