@@ -1,10 +1,4 @@
 {
-  "abhigyanpatwari/GitNexus": {
-    "first_notified": "2026-04-12",
-    "last_notified": "2026-05-02",
-    "count": 2,
-    "score": 59.2
-  },
   "forrestchang/andrej-karpathy-skills": {
     "first_notified": "2026-04-13",
     "last_notified": "2026-05-04",
@@ -94,12 +88,6 @@
     "last_notified": "2026-05-19",
     "count": 6,
     "score": 63.5
-  },
-  "ZhuLinsen/daily_stock_analysis": {
-    "first_notified": "2026-05-02",
-    "last_notified": "2026-05-02",
-    "count": 1,
-    "score": 60.6
   },
   "farion1231/cc-switch": {
     "first_notified": "2026-05-02",
@@ -457,15 +445,15 @@
   },
   "cursor/plugins": {
     "first_notified": "2026-05-26",
-    "last_notified": "2026-05-26",
-    "count": 1,
-    "score": 60.1
+    "last_notified": "2026-06-02",
+    "count": 2,
+    "score": 67.0
   },
   "rohitg00/ai-engineering-from-scratch": {
     "first_notified": "2026-05-26",
-    "last_notified": "2026-05-29",
-    "count": 2,
-    "score": 81.8
+    "last_notified": "2026-06-02",
+    "count": 3,
+    "score": 71.8
   },
   "dotnet/skills": {
     "first_notified": "2026-05-27",
@@ -499,15 +487,15 @@
   },
   "microsoft/agent-governance-toolkit": {
     "first_notified": "2026-05-29",
-    "last_notified": "2026-05-29",
-    "count": 1,
-    "score": 69.2
+    "last_notified": "2026-06-02",
+    "count": 2,
+    "score": 66.6
   },
   "anthropics/knowledge-work-plugins": {
     "first_notified": "2026-05-29",
-    "last_notified": "2026-05-29",
-    "count": 1,
-    "score": 66.2
+    "last_notified": "2026-06-02",
+    "count": 2,
+    "score": 60.7
   },
   "NVlabs/LongLive": {
     "first_notified": "2026-05-29",
@@ -568,5 +556,11 @@
     "last_notified": "2026-06-01",
     "count": 1,
     "score": 59.1
+  },
+  "chopratejas/headroom": {
+    "first_notified": "2026-06-02",
+    "last_notified": "2026-06-02",
+    "count": 1,
+    "score": 74.0
   }
 }
