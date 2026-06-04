@@ -1,10 +1,4 @@
 {
-  "forrestchang/andrej-karpathy-skills": {
-    "first_notified": "2026-04-13",
-    "last_notified": "2026-05-04",
-    "count": 7,
-    "score": 62.6
-  },
   "addyosmani/agent-skills": {
     "first_notified": "2026-04-16",
     "last_notified": "2026-05-16",
@@ -35,12 +29,6 @@
     "count": 2,
     "score": 53.7
   },
-  "Alishahryar1/free-claude-code": {
-    "first_notified": "2026-04-24",
-    "last_notified": "2026-05-04",
-    "count": 4,
-    "score": 73.2
-  },
   "mksglu/context-mode": {
     "first_notified": "2026-04-25",
     "last_notified": "2026-05-09",
@@ -58,12 +46,6 @@
     "last_notified": "2026-05-18",
     "count": 5,
     "score": 58.6
-  },
-  "warpdotdev/warp": {
-    "first_notified": "2026-04-30",
-    "last_notified": "2026-05-04",
-    "count": 2,
-    "score": 76.2
   },
   "1jehuang/jcode": {
     "first_notified": "2026-05-01",
@@ -94,12 +76,6 @@
     "last_notified": "2026-05-08",
     "count": 2,
     "score": 60.8
-  },
-  "refactoringhq/tolaria": {
-    "first_notified": "2026-05-04",
-    "last_notified": "2026-05-04",
-    "count": 1,
-    "score": 75.7
   },
   "msitarzewski/agency-agents": {
     "first_notified": "2026-05-05",
@@ -361,9 +337,9 @@
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-05-21",
-    "count": 1,
-    "score": 62.4
+    "last_notified": "2026-06-04",
+    "count": 2,
+    "score": 59.0
   },
   "pranshuparmar/witr": {
     "first_notified": "2026-05-21",
@@ -469,9 +445,9 @@
   },
   "ogulcancelik/herdr": {
     "first_notified": "2026-05-28",
-    "last_notified": "2026-05-28",
-    "count": 1,
-    "score": 67.0
+    "last_notified": "2026-06-04",
+    "count": 2,
+    "score": 63.9
   },
   "microsoft/agent-governance-toolkit": {
     "first_notified": "2026-05-29",
@@ -517,15 +493,15 @@
   },
   "hardikpandya/stop-slop": {
     "first_notified": "2026-05-31",
-    "last_notified": "2026-05-31",
-    "count": 1,
-    "score": 73.6
+    "last_notified": "2026-06-04",
+    "count": 2,
+    "score": 67.2
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-05-31",
-    "last_notified": "2026-05-31",
-    "count": 1,
-    "score": 71.6
+    "last_notified": "2026-06-04",
+    "count": 2,
+    "score": 67.6
   },
   "google/ax": {
     "first_notified": "2026-05-31",
@@ -568,5 +544,11 @@
     "last_notified": "2026-06-03",
     "count": 1,
     "score": 55.3
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "first_notified": "2026-06-04",
+    "last_notified": "2026-06-04",
+    "count": 1,
+    "score": 63.8
   }
 }
