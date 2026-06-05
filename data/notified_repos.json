@@ -17,18 +17,6 @@
     "count": 6,
     "score": 68.9
   },
-  "Tracer-Cloud/opensre": {
-    "first_notified": "2026-04-22",
-    "last_notified": "2026-05-05",
-    "count": 4,
-    "score": 53.5
-  },
-  "pbakaus/impeccable": {
-    "first_notified": "2026-04-23",
-    "last_notified": "2026-05-05",
-    "count": 2,
-    "score": 53.7
-  },
   "mksglu/context-mode": {
     "first_notified": "2026-04-25",
     "last_notified": "2026-05-09",
@@ -77,23 +65,11 @@
     "count": 2,
     "score": 60.8
   },
-  "msitarzewski/agency-agents": {
-    "first_notified": "2026-05-05",
-    "last_notified": "2026-05-05",
-    "count": 1,
-    "score": 55.3
-  },
   "raullenchai/Rapid-MLX": {
     "first_notified": "2026-05-05",
     "last_notified": "2026-05-13",
     "count": 2,
     "score": 68.2
-  },
-  "lukilabs/craft-agents-oss": {
-    "first_notified": "2026-05-05",
-    "last_notified": "2026-05-05",
-    "count": 1,
-    "score": 54.1
   },
   "HunxByts/GhostTrack": {
     "first_notified": "2026-05-06",
@@ -205,9 +181,9 @@
   },
   "colbymchenry/codegraph": {
     "first_notified": "2026-05-12",
-    "last_notified": "2026-06-01",
-    "count": 5,
-    "score": 73.7
+    "last_notified": "2026-06-05",
+    "count": 6,
+    "score": 65.4
   },
   "masterking32/MasterDnsVPN": {
     "first_notified": "2026-05-13",
@@ -517,9 +493,9 @@
   },
   "OpenMOSS/MOSS-TTS": {
     "first_notified": "2026-06-01",
-    "last_notified": "2026-06-01",
-    "count": 1,
-    "score": 59.1
+    "last_notified": "2026-06-05",
+    "count": 2,
+    "score": 59.4
   },
   "chopratejas/headroom": {
     "first_notified": "2026-06-02",
@@ -550,5 +526,23 @@
     "last_notified": "2026-06-04",
     "count": 1,
     "score": 63.8
+  },
+  "OpenBMB/VoxCPM": {
+    "first_notified": "2026-06-05",
+    "last_notified": "2026-06-05",
+    "count": 1,
+    "score": 62.8
+  },
+  "a5c-ai/babysitter": {
+    "first_notified": "2026-06-05",
+    "last_notified": "2026-06-05",
+    "count": 1,
+    "score": 61.5
+  },
+  "openclaw/openclaw-windows-node": {
+    "first_notified": "2026-06-05",
+    "last_notified": "2026-06-05",
+    "count": 1,
+    "score": 61.1
   }
 }
