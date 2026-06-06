@@ -71,24 +71,6 @@
     "count": 2,
     "score": 68.2
   },
-  "HunxByts/GhostTrack": {
-    "first_notified": "2026-05-06",
-    "last_notified": "2026-05-06",
-    "count": 1,
-    "score": 62.5
-  },
-  "iamgio/quarkdown": {
-    "first_notified": "2026-05-06",
-    "last_notified": "2026-05-06",
-    "count": 1,
-    "score": 60.8
-  },
-  "AnmolSaini16/mapcn": {
-    "first_notified": "2026-05-06",
-    "last_notified": "2026-05-06",
-    "count": 1,
-    "score": 59.1
-  },
   "TauricResearch/TradingAgents": {
     "first_notified": "2026-05-07",
     "last_notified": "2026-05-07",
@@ -379,15 +361,15 @@
   },
   "can1357/oh-my-pi": {
     "first_notified": "2026-05-26",
-    "last_notified": "2026-06-01",
-    "count": 2,
-    "score": 58.6
+    "last_notified": "2026-06-06",
+    "count": 3,
+    "score": 58.5
   },
   "cursor/plugins": {
     "first_notified": "2026-05-26",
-    "last_notified": "2026-06-02",
-    "count": 2,
-    "score": 67.0
+    "last_notified": "2026-06-06",
+    "count": 3,
+    "score": 58.7
   },
   "rohitg00/ai-engineering-from-scratch": {
     "first_notified": "2026-05-26",
@@ -517,9 +499,9 @@
   },
   "nesquena/hermes-webui": {
     "first_notified": "2026-06-03",
-    "last_notified": "2026-06-03",
-    "count": 1,
-    "score": 55.3
+    "last_notified": "2026-06-06",
+    "count": 2,
+    "score": 68.8
   },
   "harry0703/MoneyPrinterTurbo": {
     "first_notified": "2026-06-04",
@@ -544,5 +526,17 @@
     "last_notified": "2026-06-05",
     "count": 1,
     "score": 61.1
+  },
+  "NVlabs/Eagle": {
+    "first_notified": "2026-06-06",
+    "last_notified": "2026-06-06",
+    "count": 1,
+    "score": 61.7
+  },
+  "microsoft/markitdown": {
+    "first_notified": "2026-06-06",
+    "last_notified": "2026-06-06",
+    "count": 1,
+    "score": 57.6
   }
 }
