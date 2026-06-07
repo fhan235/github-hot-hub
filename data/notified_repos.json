@@ -55,9 +55,9 @@
   },
   "farion1231/cc-switch": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-05-18",
-    "count": 2,
-    "score": 58.0
+    "last_notified": "2026-06-07",
+    "count": 3,
+    "score": 57.3
   },
   "caamer20/Telegram-Drive": {
     "first_notified": "2026-05-03",
@@ -70,18 +70,6 @@
     "last_notified": "2026-05-13",
     "count": 2,
     "score": 68.2
-  },
-  "TauricResearch/TradingAgents": {
-    "first_notified": "2026-05-07",
-    "last_notified": "2026-05-07",
-    "count": 1,
-    "score": 63.1
-  },
-  "soxoj/maigret": {
-    "first_notified": "2026-05-07",
-    "last_notified": "2026-05-07",
-    "count": 1,
-    "score": 60.4
   },
   "browserbase/skills": {
     "first_notified": "2026-05-08",
@@ -349,9 +337,9 @@
   },
   "Lum1104/Understand-Anything": {
     "first_notified": "2026-05-25",
-    "last_notified": "2026-06-03",
-    "count": 3,
-    "score": 71.8
+    "last_notified": "2026-06-07",
+    "count": 4,
+    "score": 62.4
   },
   "anthropics/claude-plugins-official": {
     "first_notified": "2026-05-26",
@@ -481,9 +469,9 @@
   },
   "chopratejas/headroom": {
     "first_notified": "2026-06-02",
-    "last_notified": "2026-06-02",
-    "count": 1,
-    "score": 74.0
+    "last_notified": "2026-06-07",
+    "count": 2,
+    "score": 83.1
   },
   "run-llama/liteparse": {
     "first_notified": "2026-06-03",
@@ -493,9 +481,9 @@
   },
   "revfactory/harness": {
     "first_notified": "2026-06-03",
-    "last_notified": "2026-06-03",
-    "count": 1,
-    "score": 65.8
+    "last_notified": "2026-06-07",
+    "count": 2,
+    "score": 66.0
   },
   "nesquena/hermes-webui": {
     "first_notified": "2026-06-03",
@@ -538,5 +526,11 @@
     "last_notified": "2026-06-06",
     "count": 1,
     "score": 57.6
+  },
+  "FareedKhan-dev/train-llm-from-scratch": {
+    "first_notified": "2026-06-07",
+    "last_notified": "2026-06-07",
+    "count": 1,
+    "score": 75.6
   }
 }
