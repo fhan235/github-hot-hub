@@ -17,12 +17,6 @@
     "count": 6,
     "score": 68.9
   },
-  "mksglu/context-mode": {
-    "first_notified": "2026-04-25",
-    "last_notified": "2026-05-09",
-    "count": 4,
-    "score": 58.2
-  },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
     "last_notified": "2026-05-21",
@@ -40,12 +34,6 @@
     "last_notified": "2026-05-11",
     "count": 3,
     "score": 68.8
-  },
-  "fspecii/ace-step-ui": {
-    "first_notified": "2026-05-02",
-    "last_notified": "2026-05-09",
-    "count": 2,
-    "score": 61.2
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
@@ -76,12 +64,6 @@
     "last_notified": "2026-05-21",
     "count": 4,
     "score": 60.1
-  },
-  "docusealco/docuseal": {
-    "first_notified": "2026-05-09",
-    "last_notified": "2026-05-09",
-    "count": 1,
-    "score": 60.9
   },
   "CloakHQ/CloakBrowser": {
     "first_notified": "2026-05-09",
@@ -133,9 +115,9 @@
   },
   "colbymchenry/codegraph": {
     "first_notified": "2026-05-12",
-    "last_notified": "2026-06-05",
-    "count": 6,
-    "score": 65.4
+    "last_notified": "2026-06-09",
+    "count": 7,
+    "score": 62.5
   },
   "masterking32/MasterDnsVPN": {
     "first_notified": "2026-05-13",
@@ -421,15 +403,15 @@
   },
   "hardikpandya/stop-slop": {
     "first_notified": "2026-05-31",
-    "last_notified": "2026-06-04",
-    "count": 2,
-    "score": 67.2
+    "last_notified": "2026-06-09",
+    "count": 3,
+    "score": 62.1
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-05-31",
-    "last_notified": "2026-06-04",
-    "count": 2,
-    "score": 67.6
+    "last_notified": "2026-06-09",
+    "count": 3,
+    "score": 62.8
   },
   "google/ax": {
     "first_notified": "2026-05-31",
@@ -526,5 +508,17 @@
     "last_notified": "2026-06-08",
     "count": 1,
     "score": 57.3
+  },
+  "HKUDS/Vibe-Trading": {
+    "first_notified": "2026-06-09",
+    "last_notified": "2026-06-09",
+    "count": 1,
+    "score": 66.0
+  },
+  "NousResearch/hermes-agent": {
+    "first_notified": "2026-06-09",
+    "last_notified": "2026-06-09",
+    "count": 1,
+    "score": 57.1
   }
 }
