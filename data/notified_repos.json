@@ -5,12 +5,6 @@
     "count": 5,
     "score": 64.3
   },
-  "z-lab/dflash": {
-    "first_notified": "2026-04-16",
-    "last_notified": "2026-05-11",
-    "count": 3,
-    "score": 72.0
-  },
   "hugohe3/ppt-master": {
     "first_notified": "2026-04-17",
     "last_notified": "2026-05-15",
@@ -28,12 +22,6 @@
     "last_notified": "2026-05-18",
     "count": 5,
     "score": 58.6
-  },
-  "1jehuang/jcode": {
-    "first_notified": "2026-05-01",
-    "last_notified": "2026-05-11",
-    "count": 3,
-    "score": 68.8
   },
   "Hmbown/DeepSeek-TUI": {
     "first_notified": "2026-05-02",
@@ -91,9 +79,9 @@
   },
   "withastro/flue": {
     "first_notified": "2026-05-11",
-    "last_notified": "2026-05-11",
-    "count": 1,
-    "score": 65.6
+    "last_notified": "2026-06-11",
+    "count": 2,
+    "score": 58.1
   },
   "LearningCircuit/local-deep-research": {
     "first_notified": "2026-05-12",
@@ -421,9 +409,9 @@
   },
   "chopratejas/headroom": {
     "first_notified": "2026-06-02",
-    "last_notified": "2026-06-07",
-    "count": 2,
-    "score": 83.1
+    "last_notified": "2026-06-11",
+    "count": 3,
+    "score": 80.3
   },
   "run-llama/liteparse": {
     "first_notified": "2026-06-03",
@@ -526,5 +514,23 @@
     "last_notified": "2026-06-10",
     "count": 1,
     "score": 53.4
+  },
+  "Panniantong/Agent-Reach": {
+    "first_notified": "2026-06-11",
+    "last_notified": "2026-06-11",
+    "count": 1,
+    "score": 60.7
+  },
+  "microsoft/VibeVoice": {
+    "first_notified": "2026-06-11",
+    "last_notified": "2026-06-11",
+    "count": 1,
+    "score": 57.3
+  },
+  "lfnovo/open-notebook": {
+    "first_notified": "2026-06-11",
+    "last_notified": "2026-06-11",
+    "count": 1,
+    "score": 56.7
   }
 }
