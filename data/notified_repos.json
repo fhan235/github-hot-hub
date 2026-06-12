@@ -83,12 +83,6 @@
     "count": 2,
     "score": 58.1
   },
-  "LearningCircuit/local-deep-research": {
-    "first_notified": "2026-05-12",
-    "last_notified": "2026-05-12",
-    "count": 1,
-    "score": 62.9
-  },
   "colbymchenry/codegraph": {
     "first_notified": "2026-05-12",
     "last_notified": "2026-06-09",
@@ -325,9 +319,9 @@
   },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
-    "last_notified": "2026-06-08",
-    "count": 2,
-    "score": 66.4
+    "last_notified": "2026-06-12",
+    "count": 3,
+    "score": 79.5
   },
   "ogulcancelik/herdr": {
     "first_notified": "2026-05-28",
@@ -532,5 +526,29 @@
     "last_notified": "2026-06-11",
     "count": 1,
     "score": 56.7
+  },
+  "openai/plugins": {
+    "first_notified": "2026-06-12",
+    "last_notified": "2026-06-12",
+    "count": 1,
+    "score": 71.1
+  },
+  "microsoft/mxc": {
+    "first_notified": "2026-06-12",
+    "last_notified": "2026-06-12",
+    "count": 1,
+    "score": 68.8
+  },
+  "Andyyyy64/whichllm": {
+    "first_notified": "2026-06-12",
+    "last_notified": "2026-06-12",
+    "count": 1,
+    "score": 66.4
+  },
+  "heygen-com/hyperframes": {
+    "first_notified": "2026-06-12",
+    "last_notified": "2026-06-12",
+    "count": 1,
+    "score": 63.0
   }
 }
