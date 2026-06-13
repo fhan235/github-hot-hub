@@ -35,18 +35,6 @@
     "count": 3,
     "score": 57.3
   },
-  "raullenchai/Rapid-MLX": {
-    "first_notified": "2026-05-05",
-    "last_notified": "2026-05-13",
-    "count": 2,
-    "score": 68.2
-  },
-  "ruvnet/ruflo": {
-    "first_notified": "2026-05-08",
-    "last_notified": "2026-05-13",
-    "count": 2,
-    "score": 59.6
-  },
   "anthropics/financial-services": {
     "first_notified": "2026-05-09",
     "last_notified": "2026-05-21",
@@ -88,18 +76,6 @@
     "last_notified": "2026-06-09",
     "count": 7,
     "score": 62.5
-  },
-  "masterking32/MasterDnsVPN": {
-    "first_notified": "2026-05-13",
-    "last_notified": "2026-05-13",
-    "count": 1,
-    "score": 72.1
-  },
-  "playcanvas/supersplat": {
-    "first_notified": "2026-05-13",
-    "last_notified": "2026-05-13",
-    "count": 1,
-    "score": 63.2
   },
   "Augani/openreel-video": {
     "first_notified": "2026-05-14",
@@ -379,9 +355,9 @@
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-05-31",
-    "last_notified": "2026-06-09",
-    "count": 3,
-    "score": 62.8
+    "last_notified": "2026-06-13",
+    "count": 4,
+    "score": 64.6
   },
   "google/ax": {
     "first_notified": "2026-05-31",
@@ -427,9 +403,9 @@
   },
   "harry0703/MoneyPrinterTurbo": {
     "first_notified": "2026-06-04",
-    "last_notified": "2026-06-04",
-    "count": 1,
-    "score": 63.8
+    "last_notified": "2026-06-13",
+    "count": 2,
+    "score": 57.5
   },
   "OpenBMB/VoxCPM": {
     "first_notified": "2026-06-05",
@@ -487,9 +463,9 @@
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-06-09",
-    "last_notified": "2026-06-09",
-    "count": 1,
-    "score": 57.1
+    "last_notified": "2026-06-13",
+    "count": 2,
+    "score": 57.3
   },
   "kunchenguid/no-mistakes": {
     "first_notified": "2026-06-10",
@@ -505,9 +481,9 @@
   },
   "mvanhorn/last30days-skill": {
     "first_notified": "2026-06-10",
-    "last_notified": "2026-06-10",
-    "count": 1,
-    "score": 53.4
+    "last_notified": "2026-06-13",
+    "count": 2,
+    "score": 70.2
   },
   "Panniantong/Agent-Reach": {
     "first_notified": "2026-06-11",
@@ -550,5 +526,11 @@
     "last_notified": "2026-06-12",
     "count": 1,
     "score": 63.0
+  },
+  "opencv/opencv": {
+    "first_notified": "2026-06-13",
+    "last_notified": "2026-06-13",
+    "count": 1,
+    "score": 56.3
   }
 }
