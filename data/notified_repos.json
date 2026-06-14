@@ -31,9 +31,9 @@
   },
   "farion1231/cc-switch": {
     "first_notified": "2026-05-02",
-    "last_notified": "2026-06-07",
-    "count": 3,
-    "score": 57.3
+    "last_notified": "2026-06-14",
+    "count": 4,
+    "score": 56.7
   },
   "anthropics/financial-services": {
     "first_notified": "2026-05-09",
@@ -76,12 +76,6 @@
     "last_notified": "2026-06-09",
     "count": 7,
     "score": 62.5
-  },
-  "Augani/openreel-video": {
-    "first_notified": "2026-05-14",
-    "last_notified": "2026-05-14",
-    "count": 1,
-    "score": 76.3
   },
   "Imbad0202/academic-research-skills": {
     "first_notified": "2026-05-14",
@@ -532,5 +526,29 @@
     "last_notified": "2026-06-13",
     "count": 1,
     "score": 56.3
+  },
+  "phuryn/pm-skills": {
+    "first_notified": "2026-06-14",
+    "last_notified": "2026-06-14",
+    "count": 1,
+    "score": 67.8
+  },
+  "refactoringhq/tolaria": {
+    "first_notified": "2026-06-14",
+    "last_notified": "2026-06-14",
+    "count": 1,
+    "score": 62.3
+  },
+  "santifer/career-ops": {
+    "first_notified": "2026-06-14",
+    "last_notified": "2026-06-14",
+    "count": 1,
+    "score": 55.7
+  },
+  "dmtrKovalenko/fff": {
+    "first_notified": "2026-06-14",
+    "last_notified": "2026-06-14",
+    "count": 1,
+    "score": 55.7
   }
 }
