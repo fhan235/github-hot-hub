@@ -47,18 +47,6 @@
     "count": 5,
     "score": 68.4
   },
-  "millionco/react-doctor": {
-    "first_notified": "2026-05-10",
-    "last_notified": "2026-05-16",
-    "count": 2,
-    "score": 65.7
-  },
-  "romainsimon/paperasse": {
-    "first_notified": "2026-05-11",
-    "last_notified": "2026-05-16",
-    "count": 2,
-    "score": 70.7
-  },
   "withastro/flue": {
     "first_notified": "2026-05-11",
     "last_notified": "2026-06-11",
@@ -100,12 +88,6 @@
     "last_notified": "2026-05-22",
     "count": 2,
     "score": 59.6
-  },
-  "datawhalechina/hello-agents": {
-    "first_notified": "2026-05-16",
-    "last_notified": "2026-05-16",
-    "count": 1,
-    "score": 65.8
   },
   "rohitg00/agentmemory": {
     "first_notified": "2026-05-17",
@@ -277,9 +259,9 @@
   },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
-    "last_notified": "2026-06-12",
-    "count": 3,
-    "score": 79.5
+    "last_notified": "2026-06-16",
+    "count": 4,
+    "score": 66.3
   },
   "ogulcancelik/herdr": {
     "first_notified": "2026-05-28",
@@ -499,9 +481,9 @@
   },
   "Andyyyy64/whichllm": {
     "first_notified": "2026-06-12",
-    "last_notified": "2026-06-12",
-    "count": 1,
-    "score": 66.4
+    "last_notified": "2026-06-16",
+    "count": 2,
+    "score": 61.9
   },
   "heygen-com/hyperframes": {
     "first_notified": "2026-06-12",
@@ -556,5 +538,23 @@
     "last_notified": "2026-06-15",
     "count": 1,
     "score": 65.6
+  },
+  "activeloopai/hivemind": {
+    "first_notified": "2026-06-16",
+    "last_notified": "2026-06-16",
+    "count": 1,
+    "score": 71.2
+  },
+  "Sumanth077/Hands-On-AI-Engineering": {
+    "first_notified": "2026-06-16",
+    "last_notified": "2026-06-16",
+    "count": 1,
+    "score": 64.2
+  },
+  "masterking32/MasterDnsVPN": {
+    "first_notified": "2026-06-16",
+    "last_notified": "2026-06-16",
+    "count": 1,
+    "score": 61.0
   }
 }
