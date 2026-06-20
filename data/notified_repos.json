@@ -1,9 +1,9 @@
 {
   "addyosmani/agent-skills": {
     "first_notified": "2026-04-16",
-    "last_notified": "2026-06-15",
-    "count": 6,
-    "score": 63.8
+    "last_notified": "2026-06-20",
+    "count": 7,
+    "score": 59.2
   },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
@@ -101,12 +101,6 @@
     "count": 2,
     "score": 61.8
   },
-  "NVIDIA-AI-Blueprints/video-search-and-summarization": {
-    "first_notified": "2026-05-20",
-    "last_notified": "2026-05-20",
-    "count": 1,
-    "score": 70.1
-  },
   "BenedictKing/ccx": {
     "first_notified": "2026-05-20",
     "last_notified": "2026-06-01",
@@ -118,12 +112,6 @@
     "last_notified": "2026-05-25",
     "count": 2,
     "score": 79.5
-  },
-  "silvertakana/worldwideview": {
-    "first_notified": "2026-05-20",
-    "last_notified": "2026-05-20",
-    "count": 1,
-    "score": 64.7
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
@@ -499,9 +487,9 @@
   },
   "apple/container": {
     "first_notified": "2026-06-15",
-    "last_notified": "2026-06-15",
-    "count": 1,
-    "score": 68.6
+    "last_notified": "2026-06-20",
+    "count": 2,
+    "score": 57.3
   },
   "safishamsi/graphify": {
     "first_notified": "2026-06-15",
@@ -574,5 +562,23 @@
     "last_notified": "2026-06-19",
     "count": 1,
     "score": 65.3
+  },
+  "palmier-io/palmier-pro": {
+    "first_notified": "2026-06-20",
+    "last_notified": "2026-06-20",
+    "count": 1,
+    "score": 67.8
+  },
+  "asheshgoplani/agent-deck": {
+    "first_notified": "2026-06-20",
+    "last_notified": "2026-06-20",
+    "count": 1,
+    "score": 61.3
+  },
+  "ibelick/ui-skills": {
+    "first_notified": "2026-06-20",
+    "last_notified": "2026-06-20",
+    "count": 1,
+    "score": 55.5
   }
 }
