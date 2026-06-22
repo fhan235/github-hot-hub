@@ -53,23 +53,11 @@
     "count": 2,
     "score": 66.5
   },
-  "supertone-inc/supertonic": {
-    "first_notified": "2026-05-14",
-    "last_notified": "2026-05-22",
-    "count": 2,
-    "score": 78.1
-  },
   "decolua/9router": {
     "first_notified": "2026-05-15",
     "last_notified": "2026-05-23",
     "count": 3,
     "score": 59.5
-  },
-  "datawhalechina/easy-vibe": {
-    "first_notified": "2026-05-15",
-    "last_notified": "2026-05-22",
-    "count": 2,
-    "score": 59.6
   },
   "rohitg00/agentmemory": {
     "first_notified": "2026-05-17",
@@ -373,9 +361,9 @@
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-06-09",
-    "last_notified": "2026-06-13",
-    "count": 2,
-    "score": 57.3
+    "last_notified": "2026-06-22",
+    "count": 3,
+    "score": 53.6
   },
   "kunchenguid/no-mistakes": {
     "first_notified": "2026-06-10",
@@ -535,9 +523,9 @@
   },
   "iptv-org/iptv": {
     "first_notified": "2026-06-18",
-    "last_notified": "2026-06-18",
-    "count": 1,
-    "score": 56.6
+    "last_notified": "2026-06-22",
+    "count": 2,
+    "score": 56.5
   },
   "DeusData/codebase-memory-mcp": {
     "first_notified": "2026-06-19",
@@ -586,5 +574,23 @@
     "last_notified": "2026-06-21",
     "count": 1,
     "score": 55.7
+  },
+  "google-research/timesfm": {
+    "first_notified": "2026-06-22",
+    "last_notified": "2026-06-22",
+    "count": 1,
+    "score": 59.4
+  },
+  "Kilo-Org/kilocode": {
+    "first_notified": "2026-06-22",
+    "last_notified": "2026-06-22",
+    "count": 1,
+    "score": 58.4
+  },
+  "n0-computer/iroh": {
+    "first_notified": "2026-06-22",
+    "last_notified": "2026-06-22",
+    "count": 1,
+    "score": 55.5
   }
 }
