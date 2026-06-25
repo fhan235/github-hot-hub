@@ -17,12 +17,6 @@
     "count": 4,
     "score": 56.7
   },
-  "CloakHQ/CloakBrowser": {
-    "first_notified": "2026-05-09",
-    "last_notified": "2026-05-25",
-    "count": 4,
-    "score": 69.4
-  },
   "tinyhumansai/openhuman": {
     "first_notified": "2026-05-10",
     "last_notified": "2026-05-27",
@@ -65,12 +59,6 @@
     "count": 3,
     "score": 63.3
   },
-  "truelockmc/streambert": {
-    "first_notified": "2026-05-20",
-    "last_notified": "2026-05-25",
-    "count": 2,
-    "score": 79.5
-  },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
     "last_notified": "2026-06-04",
@@ -88,18 +76,6 @@
     "last_notified": "2026-05-29",
     "count": 2,
     "score": 59.2
-  },
-  "aryandas2911/DailyForge": {
-    "first_notified": "2026-05-25",
-    "last_notified": "2026-05-25",
-    "count": 1,
-    "score": 63.1
-  },
-  "NVlabs/Sana": {
-    "first_notified": "2026-05-25",
-    "last_notified": "2026-05-25",
-    "count": 1,
-    "score": 61.4
   },
   "Lum1104/Understand-Anything": {
     "first_notified": "2026-05-25",
@@ -421,9 +397,9 @@
   },
   "apple/container": {
     "first_notified": "2026-06-15",
-    "last_notified": "2026-06-20",
-    "count": 2,
-    "score": 57.3
+    "last_notified": "2026-06-25",
+    "count": 3,
+    "score": 59.4
   },
   "safishamsi/graphify": {
     "first_notified": "2026-06-15",
@@ -451,9 +427,9 @@
   },
   "NVIDIA/SkillSpector": {
     "first_notified": "2026-06-17",
-    "last_notified": "2026-06-21",
-    "count": 2,
-    "score": 77.2
+    "last_notified": "2026-06-25",
+    "count": 3,
+    "score": 64.2
   },
   "LLMQuant/quant-mind": {
     "first_notified": "2026-06-17",
@@ -487,9 +463,9 @@
   },
   "DeusData/codebase-memory-mcp": {
     "first_notified": "2026-06-19",
-    "last_notified": "2026-06-19",
-    "count": 1,
-    "score": 65.9
+    "last_notified": "2026-06-25",
+    "count": 2,
+    "score": 82.2
   },
   "music-assistant/server": {
     "first_notified": "2026-06-19",
@@ -586,5 +562,17 @@
     "last_notified": "2026-06-24",
     "count": 1,
     "score": 57.6
+  },
+  "topoteretes/cognee": {
+    "first_notified": "2026-06-25",
+    "last_notified": "2026-06-25",
+    "count": 1,
+    "score": 67.3
+  },
+  "zzet/gortex": {
+    "first_notified": "2026-06-25",
+    "last_notified": "2026-06-25",
+    "count": 1,
+    "score": 60.8
   }
 }
