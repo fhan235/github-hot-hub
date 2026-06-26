@@ -41,12 +41,6 @@
     "count": 5,
     "score": 60.0
   },
-  "rohitg00/agentmemory": {
-    "first_notified": "2026-05-17",
-    "last_notified": "2026-05-26",
-    "count": 3,
-    "score": 69.6
-  },
   "rmyndharis/OpenWA": {
     "first_notified": "2026-05-19",
     "last_notified": "2026-05-27",
@@ -82,12 +76,6 @@
     "last_notified": "2026-06-07",
     "count": 4,
     "score": 62.4
-  },
-  "anthropics/claude-plugins-official": {
-    "first_notified": "2026-05-26",
-    "last_notified": "2026-05-26",
-    "count": 1,
-    "score": 67.8
   },
   "can1357/oh-my-pi": {
     "first_notified": "2026-05-26",
@@ -301,9 +289,9 @@
   },
   "kunchenguid/no-mistakes": {
     "first_notified": "2026-06-10",
-    "last_notified": "2026-06-10",
-    "count": 1,
-    "score": 63.9
+    "last_notified": "2026-06-26",
+    "count": 2,
+    "score": 61.1
   },
   "FB208/OpenBidKit_Yibiao": {
     "first_notified": "2026-06-10",
@@ -493,9 +481,9 @@
   },
   "tw93/Pake": {
     "first_notified": "2026-06-21",
-    "last_notified": "2026-06-21",
-    "count": 1,
-    "score": 60.9
+    "last_notified": "2026-06-26",
+    "count": 2,
+    "score": 68.4
   },
   "rezarahiminia/worldcup2026": {
     "first_notified": "2026-06-21",
@@ -547,9 +535,9 @@
   },
   "BuilderIO/agent-native": {
     "first_notified": "2026-06-24",
-    "last_notified": "2026-06-24",
-    "count": 1,
-    "score": 59.9
+    "last_notified": "2026-06-26",
+    "count": 2,
+    "score": 75.9
   },
   "chatwoot/chatwoot": {
     "first_notified": "2026-06-24",
@@ -574,5 +562,17 @@
     "last_notified": "2026-06-25",
     "count": 1,
     "score": 60.8
+  },
+  "tursodatabase/turso": {
+    "first_notified": "2026-06-26",
+    "last_notified": "2026-06-26",
+    "count": 1,
+    "score": 56.4
+  },
+  "smicallef/spiderfoot": {
+    "first_notified": "2026-06-26",
+    "last_notified": "2026-06-26",
+    "count": 1,
+    "score": 56.2
   }
 }
