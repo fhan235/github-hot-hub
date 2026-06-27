@@ -17,12 +17,6 @@
     "count": 4,
     "score": 56.7
   },
-  "tinyhumansai/openhuman": {
-    "first_notified": "2026-05-10",
-    "last_notified": "2026-05-27",
-    "count": 5,
-    "score": 68.4
-  },
   "withastro/flue": {
     "first_notified": "2026-05-11",
     "last_notified": "2026-06-23",
@@ -40,12 +34,6 @@
     "last_notified": "2026-06-01",
     "count": 5,
     "score": 60.0
-  },
-  "rmyndharis/OpenWA": {
-    "first_notified": "2026-05-19",
-    "last_notified": "2026-05-27",
-    "count": 2,
-    "score": 74.1
   },
   "BenedictKing/ccx": {
     "first_notified": "2026-05-20",
@@ -95,23 +83,11 @@
     "count": 3,
     "score": 71.8
   },
-  "dotnet/skills": {
-    "first_notified": "2026-05-27",
-    "last_notified": "2026-05-27",
-    "count": 1,
-    "score": 70.8
-  },
   "Chachamaru127/claude-code-harness": {
     "first_notified": "2026-05-27",
     "last_notified": "2026-05-31",
     "count": 2,
     "score": 71.1
-  },
-  "zakirullin/files.md": {
-    "first_notified": "2026-05-27",
-    "last_notified": "2026-05-27",
-    "count": 1,
-    "score": 64.5
   },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
@@ -145,9 +121,9 @@
   },
   "mukul975/Anthropic-Cybersecurity-Skills": {
     "first_notified": "2026-05-30",
-    "last_notified": "2026-06-03",
-    "count": 2,
-    "score": 63.6
+    "last_notified": "2026-06-27",
+    "count": 3,
+    "score": 63.9
   },
   "st-tech/ppf-contact-solver": {
     "first_notified": "2026-05-30",
@@ -469,9 +445,9 @@
   },
   "asheshgoplani/agent-deck": {
     "first_notified": "2026-06-20",
-    "last_notified": "2026-06-20",
-    "count": 1,
-    "score": 61.3
+    "last_notified": "2026-06-27",
+    "count": 2,
+    "score": 58.7
   },
   "ibelick/ui-skills": {
     "first_notified": "2026-06-20",
@@ -574,5 +550,23 @@
     "last_notified": "2026-06-26",
     "count": 1,
     "score": 56.2
+  },
+  "xbtlin/ai-berkshire": {
+    "first_notified": "2026-06-27",
+    "last_notified": "2026-06-27",
+    "count": 1,
+    "score": 68.5
+  },
+  "Anil-matcha/Open-Generative-AI": {
+    "first_notified": "2026-06-27",
+    "last_notified": "2026-06-27",
+    "count": 1,
+    "score": 57.0
+  },
+  "jamiepine/voicebox": {
+    "first_notified": "2026-06-27",
+    "last_notified": "2026-06-27",
+    "count": 1,
+    "score": 56.4
   }
 }
