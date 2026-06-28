@@ -43,9 +43,9 @@
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-06-04",
-    "count": 2,
-    "score": 59.0
+    "last_notified": "2026-06-28",
+    "count": 3,
+    "score": 64.5
   },
   "affaan-m/ECC": {
     "first_notified": "2026-05-22",
@@ -319,9 +319,9 @@
   },
   "heygen-com/hyperframes": {
     "first_notified": "2026-06-12",
-    "last_notified": "2026-06-12",
-    "count": 1,
-    "score": 63.0
+    "last_notified": "2026-06-28",
+    "count": 2,
+    "score": 62.8
   },
   "opencv/opencv": {
     "first_notified": "2026-06-13",
@@ -493,9 +493,9 @@
   },
   "calesthio/OpenMontage": {
     "first_notified": "2026-06-23",
-    "last_notified": "2026-06-23",
-    "count": 1,
-    "score": 62.5
+    "last_notified": "2026-06-28",
+    "count": 2,
+    "score": 82.6
   },
   "OpenCut-app/OpenCut": {
     "first_notified": "2026-06-23",
@@ -505,9 +505,9 @@
   },
   "NVIDIA/skills": {
     "first_notified": "2026-06-23",
-    "last_notified": "2026-06-23",
-    "count": 1,
-    "score": 53.1
+    "last_notified": "2026-06-28",
+    "count": 2,
+    "score": 63.3
   },
   "BuilderIO/agent-native": {
     "first_notified": "2026-06-24",
@@ -568,5 +568,11 @@
     "last_notified": "2026-06-27",
     "count": 1,
     "score": 56.4
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+    "first_notified": "2026-06-28",
+    "last_notified": "2026-06-28",
+    "count": 1,
+    "score": 60.6
   }
 }
