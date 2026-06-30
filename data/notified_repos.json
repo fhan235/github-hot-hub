@@ -113,24 +113,6 @@
     "count": 3,
     "score": 63.9
   },
-  "st-tech/ppf-contact-solver": {
-    "first_notified": "2026-05-30",
-    "last_notified": "2026-05-30",
-    "count": 1,
-    "score": 70.1
-  },
-  "manaflow-ai/cmux": {
-    "first_notified": "2026-05-30",
-    "last_notified": "2026-05-30",
-    "count": 1,
-    "score": 63.4
-  },
-  "phodal/routa": {
-    "first_notified": "2026-05-30",
-    "last_notified": "2026-05-30",
-    "count": 1,
-    "score": 62.3
-  },
   "hardikpandya/stop-slop": {
     "first_notified": "2026-05-31",
     "last_notified": "2026-06-09",
@@ -415,9 +397,9 @@
   },
   "DeusData/codebase-memory-mcp": {
     "first_notified": "2026-06-19",
-    "last_notified": "2026-06-25",
-    "count": 2,
-    "score": 82.2
+    "last_notified": "2026-06-30",
+    "count": 3,
+    "score": 78.3
   },
   "music-assistant/server": {
     "first_notified": "2026-06-19",
@@ -499,9 +481,9 @@
   },
   "BuilderIO/agent-native": {
     "first_notified": "2026-06-24",
-    "last_notified": "2026-06-26",
-    "count": 2,
-    "score": 75.9
+    "last_notified": "2026-06-30",
+    "count": 3,
+    "score": 72.3
   },
   "chatwoot/chatwoot": {
     "first_notified": "2026-06-24",
@@ -568,5 +550,23 @@
     "last_notified": "2026-06-29",
     "count": 1,
     "score": 65.8
+  },
+  "google-labs-code/design.md": {
+    "first_notified": "2026-06-30",
+    "last_notified": "2026-06-30",
+    "count": 1,
+    "score": 68.9
+  },
+  "mauriceboe/TREK": {
+    "first_notified": "2026-06-30",
+    "last_notified": "2026-06-30",
+    "count": 1,
+    "score": 65.2
+  },
+  "facebook/astryx": {
+    "first_notified": "2026-06-30",
+    "last_notified": "2026-06-30",
+    "count": 1,
+    "score": 62.2
   }
 }
