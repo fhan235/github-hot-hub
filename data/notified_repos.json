@@ -77,12 +77,6 @@
     "count": 3,
     "score": 71.8
   },
-  "Chachamaru127/claude-code-harness": {
-    "first_notified": "2026-05-27",
-    "last_notified": "2026-05-31",
-    "count": 2,
-    "score": 71.1
-  },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
     "last_notified": "2026-06-16",
@@ -124,18 +118,6 @@
     "last_notified": "2026-06-19",
     "count": 5,
     "score": 66.6
-  },
-  "google/ax": {
-    "first_notified": "2026-05-31",
-    "last_notified": "2026-05-31",
-    "count": 1,
-    "score": 64.7
-  },
-  "earendil-works/pi": {
-    "first_notified": "2026-05-31",
-    "last_notified": "2026-05-31",
-    "count": 1,
-    "score": 63.7
   },
   "OpenMOSS/MOSS-TTS": {
     "first_notified": "2026-06-01",
@@ -568,5 +550,35 @@
     "last_notified": "2026-06-30",
     "count": 1,
     "score": 62.2
+  },
+  "Unclecheng-li/VulnClaw": {
+    "first_notified": "2026-07-01",
+    "last_notified": "2026-07-01",
+    "count": 1,
+    "score": 69.9
+  },
+  "every-app/open-seo": {
+    "first_notified": "2026-07-01",
+    "last_notified": "2026-07-01",
+    "count": 1,
+    "score": 68.2
+  },
+  "JCodesMore/ai-website-cloner-template": {
+    "first_notified": "2026-07-01",
+    "last_notified": "2026-07-01",
+    "count": 1,
+    "score": 64.3
+  },
+  "hasaneyldrm/exercises-dataset": {
+    "first_notified": "2026-07-01",
+    "last_notified": "2026-07-01",
+    "count": 1,
+    "score": 64.2
+  },
+  "aws/agent-toolkit-for-aws": {
+    "first_notified": "2026-07-01",
+    "last_notified": "2026-07-01",
+    "count": 1,
+    "score": 62.3
   }
 }
