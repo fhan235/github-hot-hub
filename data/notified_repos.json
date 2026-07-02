@@ -29,23 +29,11 @@
     "count": 7,
     "score": 62.5
   },
-  "Imbad0202/academic-research-skills": {
-    "first_notified": "2026-05-14",
-    "last_notified": "2026-06-01",
-    "count": 5,
-    "score": 60.0
-  },
-  "BenedictKing/ccx": {
-    "first_notified": "2026-05-20",
-    "last_notified": "2026-06-01",
-    "count": 3,
-    "score": 63.3
-  },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-06-28",
-    "count": 3,
-    "score": 64.5
+    "last_notified": "2026-07-02",
+    "count": 4,
+    "score": 67.8
   },
   "affaan-m/ECC": {
     "first_notified": "2026-05-22",
@@ -445,9 +433,9 @@
   },
   "calesthio/OpenMontage": {
     "first_notified": "2026-06-23",
-    "last_notified": "2026-06-28",
-    "count": 2,
-    "score": 82.6
+    "last_notified": "2026-07-02",
+    "count": 3,
+    "score": 75.5
   },
   "OpenCut-app/OpenCut": {
     "first_notified": "2026-06-23",
@@ -505,9 +493,9 @@
   },
   "xbtlin/ai-berkshire": {
     "first_notified": "2026-06-27",
-    "last_notified": "2026-06-27",
-    "count": 1,
-    "score": 68.5
+    "last_notified": "2026-07-02",
+    "count": 2,
+    "score": 82.3
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_notified": "2026-06-27",
@@ -580,5 +568,17 @@
     "last_notified": "2026-07-01",
     "count": 1,
     "score": 62.3
+  },
+  "simplex-chat/simplex-chat": {
+    "first_notified": "2026-07-02",
+    "last_notified": "2026-07-02",
+    "count": 1,
+    "score": 70.9
+  },
+  "tt-a1i/archify": {
+    "first_notified": "2026-07-02",
+    "last_notified": "2026-07-02",
+    "count": 1,
+    "score": 59.9
   }
 }
