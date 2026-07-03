@@ -59,12 +59,6 @@
     "count": 3,
     "score": 58.7
   },
-  "rohitg00/ai-engineering-from-scratch": {
-    "first_notified": "2026-05-26",
-    "last_notified": "2026-06-02",
-    "count": 3,
-    "score": 71.8
-  },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
     "last_notified": "2026-06-16",
@@ -76,18 +70,6 @@
     "last_notified": "2026-06-08",
     "count": 3,
     "score": 62.9
-  },
-  "microsoft/agent-governance-toolkit": {
-    "first_notified": "2026-05-29",
-    "last_notified": "2026-06-02",
-    "count": 2,
-    "score": 66.6
-  },
-  "anthropics/knowledge-work-plugins": {
-    "first_notified": "2026-05-29",
-    "last_notified": "2026-06-02",
-    "count": 2,
-    "score": 60.7
   },
   "mukul975/Anthropic-Cybersecurity-Skills": {
     "first_notified": "2026-05-30",
@@ -205,9 +187,9 @@
   },
   "kunchenguid/no-mistakes": {
     "first_notified": "2026-06-10",
-    "last_notified": "2026-06-29",
-    "count": 3,
-    "score": 74.2
+    "last_notified": "2026-07-03",
+    "count": 4,
+    "score": 68.8
   },
   "FB208/OpenBidKit_Yibiao": {
     "first_notified": "2026-06-10",
@@ -223,9 +205,9 @@
   },
   "Panniantong/Agent-Reach": {
     "first_notified": "2026-06-11",
-    "last_notified": "2026-06-29",
-    "count": 4,
-    "score": 62.5
+    "last_notified": "2026-07-03",
+    "count": 5,
+    "score": 62.6
   },
   "microsoft/VibeVoice": {
     "first_notified": "2026-06-11",
@@ -469,9 +451,9 @@
   },
   "topoteretes/cognee": {
     "first_notified": "2026-06-25",
-    "last_notified": "2026-06-29",
-    "count": 2,
-    "score": 65.1
+    "last_notified": "2026-07-03",
+    "count": 3,
+    "score": 60.1
   },
   "zzet/gortex": {
     "first_notified": "2026-06-25",
@@ -580,5 +562,17 @@
     "last_notified": "2026-07-02",
     "count": 1,
     "score": 59.9
+  },
+  "gglucass/headroom-desktop": {
+    "first_notified": "2026-07-03",
+    "last_notified": "2026-07-03",
+    "count": 1,
+    "score": 60.9
+  },
+  "Robbyant/lingbot-map": {
+    "first_notified": "2026-07-03",
+    "last_notified": "2026-07-03",
+    "count": 1,
+    "score": 58.8
   }
 }
