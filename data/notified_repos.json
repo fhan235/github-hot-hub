@@ -31,9 +31,9 @@
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-07-02",
-    "count": 4,
-    "score": 67.8
+    "last_notified": "2026-07-06",
+    "count": 5,
+    "score": 66.1
   },
   "affaan-m/ECC": {
     "first_notified": "2026-05-22",
@@ -89,12 +89,6 @@
     "count": 5,
     "score": 66.6
   },
-  "OpenMOSS/MOSS-TTS": {
-    "first_notified": "2026-06-01",
-    "last_notified": "2026-06-05",
-    "count": 2,
-    "score": 59.4
-  },
   "chopratejas/headroom": {
     "first_notified": "2026-06-02",
     "last_notified": "2026-06-19",
@@ -118,24 +112,6 @@
     "last_notified": "2026-06-13",
     "count": 2,
     "score": 57.5
-  },
-  "OpenBMB/VoxCPM": {
-    "first_notified": "2026-06-05",
-    "last_notified": "2026-06-05",
-    "count": 1,
-    "score": 62.8
-  },
-  "a5c-ai/babysitter": {
-    "first_notified": "2026-06-05",
-    "last_notified": "2026-06-05",
-    "count": 1,
-    "score": 61.5
-  },
-  "openclaw/openclaw-windows-node": {
-    "first_notified": "2026-06-05",
-    "last_notified": "2026-06-05",
-    "count": 1,
-    "score": 61.1
   },
   "NVlabs/Eagle": {
     "first_notified": "2026-06-06",
@@ -409,9 +385,9 @@
   },
   "calesthio/OpenMontage": {
     "first_notified": "2026-06-23",
-    "last_notified": "2026-07-02",
-    "count": 3,
-    "score": 75.5
+    "last_notified": "2026-07-06",
+    "count": 4,
+    "score": 64.6
   },
   "OpenCut-app/OpenCut": {
     "first_notified": "2026-06-23",
@@ -469,9 +445,9 @@
   },
   "xbtlin/ai-berkshire": {
     "first_notified": "2026-06-27",
-    "last_notified": "2026-07-02",
-    "count": 2,
-    "score": 82.3
+    "last_notified": "2026-07-06",
+    "count": 3,
+    "score": 76.7
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_notified": "2026-06-27",
@@ -553,9 +529,9 @@
   },
   "tt-a1i/archify": {
     "first_notified": "2026-07-02",
-    "last_notified": "2026-07-02",
-    "count": 1,
-    "score": 59.9
+    "last_notified": "2026-07-06",
+    "count": 2,
+    "score": 67.2
   },
   "gglucass/headroom-desktop": {
     "first_notified": "2026-07-03",
@@ -610,5 +586,11 @@
     "last_notified": "2026-07-05",
     "count": 1,
     "score": 61.8
+  },
+  "CoreBunch/Instatic": {
+    "first_notified": "2026-07-06",
+    "last_notified": "2026-07-06",
+    "count": 1,
+    "score": 76.9
   }
 }
