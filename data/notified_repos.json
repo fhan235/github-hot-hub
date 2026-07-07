@@ -53,12 +53,6 @@
     "count": 4,
     "score": 53.2
   },
-  "cursor/plugins": {
-    "first_notified": "2026-05-26",
-    "last_notified": "2026-06-06",
-    "count": 3,
-    "score": 58.7
-  },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
     "last_notified": "2026-06-16",
@@ -101,23 +95,11 @@
     "count": 2,
     "score": 66.0
   },
-  "nesquena/hermes-webui": {
-    "first_notified": "2026-06-03",
-    "last_notified": "2026-06-06",
-    "count": 2,
-    "score": 68.8
-  },
   "harry0703/MoneyPrinterTurbo": {
     "first_notified": "2026-06-04",
     "last_notified": "2026-06-13",
     "count": 2,
     "score": 57.5
-  },
-  "NVlabs/Eagle": {
-    "first_notified": "2026-06-06",
-    "last_notified": "2026-06-06",
-    "count": 1,
-    "score": 61.7
   },
   "microsoft/markitdown": {
     "first_notified": "2026-06-06",
@@ -487,9 +469,9 @@
   },
   "facebook/astryx": {
     "first_notified": "2026-06-30",
-    "last_notified": "2026-06-30",
-    "count": 1,
-    "score": 62.2
+    "last_notified": "2026-07-07",
+    "count": 2,
+    "score": 80.7
   },
   "Unclecheng-li/VulnClaw": {
     "first_notified": "2026-07-01",
@@ -511,9 +493,9 @@
   },
   "hasaneyldrm/exercises-dataset": {
     "first_notified": "2026-07-01",
-    "last_notified": "2026-07-01",
-    "count": 1,
-    "score": 64.2
+    "last_notified": "2026-07-07",
+    "count": 2,
+    "score": 82.5
   },
   "aws/agent-toolkit-for-aws": {
     "first_notified": "2026-07-01",
@@ -592,5 +574,23 @@
     "last_notified": "2026-07-06",
     "count": 1,
     "score": 76.9
+  },
+  "altic-dev/FluidVoice": {
+    "first_notified": "2026-07-07",
+    "last_notified": "2026-07-07",
+    "count": 1,
+    "score": 71.2
+  },
+  "usestrix/strix": {
+    "first_notified": "2026-07-07",
+    "last_notified": "2026-07-07",
+    "count": 1,
+    "score": 69.2
+  },
+  "msitarzewski/agency-agents": {
+    "first_notified": "2026-07-07",
+    "last_notified": "2026-07-07",
+    "count": 1,
+    "score": 58.7
   }
 }
