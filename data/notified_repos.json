@@ -41,12 +41,6 @@
     "count": 2,
     "score": 56.4
   },
-  "Lum1104/Understand-Anything": {
-    "first_notified": "2026-05-25",
-    "last_notified": "2026-06-07",
-    "count": 4,
-    "score": 62.4
-  },
   "can1357/oh-my-pi": {
     "first_notified": "2026-05-26",
     "last_notified": "2026-06-10",
@@ -89,12 +83,6 @@
     "count": 5,
     "score": 69.9
   },
-  "revfactory/harness": {
-    "first_notified": "2026-06-03",
-    "last_notified": "2026-06-07",
-    "count": 2,
-    "score": 66.0
-  },
   "harry0703/MoneyPrinterTurbo": {
     "first_notified": "2026-06-04",
     "last_notified": "2026-06-13",
@@ -106,12 +94,6 @@
     "last_notified": "2026-06-10",
     "count": 2,
     "score": 54.5
-  },
-  "FareedKhan-dev/train-llm-from-scratch": {
-    "first_notified": "2026-06-07",
-    "last_notified": "2026-06-07",
-    "count": 1,
-    "score": 75.6
   },
   "reconurge/flowsint": {
     "first_notified": "2026-06-08",
@@ -301,9 +283,9 @@
   },
   "DeusData/codebase-memory-mcp": {
     "first_notified": "2026-06-19",
-    "last_notified": "2026-07-04",
-    "count": 4,
-    "score": 75.1
+    "last_notified": "2026-07-08",
+    "count": 5,
+    "score": 62.2
   },
   "music-assistant/server": {
     "first_notified": "2026-06-19",
@@ -529,9 +511,9 @@
   },
   "browser-use/video-use": {
     "first_notified": "2026-07-04",
-    "last_notified": "2026-07-04",
-    "count": 1,
-    "score": 65.3
+    "last_notified": "2026-07-08",
+    "count": 2,
+    "score": 61.2
   },
   "google/agents-cli": {
     "first_notified": "2026-07-04",
@@ -592,5 +574,23 @@
     "last_notified": "2026-07-07",
     "count": 1,
     "score": 58.7
+  },
+  "MadsLorentzen/ai-job-search": {
+    "first_notified": "2026-07-08",
+    "last_notified": "2026-07-08",
+    "count": 1,
+    "score": 68.2
+  },
+  "JuliusBrussee/caveman": {
+    "first_notified": "2026-07-08",
+    "last_notified": "2026-07-08",
+    "count": 1,
+    "score": 58.7
+  },
+  "iOfficeAI/OfficeCLI": {
+    "first_notified": "2026-07-08",
+    "last_notified": "2026-07-08",
+    "count": 1,
+    "score": 58.1
   }
 }
