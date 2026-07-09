@@ -35,12 +35,6 @@
     "count": 5,
     "score": 66.1
   },
-  "affaan-m/ECC": {
-    "first_notified": "2026-05-22",
-    "last_notified": "2026-06-08",
-    "count": 2,
-    "score": 56.4
-  },
   "can1357/oh-my-pi": {
     "first_notified": "2026-05-26",
     "last_notified": "2026-06-10",
@@ -52,12 +46,6 @@
     "last_notified": "2026-06-16",
     "count": 4,
     "score": 66.3
-  },
-  "ogulcancelik/herdr": {
-    "first_notified": "2026-05-28",
-    "last_notified": "2026-06-08",
-    "count": 3,
-    "score": 62.9
   },
   "mukul975/Anthropic-Cybersecurity-Skills": {
     "first_notified": "2026-05-30",
@@ -94,12 +82,6 @@
     "last_notified": "2026-06-10",
     "count": 2,
     "score": 54.5
-  },
-  "reconurge/flowsint": {
-    "first_notified": "2026-06-08",
-    "last_notified": "2026-06-08",
-    "count": 1,
-    "score": 68.5
   },
   "Open-LLM-VTuber/Open-LLM-VTuber": {
     "first_notified": "2026-06-08",
@@ -541,9 +523,9 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
-    "last_notified": "2026-07-05",
-    "count": 1,
-    "score": 69.6
+    "last_notified": "2026-07-09",
+    "count": 2,
+    "score": 67.6
   },
   "Starmel/OpenSuperWhisper": {
     "first_notified": "2026-07-05",
@@ -592,5 +574,29 @@
     "last_notified": "2026-07-08",
     "count": 1,
     "score": 58.1
+  },
+  "webbrain-one/webbrain": {
+    "first_notified": "2026-07-09",
+    "last_notified": "2026-07-09",
+    "count": 1,
+    "score": 64.6
+  },
+  "harvard-edge/cs249r_book": {
+    "first_notified": "2026-07-09",
+    "last_notified": "2026-07-09",
+    "count": 1,
+    "score": 61.3
+  },
+  "openai/codex-plugin-cc": {
+    "first_notified": "2026-07-09",
+    "last_notified": "2026-07-09",
+    "count": 1,
+    "score": 61.0
+  },
+  "alibaba/page-agent": {
+    "first_notified": "2026-07-09",
+    "last_notified": "2026-07-09",
+    "count": 1,
+    "score": 59.9
   }
 }
