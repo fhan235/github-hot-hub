@@ -23,12 +23,6 @@
     "count": 3,
     "score": 57.1
   },
-  "colbymchenry/codegraph": {
-    "first_notified": "2026-05-12",
-    "last_notified": "2026-06-09",
-    "count": 7,
-    "score": 62.5
-  },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
     "last_notified": "2026-07-06",
@@ -52,12 +46,6 @@
     "last_notified": "2026-06-27",
     "count": 3,
     "score": 63.9
-  },
-  "hardikpandya/stop-slop": {
-    "first_notified": "2026-05-31",
-    "last_notified": "2026-06-09",
-    "count": 3,
-    "score": 62.1
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-05-31",
@@ -391,9 +379,9 @@
   },
   "xbtlin/ai-berkshire": {
     "first_notified": "2026-06-27",
-    "last_notified": "2026-07-06",
-    "count": 3,
-    "score": 76.7
+    "last_notified": "2026-07-10",
+    "count": 4,
+    "score": 66.0
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_notified": "2026-06-27",
@@ -598,5 +586,29 @@
     "last_notified": "2026-07-09",
     "count": 1,
     "score": 59.9
+  },
+  "Zackriya-Solutions/meetily": {
+    "first_notified": "2026-07-10",
+    "last_notified": "2026-07-10",
+    "count": 1,
+    "score": 74.6
+  },
+  "ogulcancelik/herdr": {
+    "first_notified": "2026-07-10",
+    "last_notified": "2026-07-10",
+    "count": 1,
+    "score": 67.9
+  },
+  "BraveOPotato/FckSignups": {
+    "first_notified": "2026-07-10",
+    "last_notified": "2026-07-10",
+    "count": 1,
+    "score": 65.1
+  },
+  "ModernRelay/omnigraph": {
+    "first_notified": "2026-07-10",
+    "last_notified": "2026-07-10",
+    "count": 1,
+    "score": 63.7
   }
 }
