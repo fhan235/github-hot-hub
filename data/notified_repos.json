@@ -25,15 +25,9 @@
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-07-06",
-    "count": 5,
-    "score": 66.1
-  },
-  "can1357/oh-my-pi": {
-    "first_notified": "2026-05-26",
-    "last_notified": "2026-06-10",
-    "count": 4,
-    "score": 53.2
+    "last_notified": "2026-07-11",
+    "count": 6,
+    "score": 65.1
   },
   "RyanCodrai/turbovec": {
     "first_notified": "2026-05-28",
@@ -65,12 +59,6 @@
     "count": 2,
     "score": 57.5
   },
-  "microsoft/markitdown": {
-    "first_notified": "2026-06-06",
-    "last_notified": "2026-06-10",
-    "count": 2,
-    "score": 54.5
-  },
   "Open-LLM-VTuber/Open-LLM-VTuber": {
     "first_notified": "2026-06-08",
     "last_notified": "2026-06-18",
@@ -94,12 +82,6 @@
     "last_notified": "2026-07-03",
     "count": 4,
     "score": 68.8
-  },
-  "FB208/OpenBidKit_Yibiao": {
-    "first_notified": "2026-06-10",
-    "last_notified": "2026-06-10",
-    "count": 1,
-    "score": 59.1
   },
   "mvanhorn/last30days-skill": {
     "first_notified": "2026-06-10",
@@ -421,9 +403,9 @@
   },
   "facebook/astryx": {
     "first_notified": "2026-06-30",
-    "last_notified": "2026-07-07",
-    "count": 2,
-    "score": 80.7
+    "last_notified": "2026-07-11",
+    "count": 3,
+    "score": 73.8
   },
   "Unclecheng-li/VulnClaw": {
     "first_notified": "2026-07-01",
@@ -493,9 +475,9 @@
   },
   "chthollyphile/folia-major": {
     "first_notified": "2026-07-04",
-    "last_notified": "2026-07-04",
-    "count": 1,
-    "score": 61.6
+    "last_notified": "2026-07-11",
+    "count": 2,
+    "score": 63.6
   },
   "CarterPerez-dev/Cybersecurity-Projects": {
     "first_notified": "2026-07-04",
@@ -610,5 +592,17 @@
     "last_notified": "2026-07-10",
     "count": 1,
     "score": 63.7
+  },
+  "bradautomates/claude-video": {
+    "first_notified": "2026-07-11",
+    "last_notified": "2026-07-11",
+    "count": 1,
+    "score": 77.2
+  },
+  "kyutai-labs/pocket-tts": {
+    "first_notified": "2026-07-11",
+    "last_notified": "2026-07-11",
+    "count": 1,
+    "score": 66.3
   }
 }
