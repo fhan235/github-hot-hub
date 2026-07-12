@@ -95,18 +95,6 @@
     "count": 5,
     "score": 62.6
   },
-  "microsoft/VibeVoice": {
-    "first_notified": "2026-06-11",
-    "last_notified": "2026-06-11",
-    "count": 1,
-    "score": 57.3
-  },
-  "lfnovo/open-notebook": {
-    "first_notified": "2026-06-11",
-    "last_notified": "2026-06-11",
-    "count": 1,
-    "score": 56.7
-  },
   "openai/plugins": {
     "first_notified": "2026-06-12",
     "last_notified": "2026-06-12",
@@ -541,9 +529,9 @@
   },
   "iOfficeAI/OfficeCLI": {
     "first_notified": "2026-07-08",
-    "last_notified": "2026-07-08",
-    "count": 1,
-    "score": 58.1
+    "last_notified": "2026-07-12",
+    "count": 2,
+    "score": 75.1
   },
   "webbrain-one/webbrain": {
     "first_notified": "2026-07-09",
@@ -604,5 +592,29 @@
     "last_notified": "2026-07-11",
     "count": 1,
     "score": 66.3
+  },
+  "malisper/pgrust": {
+    "first_notified": "2026-07-12",
+    "last_notified": "2026-07-12",
+    "count": 1,
+    "score": 65.5
+  },
+  "TencentCloud/CubeSandbox": {
+    "first_notified": "2026-07-12",
+    "last_notified": "2026-07-12",
+    "count": 1,
+    "score": 61.3
+  },
+  "asgeirtj/system_prompts_leaks": {
+    "first_notified": "2026-07-12",
+    "last_notified": "2026-07-12",
+    "count": 1,
+    "score": 60.8
+  },
+  "TencentCloud/TencentDB-Agent-Memory": {
+    "first_notified": "2026-07-12",
+    "last_notified": "2026-07-12",
+    "count": 1,
+    "score": 60.4
   }
 }
