@@ -101,23 +101,11 @@
     "count": 2,
     "score": 66.1
   },
-  "maziyarpanahi/openmed": {
-    "first_notified": "2026-06-15",
-    "last_notified": "2026-06-15",
-    "count": 1,
-    "score": 73.9
-  },
   "apple/container": {
     "first_notified": "2026-06-15",
     "last_notified": "2026-06-25",
     "count": 3,
     "score": 59.4
-  },
-  "safishamsi/graphify": {
-    "first_notified": "2026-06-15",
-    "last_notified": "2026-06-15",
-    "count": 1,
-    "score": 65.6
   },
   "activeloopai/hivemind": {
     "first_notified": "2026-06-16",
@@ -481,9 +469,9 @@
   },
   "iOfficeAI/OfficeCLI": {
     "first_notified": "2026-07-08",
-    "last_notified": "2026-07-12",
-    "count": 2,
-    "score": 75.1
+    "last_notified": "2026-07-16",
+    "count": 3,
+    "score": 71.2
   },
   "webbrain-one/webbrain": {
     "first_notified": "2026-07-09",
@@ -586,5 +574,29 @@
     "last_notified": "2026-07-14",
     "count": 1,
     "score": 57.3
+  },
+  "kangarooking/cangjie-skill": {
+    "first_notified": "2026-07-16",
+    "last_notified": "2026-07-16",
+    "count": 1,
+    "score": 60.6
+  },
+  "anthropics/claude-cookbooks": {
+    "first_notified": "2026-07-16",
+    "last_notified": "2026-07-16",
+    "count": 1,
+    "score": 60.4
+  },
+  "rowboatlabs/rowboat": {
+    "first_notified": "2026-07-16",
+    "last_notified": "2026-07-16",
+    "count": 1,
+    "score": 56.4
+  },
+  "macro-inc/macro": {
+    "first_notified": "2026-07-16",
+    "last_notified": "2026-07-16",
+    "count": 1,
+    "score": 55.3
   }
 }
