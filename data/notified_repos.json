@@ -23,12 +23,6 @@
     "count": 7,
     "score": 67.7
   },
-  "RyanCodrai/turbovec": {
-    "first_notified": "2026-05-28",
-    "last_notified": "2026-06-16",
-    "count": 4,
-    "score": 66.3
-  },
   "mukul975/Anthropic-Cybersecurity-Skills": {
     "first_notified": "2026-05-30",
     "last_notified": "2026-06-27",
@@ -83,12 +77,6 @@
     "count": 5,
     "score": 62.6
   },
-  "Andyyyy64/whichllm": {
-    "first_notified": "2026-06-12",
-    "last_notified": "2026-06-16",
-    "count": 2,
-    "score": 61.9
-  },
   "heygen-com/hyperframes": {
     "first_notified": "2026-06-12",
     "last_notified": "2026-06-28",
@@ -106,24 +94,6 @@
     "last_notified": "2026-06-25",
     "count": 3,
     "score": 59.4
-  },
-  "activeloopai/hivemind": {
-    "first_notified": "2026-06-16",
-    "last_notified": "2026-06-16",
-    "count": 1,
-    "score": 71.2
-  },
-  "Sumanth077/Hands-On-AI-Engineering": {
-    "first_notified": "2026-06-16",
-    "last_notified": "2026-06-16",
-    "count": 1,
-    "score": 64.2
-  },
-  "masterking32/MasterDnsVPN": {
-    "first_notified": "2026-06-16",
-    "last_notified": "2026-06-16",
-    "count": 1,
-    "score": 61.0
   },
   "NVIDIA/SkillSpector": {
     "first_notified": "2026-06-17",
@@ -421,9 +391,9 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
-    "last_notified": "2026-07-13",
-    "count": 3,
-    "score": 65.5
+    "last_notified": "2026-07-17",
+    "count": 4,
+    "score": 61.8
   },
   "Starmel/OpenSuperWhisper": {
     "first_notified": "2026-07-05",
@@ -559,9 +529,9 @@
   },
   "microsoft/flint-chart": {
     "first_notified": "2026-07-13",
-    "last_notified": "2026-07-13",
-    "count": 1,
-    "score": 72.2
+    "last_notified": "2026-07-17",
+    "count": 2,
+    "score": 67.7
   },
   "wonderwhy-er/DesktopCommanderMCP": {
     "first_notified": "2026-07-14",
@@ -598,5 +568,23 @@
     "last_notified": "2026-07-16",
     "count": 1,
     "score": 55.3
+  },
+  "Nutlope/hallmark": {
+    "first_notified": "2026-07-17",
+    "last_notified": "2026-07-17",
+    "count": 1,
+    "score": 66.6
+  },
+  "Gentleman-Programming/engram": {
+    "first_notified": "2026-07-17",
+    "last_notified": "2026-07-17",
+    "count": 1,
+    "score": 55.8
+  },
+  "pingdotgg/t3code": {
+    "first_notified": "2026-07-17",
+    "last_notified": "2026-07-17",
+    "count": 1,
+    "score": 54.8
   }
 }
