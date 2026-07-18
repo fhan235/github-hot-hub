@@ -49,9 +49,9 @@
   },
   "HKUDS/Vibe-Trading": {
     "first_notified": "2026-06-09",
-    "last_notified": "2026-07-05",
-    "count": 2,
-    "score": 63.1
+    "last_notified": "2026-07-18",
+    "count": 3,
+    "score": 63.9
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-06-09",
@@ -64,12 +64,6 @@
     "last_notified": "2026-07-03",
     "count": 4,
     "score": 68.8
-  },
-  "mvanhorn/last30days-skill": {
-    "first_notified": "2026-06-10",
-    "last_notified": "2026-06-17",
-    "count": 3,
-    "score": 61.9
   },
   "Panniantong/Agent-Reach": {
     "first_notified": "2026-06-11",
@@ -101,23 +95,11 @@
     "count": 3,
     "score": 64.2
   },
-  "LLMQuant/quant-mind": {
-    "first_notified": "2026-06-17",
-    "last_notified": "2026-06-17",
-    "count": 1,
-    "score": 72.5
-  },
   "kenn-io/agentsview": {
     "first_notified": "2026-06-17",
     "last_notified": "2026-07-13",
     "count": 3,
     "score": 58.1
-  },
-  "shuvonsec/claude-bug-bounty": {
-    "first_notified": "2026-06-17",
-    "last_notified": "2026-06-17",
-    "count": 1,
-    "score": 57.6
   },
   "hexo-ai/sia": {
     "first_notified": "2026-06-18",
@@ -505,9 +487,9 @@
   },
   "malisper/pgrust": {
     "first_notified": "2026-07-12",
-    "last_notified": "2026-07-12",
-    "count": 1,
-    "score": 65.5
+    "last_notified": "2026-07-18",
+    "count": 2,
+    "score": 76.3
   },
   "TencentCloud/CubeSandbox": {
     "first_notified": "2026-07-12",
@@ -535,9 +517,9 @@
   },
   "wonderwhy-er/DesktopCommanderMCP": {
     "first_notified": "2026-07-14",
-    "last_notified": "2026-07-14",
-    "count": 1,
-    "score": 59.8
+    "last_notified": "2026-07-18",
+    "count": 2,
+    "score": 57.0
   },
   "unclecode/crawl4ai": {
     "first_notified": "2026-07-14",
@@ -586,5 +568,17 @@
     "last_notified": "2026-07-17",
     "count": 1,
     "score": 54.8
+  },
+  "vercel-labs/native": {
+    "first_notified": "2026-07-18",
+    "last_notified": "2026-07-18",
+    "count": 1,
+    "score": 58.6
+  },
+  "FB208/OpenBidKit_Yibiao": {
+    "first_notified": "2026-07-18",
+    "last_notified": "2026-07-18",
+    "count": 1,
+    "score": 58.1
   }
 }
