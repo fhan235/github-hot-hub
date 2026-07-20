@@ -29,18 +29,6 @@
     "count": 3,
     "score": 63.9
   },
-  "Leonxlnx/taste-skill": {
-    "first_notified": "2026-05-31",
-    "last_notified": "2026-06-19",
-    "count": 5,
-    "score": 66.6
-  },
-  "chopratejas/headroom": {
-    "first_notified": "2026-06-02",
-    "last_notified": "2026-06-19",
-    "count": 5,
-    "score": 69.9
-  },
   "HKUDS/Vibe-Trading": {
     "first_notified": "2026-06-09",
     "last_notified": "2026-07-18",
@@ -100,12 +88,6 @@
     "last_notified": "2026-07-08",
     "count": 5,
     "score": 62.2
-  },
-  "music-assistant/server": {
-    "first_notified": "2026-06-19",
-    "last_notified": "2026-06-19",
-    "count": 1,
-    "score": 65.3
   },
   "palmier-io/palmier-pro": {
     "first_notified": "2026-06-20",
@@ -403,9 +385,9 @@
   },
   "iOfficeAI/OfficeCLI": {
     "first_notified": "2026-07-08",
-    "last_notified": "2026-07-16",
-    "count": 3,
-    "score": 71.2
+    "last_notified": "2026-07-20",
+    "count": 4,
+    "score": 62.2
   },
   "webbrain-one/webbrain": {
     "first_notified": "2026-07-09",
@@ -511,9 +493,9 @@
   },
   "kangarooking/cangjie-skill": {
     "first_notified": "2026-07-16",
-    "last_notified": "2026-07-16",
-    "count": 1,
-    "score": 60.6
+    "last_notified": "2026-07-20",
+    "count": 2,
+    "score": 62.9
   },
   "anthropics/claude-cookbooks": {
     "first_notified": "2026-07-16",
@@ -568,5 +550,23 @@
     "last_notified": "2026-07-19",
     "count": 1,
     "score": 60.3
+  },
+  "apache/ossie": {
+    "first_notified": "2026-07-20",
+    "last_notified": "2026-07-20",
+    "count": 1,
+    "score": 68.4
+  },
+  "bojieli/ai-agent-book": {
+    "first_notified": "2026-07-20",
+    "last_notified": "2026-07-20",
+    "count": 1,
+    "score": 68.3
+  },
+  "tokio-rs/topcoat": {
+    "first_notified": "2026-07-20",
+    "last_notified": "2026-07-20",
+    "count": 1,
+    "score": 62.3
   }
 }
