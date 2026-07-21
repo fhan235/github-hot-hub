@@ -101,12 +101,6 @@
     "count": 2,
     "score": 58.7
   },
-  "ibelick/ui-skills": {
-    "first_notified": "2026-06-20",
-    "last_notified": "2026-06-20",
-    "count": 1,
-    "score": 55.5
-  },
   "tw93/Pake": {
     "first_notified": "2026-06-21",
     "last_notified": "2026-06-26",
@@ -289,9 +283,9 @@
   },
   "tt-a1i/archify": {
     "first_notified": "2026-07-02",
-    "last_notified": "2026-07-13",
-    "count": 3,
-    "score": 60.5
+    "last_notified": "2026-07-21",
+    "count": 4,
+    "score": 71.4
   },
   "gglucass/headroom-desktop": {
     "first_notified": "2026-07-03",
@@ -568,5 +562,29 @@
     "last_notified": "2026-07-20",
     "count": 1,
     "score": 62.3
+  },
+  "HenryNdubuaku/maths-cs-ai-compendium": {
+    "first_notified": "2026-07-21",
+    "last_notified": "2026-07-21",
+    "count": 1,
+    "score": 70.8
+  },
+  "oblien/openship": {
+    "first_notified": "2026-07-21",
+    "last_notified": "2026-07-21",
+    "count": 1,
+    "score": 70.2
+  },
+  "Dicklesworthstone/destructive_command_guard": {
+    "first_notified": "2026-07-21",
+    "last_notified": "2026-07-21",
+    "count": 1,
+    "score": 66.0
+  },
+  "microsoft/Ontology-Playground": {
+    "first_notified": "2026-07-21",
+    "last_notified": "2026-07-21",
+    "count": 1,
+    "score": 61.3
   }
 }
