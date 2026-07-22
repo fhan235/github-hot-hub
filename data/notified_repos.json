@@ -31,9 +31,9 @@
   },
   "HKUDS/Vibe-Trading": {
     "first_notified": "2026-06-09",
-    "last_notified": "2026-07-18",
-    "count": 3,
-    "score": 63.9
+    "last_notified": "2026-07-22",
+    "count": 4,
+    "score": 57.7
   },
   "NousResearch/hermes-agent": {
     "first_notified": "2026-06-09",
@@ -106,18 +106,6 @@
     "last_notified": "2026-06-26",
     "count": 2,
     "score": 68.4
-  },
-  "rezarahiminia/worldcup2026": {
-    "first_notified": "2026-06-21",
-    "last_notified": "2026-06-21",
-    "count": 1,
-    "score": 56.0
-  },
-  "andrewyng/aisuite": {
-    "first_notified": "2026-06-21",
-    "last_notified": "2026-06-21",
-    "count": 1,
-    "score": 55.7
   },
   "google-research/timesfm": {
     "first_notified": "2026-06-22",
@@ -295,9 +283,9 @@
   },
   "Robbyant/lingbot-map": {
     "first_notified": "2026-07-03",
-    "last_notified": "2026-07-03",
-    "count": 1,
-    "score": 58.8
+    "last_notified": "2026-07-22",
+    "count": 2,
+    "score": 65.1
   },
   "browser-use/video-use": {
     "first_notified": "2026-07-04",
@@ -535,9 +523,9 @@
   },
   "FB208/OpenBidKit_Yibiao": {
     "first_notified": "2026-07-18",
-    "last_notified": "2026-07-18",
-    "count": 1,
-    "score": 58.1
+    "last_notified": "2026-07-22",
+    "count": 2,
+    "score": 60.5
   },
   "AIEraDev/Clypra": {
     "first_notified": "2026-07-19",
@@ -586,5 +574,17 @@
     "last_notified": "2026-07-21",
     "count": 1,
     "score": 61.3
+  },
+  "ayghri/i-have-adhd": {
+    "first_notified": "2026-07-22",
+    "last_notified": "2026-07-22",
+    "count": 1,
+    "score": 67.7
+  },
+  "ibelick/ui-skills": {
+    "first_notified": "2026-07-22",
+    "last_notified": "2026-07-22",
+    "count": 1,
+    "score": 65.2
   }
 }
