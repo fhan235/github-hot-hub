@@ -35,12 +35,6 @@
     "count": 4,
     "score": 57.7
   },
-  "NousResearch/hermes-agent": {
-    "first_notified": "2026-06-09",
-    "last_notified": "2026-06-22",
-    "count": 3,
-    "score": 53.6
-  },
   "kunchenguid/no-mistakes": {
     "first_notified": "2026-06-10",
     "last_notified": "2026-07-03",
@@ -77,12 +71,6 @@
     "count": 3,
     "score": 58.1
   },
-  "iptv-org/iptv": {
-    "first_notified": "2026-06-18",
-    "last_notified": "2026-06-22",
-    "count": 2,
-    "score": 56.5
-  },
   "DeusData/codebase-memory-mcp": {
     "first_notified": "2026-06-19",
     "last_notified": "2026-07-08",
@@ -106,24 +94,6 @@
     "last_notified": "2026-06-26",
     "count": 2,
     "score": 68.4
-  },
-  "google-research/timesfm": {
-    "first_notified": "2026-06-22",
-    "last_notified": "2026-06-22",
-    "count": 1,
-    "score": 59.4
-  },
-  "Kilo-Org/kilocode": {
-    "first_notified": "2026-06-22",
-    "last_notified": "2026-06-22",
-    "count": 1,
-    "score": 58.4
-  },
-  "n0-computer/iroh": {
-    "first_notified": "2026-06-22",
-    "last_notified": "2026-06-22",
-    "count": 1,
-    "score": 55.5
   },
   "calesthio/OpenMontage": {
     "first_notified": "2026-06-23",
@@ -499,9 +469,9 @@
   },
   "Nutlope/hallmark": {
     "first_notified": "2026-07-17",
-    "last_notified": "2026-07-19",
-    "count": 2,
-    "score": 81.8
+    "last_notified": "2026-07-23",
+    "count": 3,
+    "score": 79.9
   },
   "Gentleman-Programming/engram": {
     "first_notified": "2026-07-17",
@@ -586,5 +556,29 @@
     "last_notified": "2026-07-22",
     "count": 1,
     "score": 65.2
+  },
+  "block/buzz": {
+    "first_notified": "2026-07-23",
+    "last_notified": "2026-07-23",
+    "count": 1,
+    "score": 79.5
+  },
+  "MoonshotAI/kimi-code": {
+    "first_notified": "2026-07-23",
+    "last_notified": "2026-07-23",
+    "count": 1,
+    "score": 68.6
+  },
+  "AdventDevInc/kudu": {
+    "first_notified": "2026-07-23",
+    "last_notified": "2026-07-23",
+    "count": 1,
+    "score": 60.2
+  },
+  "can1357/oh-my-pi": {
+    "first_notified": "2026-07-23",
+    "last_notified": "2026-07-23",
+    "count": 1,
+    "score": 58.9
   }
 }
