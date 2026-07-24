@@ -11,12 +11,6 @@
     "count": 10,
     "score": 67.5
   },
-  "withastro/flue": {
-    "first_notified": "2026-05-11",
-    "last_notified": "2026-06-23",
-    "count": 3,
-    "score": 57.1
-  },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
     "last_notified": "2026-07-19",
@@ -505,9 +499,9 @@
   },
   "apache/ossie": {
     "first_notified": "2026-07-20",
-    "last_notified": "2026-07-20",
-    "count": 1,
-    "score": 68.4
+    "last_notified": "2026-07-24",
+    "count": 2,
+    "score": 67.1
   },
   "bojieli/ai-agent-book": {
     "first_notified": "2026-07-20",
@@ -580,5 +574,29 @@
     "last_notified": "2026-07-23",
     "count": 1,
     "score": 58.9
+  },
+  "tirth8205/code-review-graph": {
+    "first_notified": "2026-07-24",
+    "last_notified": "2026-07-24",
+    "count": 1,
+    "score": 65.1
+  },
+  "microsoft/agent-framework-go": {
+    "first_notified": "2026-07-24",
+    "last_notified": "2026-07-24",
+    "count": 1,
+    "score": 62.8
+  },
+  "XiaoYouChR/Ghost-Downloader-3": {
+    "first_notified": "2026-07-24",
+    "last_notified": "2026-07-24",
+    "count": 1,
+    "score": 62.6
+  },
+  "PrismML-Eng/Bonsai-demo": {
+    "first_notified": "2026-07-24",
+    "last_notified": "2026-07-24",
+    "count": 1,
+    "score": 62.3
   }
 }
