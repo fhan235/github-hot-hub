@@ -47,18 +47,6 @@
     "count": 2,
     "score": 62.8
   },
-  "apple/container": {
-    "first_notified": "2026-06-15",
-    "last_notified": "2026-06-25",
-    "count": 3,
-    "score": 59.4
-  },
-  "NVIDIA/SkillSpector": {
-    "first_notified": "2026-06-17",
-    "last_notified": "2026-06-25",
-    "count": 3,
-    "score": 64.2
-  },
   "kenn-io/agentsview": {
     "first_notified": "2026-06-17",
     "last_notified": "2026-07-13",
@@ -118,12 +106,6 @@
     "last_notified": "2026-07-03",
     "count": 3,
     "score": 60.1
-  },
-  "zzet/gortex": {
-    "first_notified": "2026-06-25",
-    "last_notified": "2026-06-25",
-    "count": 1,
-    "score": 60.8
   },
   "tursodatabase/turso": {
     "first_notified": "2026-06-26",
@@ -235,9 +217,9 @@
   },
   "Robbyant/lingbot-map": {
     "first_notified": "2026-07-03",
-    "last_notified": "2026-07-22",
-    "count": 2,
-    "score": 65.1
+    "last_notified": "2026-07-26",
+    "count": 3,
+    "score": 58.4
   },
   "browser-use/video-use": {
     "first_notified": "2026-07-04",
@@ -535,9 +517,9 @@
   },
   "ibelick/ui-skills": {
     "first_notified": "2026-07-22",
-    "last_notified": "2026-07-22",
-    "count": 1,
-    "score": 65.2
+    "last_notified": "2026-07-26",
+    "count": 2,
+    "score": 59.2
   },
   "block/buzz": {
     "first_notified": "2026-07-23",
@@ -598,5 +580,23 @@
     "last_notified": "2026-07-25",
     "count": 1,
     "score": 61.3
+  },
+  "KnockOutEZ/wigolo": {
+    "first_notified": "2026-07-26",
+    "last_notified": "2026-07-26",
+    "count": 1,
+    "score": 78.0
+  },
+  "permissionlesstech/bitchat": {
+    "first_notified": "2026-07-26",
+    "last_notified": "2026-07-26",
+    "count": 1,
+    "score": 59.8
+  },
+  "ltaoo/wx_channels_download": {
+    "first_notified": "2026-07-26",
+    "last_notified": "2026-07-26",
+    "count": 1,
+    "score": 58.3
   }
 }
