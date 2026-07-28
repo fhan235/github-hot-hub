@@ -17,12 +17,6 @@
     "count": 9,
     "score": 66.5
   },
-  "mukul975/Anthropic-Cybersecurity-Skills": {
-    "first_notified": "2026-05-30",
-    "last_notified": "2026-06-27",
-    "count": 3,
-    "score": 63.9
-  },
   "HKUDS/Vibe-Trading": {
     "first_notified": "2026-06-09",
     "last_notified": "2026-07-22",
@@ -65,12 +59,6 @@
     "count": 3,
     "score": 82.0
   },
-  "asheshgoplani/agent-deck": {
-    "first_notified": "2026-06-20",
-    "last_notified": "2026-06-27",
-    "count": 2,
-    "score": 58.7
-  },
   "calesthio/OpenMontage": {
     "first_notified": "2026-06-23",
     "last_notified": "2026-07-06",
@@ -106,18 +94,6 @@
     "last_notified": "2026-07-10",
     "count": 4,
     "score": 66.0
-  },
-  "Anil-matcha/Open-Generative-AI": {
-    "first_notified": "2026-06-27",
-    "last_notified": "2026-06-27",
-    "count": 1,
-    "score": 57.0
-  },
-  "jamiepine/voicebox": {
-    "first_notified": "2026-06-27",
-    "last_notified": "2026-06-27",
-    "count": 1,
-    "score": 56.4
   },
   "ZhuLinsen/daily_stock_analysis": {
     "first_notified": "2026-06-28",
@@ -487,15 +463,15 @@
   },
   "microsoft/Ontology-Playground": {
     "first_notified": "2026-07-21",
-    "last_notified": "2026-07-21",
-    "count": 1,
-    "score": 61.3
+    "last_notified": "2026-07-28",
+    "count": 2,
+    "score": 62.6
   },
   "ayghri/i-have-adhd": {
     "first_notified": "2026-07-22",
-    "last_notified": "2026-07-22",
-    "count": 1,
-    "score": 67.7
+    "last_notified": "2026-07-28",
+    "count": 2,
+    "score": 83.4
   },
   "ibelick/ui-skills": {
     "first_notified": "2026-07-22",
@@ -505,9 +481,9 @@
   },
   "block/buzz": {
     "first_notified": "2026-07-23",
-    "last_notified": "2026-07-23",
-    "count": 1,
-    "score": 79.5
+    "last_notified": "2026-07-28",
+    "count": 2,
+    "score": 91.0
   },
   "MoonshotAI/kimi-code": {
     "first_notified": "2026-07-23",
@@ -517,9 +493,9 @@
   },
   "AdventDevInc/kudu": {
     "first_notified": "2026-07-23",
-    "last_notified": "2026-07-23",
-    "count": 1,
-    "score": 60.2
+    "last_notified": "2026-07-28",
+    "count": 2,
+    "score": 73.6
   },
   "can1357/oh-my-pi": {
     "first_notified": "2026-07-23",
@@ -586,5 +562,11 @@
     "last_notified": "2026-07-27",
     "count": 1,
     "score": 72.2
+  },
+  "koala73/worldmonitor": {
+    "first_notified": "2026-07-28",
+    "last_notified": "2026-07-28",
+    "count": 1,
+    "score": 63.8
   }
 }
