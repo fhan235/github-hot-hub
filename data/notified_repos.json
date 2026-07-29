@@ -13,9 +13,9 @@
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-07-25",
-    "count": 9,
-    "score": 66.5
+    "last_notified": "2026-07-29",
+    "count": 10,
+    "score": 64.8
   },
   "HKUDS/Vibe-Trading": {
     "first_notified": "2026-06-09",
@@ -34,12 +34,6 @@
     "last_notified": "2026-07-03",
     "count": 5,
     "score": 62.6
-  },
-  "heygen-com/hyperframes": {
-    "first_notified": "2026-06-12",
-    "last_notified": "2026-06-28",
-    "count": 2,
-    "score": 62.8
   },
   "kenn-io/agentsview": {
     "first_notified": "2026-06-17",
@@ -71,12 +65,6 @@
     "count": 3,
     "score": 63.8
   },
-  "NVIDIA/skills": {
-    "first_notified": "2026-06-23",
-    "last_notified": "2026-06-28",
-    "count": 2,
-    "score": 63.3
-  },
   "BuilderIO/agent-native": {
     "first_notified": "2026-06-24",
     "last_notified": "2026-06-30",
@@ -94,12 +82,6 @@
     "last_notified": "2026-07-10",
     "count": 4,
     "score": 66.0
-  },
-  "ZhuLinsen/daily_stock_analysis": {
-    "first_notified": "2026-06-28",
-    "last_notified": "2026-06-28",
-    "count": 1,
-    "score": 60.6
   },
   "voocel/ainovel-cli": {
     "first_notified": "2026-06-29",
@@ -223,9 +205,9 @@
   },
   "CoreBunch/Instatic": {
     "first_notified": "2026-07-06",
-    "last_notified": "2026-07-06",
-    "count": 1,
-    "score": 76.9
+    "last_notified": "2026-07-29",
+    "count": 2,
+    "score": 71.5
   },
   "altic-dev/FluidVoice": {
     "first_notified": "2026-07-07",
@@ -433,9 +415,9 @@
   },
   "bojieli/ai-agent-book": {
     "first_notified": "2026-07-20",
-    "last_notified": "2026-07-25",
-    "count": 2,
-    "score": 85.0
+    "last_notified": "2026-07-29",
+    "count": 3,
+    "score": 77.0
   },
   "tokio-rs/topcoat": {
     "first_notified": "2026-07-20",
@@ -568,5 +550,17 @@
     "last_notified": "2026-07-28",
     "count": 1,
     "score": 63.8
+  },
+  "Julian-adv/OpenMMO": {
+    "first_notified": "2026-07-29",
+    "last_notified": "2026-07-29",
+    "count": 1,
+    "score": 72.7
+  },
+  "UditAkhourii/adhd": {
+    "first_notified": "2026-07-29",
+    "last_notified": "2026-07-29",
+    "count": 1,
+    "score": 69.1
   }
 }
