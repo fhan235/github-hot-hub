@@ -7,9 +7,9 @@
   },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
-    "last_notified": "2026-07-19",
-    "count": 10,
-    "score": 67.5
+    "last_notified": "2026-07-30",
+    "count": 11,
+    "score": 58.3
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
@@ -47,12 +47,6 @@
     "count": 5,
     "score": 62.2
   },
-  "palmier-io/palmier-pro": {
-    "first_notified": "2026-06-20",
-    "last_notified": "2026-06-29",
-    "count": 3,
-    "score": 82.0
-  },
   "calesthio/OpenMontage": {
     "first_notified": "2026-06-23",
     "last_notified": "2026-07-06",
@@ -83,12 +77,6 @@
     "count": 4,
     "score": 66.0
   },
-  "voocel/ainovel-cli": {
-    "first_notified": "2026-06-29",
-    "last_notified": "2026-06-29",
-    "count": 1,
-    "score": 65.8
-  },
   "google-labs-code/design.md": {
     "first_notified": "2026-06-30",
     "last_notified": "2026-06-30",
@@ -115,9 +103,9 @@
   },
   "every-app/open-seo": {
     "first_notified": "2026-07-01",
-    "last_notified": "2026-07-25",
-    "count": 2,
-    "score": 71.7
+    "last_notified": "2026-07-30",
+    "count": 3,
+    "score": 61.2
   },
   "JCodesMore/ai-website-cloner-template": {
     "first_notified": "2026-07-01",
@@ -517,9 +505,9 @@
   },
   "citrolabs/ego-lite": {
     "first_notified": "2026-07-25",
-    "last_notified": "2026-07-25",
-    "count": 1,
-    "score": 61.3
+    "last_notified": "2026-07-30",
+    "count": 2,
+    "score": 79.6
   },
   "KnockOutEZ/wigolo": {
     "first_notified": "2026-07-26",
@@ -562,5 +550,17 @@
     "last_notified": "2026-07-29",
     "count": 1,
     "score": 69.1
+  },
+  "Pumpkin-MC/Pumpkin": {
+    "first_notified": "2026-07-30",
+    "last_notified": "2026-07-30",
+    "count": 1,
+    "score": 59.0
+  },
+  "Automattic/harper": {
+    "first_notified": "2026-07-30",
+    "last_notified": "2026-07-30",
+    "count": 1,
+    "score": 57.7
   }
 }
