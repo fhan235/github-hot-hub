@@ -59,12 +59,6 @@
     "count": 3,
     "score": 63.8
   },
-  "BuilderIO/agent-native": {
-    "first_notified": "2026-06-24",
-    "last_notified": "2026-06-30",
-    "count": 3,
-    "score": 72.3
-  },
   "topoteretes/cognee": {
     "first_notified": "2026-06-25",
     "last_notified": "2026-07-03",
@@ -76,18 +70,6 @@
     "last_notified": "2026-07-10",
     "count": 4,
     "score": 66.0
-  },
-  "google-labs-code/design.md": {
-    "first_notified": "2026-06-30",
-    "last_notified": "2026-06-30",
-    "count": 1,
-    "score": 68.9
-  },
-  "mauriceboe/TREK": {
-    "first_notified": "2026-06-30",
-    "last_notified": "2026-06-30",
-    "count": 1,
-    "score": 65.2
   },
   "facebook/astryx": {
     "first_notified": "2026-06-30",
@@ -181,9 +163,9 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
-    "last_notified": "2026-07-27",
-    "count": 5,
-    "score": 72.7
+    "last_notified": "2026-07-31",
+    "count": 6,
+    "score": 66.4
   },
   "Starmel/OpenSuperWhisper": {
     "first_notified": "2026-07-05",
@@ -409,9 +391,9 @@
   },
   "tokio-rs/topcoat": {
     "first_notified": "2026-07-20",
-    "last_notified": "2026-07-27",
-    "count": 2,
-    "score": 76.1
+    "last_notified": "2026-07-31",
+    "count": 3,
+    "score": 60.2
   },
   "HenryNdubuaku/maths-cs-ai-compendium": {
     "first_notified": "2026-07-21",
@@ -529,9 +511,9 @@
   },
   "agegr/pi-web": {
     "first_notified": "2026-07-27",
-    "last_notified": "2026-07-27",
-    "count": 1,
-    "score": 72.2
+    "last_notified": "2026-07-31",
+    "count": 2,
+    "score": 60.5
   },
   "koala73/worldmonitor": {
     "first_notified": "2026-07-28",
@@ -562,5 +544,17 @@
     "last_notified": "2026-07-30",
     "count": 1,
     "score": 57.7
+  },
+  "alibaba/open-code-review": {
+    "first_notified": "2026-07-31",
+    "last_notified": "2026-07-31",
+    "count": 1,
+    "score": 68.4
+  },
+  "ovexro/dockpanel": {
+    "first_notified": "2026-07-31",
+    "last_notified": "2026-07-31",
+    "count": 1,
+    "score": 64.0
   }
 }
