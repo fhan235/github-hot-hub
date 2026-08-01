@@ -89,23 +89,11 @@
     "count": 3,
     "score": 61.2
   },
-  "JCodesMore/ai-website-cloner-template": {
-    "first_notified": "2026-07-01",
-    "last_notified": "2026-07-01",
-    "count": 1,
-    "score": 64.3
-  },
   "hasaneyldrm/exercises-dataset": {
     "first_notified": "2026-07-01",
     "last_notified": "2026-07-07",
     "count": 2,
     "score": 82.5
-  },
-  "aws/agent-toolkit-for-aws": {
-    "first_notified": "2026-07-01",
-    "last_notified": "2026-07-01",
-    "count": 1,
-    "score": 62.3
   },
   "simplex-chat/simplex-chat": {
     "first_notified": "2026-07-02",
@@ -421,9 +409,9 @@
   },
   "ayghri/i-have-adhd": {
     "first_notified": "2026-07-22",
-    "last_notified": "2026-07-28",
-    "count": 2,
-    "score": 83.4
+    "last_notified": "2026-08-01",
+    "count": 3,
+    "score": 69.6
   },
   "ibelick/ui-skills": {
     "first_notified": "2026-07-22",
@@ -433,9 +421,9 @@
   },
   "block/buzz": {
     "first_notified": "2026-07-23",
-    "last_notified": "2026-07-28",
-    "count": 2,
-    "score": 91.0
+    "last_notified": "2026-08-01",
+    "count": 3,
+    "score": 80.7
   },
   "MoonshotAI/kimi-code": {
     "first_notified": "2026-07-23",
@@ -556,5 +544,23 @@
     "last_notified": "2026-07-31",
     "count": 1,
     "score": 64.0
+  },
+  "pascalorg/editor": {
+    "first_notified": "2026-08-01",
+    "last_notified": "2026-08-01",
+    "count": 1,
+    "score": 56.6
+  },
+  "BuilderIO/agent-native": {
+    "first_notified": "2026-08-01",
+    "last_notified": "2026-08-01",
+    "count": 1,
+    "score": 56.2
+  },
+  "earthtojake/text-to-cad": {
+    "first_notified": "2026-08-01",
+    "last_notified": "2026-08-01",
+    "count": 1,
+    "score": 55.6
   }
 }
