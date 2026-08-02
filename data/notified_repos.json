@@ -95,12 +95,6 @@
     "count": 2,
     "score": 82.5
   },
-  "simplex-chat/simplex-chat": {
-    "first_notified": "2026-07-02",
-    "last_notified": "2026-07-02",
-    "count": 1,
-    "score": 70.9
-  },
   "tt-a1i/archify": {
     "first_notified": "2026-07-02",
     "last_notified": "2026-07-21",
@@ -163,9 +157,9 @@
   },
   "CoreBunch/Instatic": {
     "first_notified": "2026-07-06",
-    "last_notified": "2026-07-29",
-    "count": 2,
-    "score": 71.5
+    "last_notified": "2026-08-02",
+    "count": 3,
+    "score": 66.7
   },
   "altic-dev/FluidVoice": {
     "first_notified": "2026-07-07",
@@ -469,9 +463,9 @@
   },
   "1jehuang/jcode": {
     "first_notified": "2026-07-25",
-    "last_notified": "2026-07-25",
-    "count": 1,
-    "score": 61.8
+    "last_notified": "2026-08-02",
+    "count": 2,
+    "score": 62.4
   },
   "citrolabs/ego-lite": {
     "first_notified": "2026-07-25",
@@ -487,9 +481,9 @@
   },
   "permissionlesstech/bitchat": {
     "first_notified": "2026-07-26",
-    "last_notified": "2026-07-26",
-    "count": 1,
-    "score": 59.8
+    "last_notified": "2026-08-02",
+    "count": 2,
+    "score": 69.3
   },
   "ltaoo/wx_channels_download": {
     "first_notified": "2026-07-26",
@@ -562,5 +556,17 @@
     "last_notified": "2026-08-01",
     "count": 1,
     "score": 55.6
+  },
+  "opengeos/GeoLibre": {
+    "first_notified": "2026-08-02",
+    "last_notified": "2026-08-02",
+    "count": 1,
+    "score": 75.9
+  },
+  "virgiliojr94/book-to-skill": {
+    "first_notified": "2026-08-02",
+    "last_notified": "2026-08-02",
+    "count": 1,
+    "score": 69.4
   }
 }
