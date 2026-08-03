@@ -23,18 +23,6 @@
     "count": 4,
     "score": 57.7
   },
-  "kunchenguid/no-mistakes": {
-    "first_notified": "2026-06-10",
-    "last_notified": "2026-07-03",
-    "count": 4,
-    "score": 68.8
-  },
-  "Panniantong/Agent-Reach": {
-    "first_notified": "2026-06-11",
-    "last_notified": "2026-07-03",
-    "count": 5,
-    "score": 62.6
-  },
   "kenn-io/agentsview": {
     "first_notified": "2026-06-17",
     "last_notified": "2026-07-13",
@@ -59,12 +47,6 @@
     "count": 3,
     "score": 63.8
   },
-  "topoteretes/cognee": {
-    "first_notified": "2026-06-25",
-    "last_notified": "2026-07-03",
-    "count": 3,
-    "score": 60.1
-  },
   "xbtlin/ai-berkshire": {
     "first_notified": "2026-06-27",
     "last_notified": "2026-07-10",
@@ -85,9 +67,9 @@
   },
   "every-app/open-seo": {
     "first_notified": "2026-07-01",
-    "last_notified": "2026-07-30",
-    "count": 3,
-    "score": 61.2
+    "last_notified": "2026-08-03",
+    "count": 4,
+    "score": 57.5
   },
   "hasaneyldrm/exercises-dataset": {
     "first_notified": "2026-07-01",
@@ -100,12 +82,6 @@
     "last_notified": "2026-07-21",
     "count": 4,
     "score": 71.4
-  },
-  "gglucass/headroom-desktop": {
-    "first_notified": "2026-07-03",
-    "last_notified": "2026-07-03",
-    "count": 1,
-    "score": 60.9
   },
   "Robbyant/lingbot-map": {
     "first_notified": "2026-07-03",
@@ -367,9 +343,9 @@
   },
   "bojieli/ai-agent-book": {
     "first_notified": "2026-07-20",
-    "last_notified": "2026-07-29",
-    "count": 3,
-    "score": 77.0
+    "last_notified": "2026-08-03",
+    "count": 4,
+    "score": 77.1
   },
   "tokio-rs/topcoat": {
     "first_notified": "2026-07-20",
@@ -469,9 +445,9 @@
   },
   "citrolabs/ego-lite": {
     "first_notified": "2026-07-25",
-    "last_notified": "2026-07-30",
-    "count": 2,
-    "score": 79.6
+    "last_notified": "2026-08-03",
+    "count": 3,
+    "score": 73.7
   },
   "KnockOutEZ/wigolo": {
     "first_notified": "2026-07-26",
@@ -568,5 +544,17 @@
     "last_notified": "2026-08-02",
     "count": 1,
     "score": 69.4
+  },
+  "huggingface/speech-to-speech": {
+    "first_notified": "2026-08-03",
+    "last_notified": "2026-08-03",
+    "count": 1,
+    "score": 70.3
+  },
+  "permissionlesstech/bitchat-android": {
+    "first_notified": "2026-08-03",
+    "last_notified": "2026-08-03",
+    "count": 1,
+    "score": 59.8
   }
 }
