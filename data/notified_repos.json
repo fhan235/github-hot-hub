@@ -95,23 +95,11 @@
     "count": 2,
     "score": 61.2
   },
-  "google/agents-cli": {
-    "first_notified": "2026-07-04",
-    "last_notified": "2026-07-04",
-    "count": 1,
-    "score": 63.9
-  },
   "chthollyphile/folia-major": {
     "first_notified": "2026-07-04",
     "last_notified": "2026-07-11",
     "count": 2,
     "score": 63.6
-  },
-  "CarterPerez-dev/Cybersecurity-Projects": {
-    "first_notified": "2026-07-04",
-    "last_notified": "2026-07-04",
-    "count": 1,
-    "score": 59.8
   },
   "vercel-labs/deepsec": {
     "first_notified": "2026-07-05",
@@ -121,9 +109,9 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
-    "last_notified": "2026-07-31",
-    "count": 6,
-    "score": 66.4
+    "last_notified": "2026-08-04",
+    "count": 7,
+    "score": 62.3
   },
   "Starmel/OpenSuperWhisper": {
     "first_notified": "2026-07-05",
@@ -505,9 +493,9 @@
   },
   "alibaba/open-code-review": {
     "first_notified": "2026-07-31",
-    "last_notified": "2026-07-31",
-    "count": 1,
-    "score": 68.4
+    "last_notified": "2026-08-04",
+    "count": 2,
+    "score": 61.5
   },
   "ovexro/dockpanel": {
     "first_notified": "2026-07-31",
@@ -556,5 +544,23 @@
     "last_notified": "2026-08-03",
     "count": 1,
     "score": 59.8
+  },
+  "agavra/tuicr": {
+    "first_notified": "2026-08-04",
+    "last_notified": "2026-08-04",
+    "count": 1,
+    "score": 74.0
+  },
+  "firecrawl/pdf-inspector": {
+    "first_notified": "2026-08-04",
+    "last_notified": "2026-08-04",
+    "count": 1,
+    "score": 65.5
+  },
+  "different-ai/openwork": {
+    "first_notified": "2026-08-04",
+    "last_notified": "2026-08-04",
+    "count": 1,
+    "score": 58.7
   }
 }
