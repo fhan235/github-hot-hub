@@ -35,12 +35,6 @@
     "count": 5,
     "score": 62.2
   },
-  "calesthio/OpenMontage": {
-    "first_notified": "2026-06-23",
-    "last_notified": "2026-07-06",
-    "count": 4,
-    "score": 64.6
-  },
   "OpenCut-app/OpenCut": {
     "first_notified": "2026-06-23",
     "last_notified": "2026-07-19",
@@ -505,15 +499,15 @@
   },
   "opengeos/GeoLibre": {
     "first_notified": "2026-08-02",
-    "last_notified": "2026-08-02",
-    "count": 1,
-    "score": 75.9
+    "last_notified": "2026-08-06",
+    "count": 2,
+    "score": 62.0
   },
   "virgiliojr94/book-to-skill": {
     "first_notified": "2026-08-02",
-    "last_notified": "2026-08-02",
-    "count": 1,
-    "score": 69.4
+    "last_notified": "2026-08-06",
+    "count": 2,
+    "score": 65.2
   },
   "huggingface/speech-to-speech": {
     "first_notified": "2026-08-03",
@@ -556,5 +550,23 @@
     "last_notified": "2026-08-05",
     "count": 1,
     "score": 61.3
+  },
+  "zhaoxuya520/reverse-skill": {
+    "first_notified": "2026-08-06",
+    "last_notified": "2026-08-06",
+    "count": 1,
+    "score": 80.5
+  },
+  "cloudflare/computer": {
+    "first_notified": "2026-08-06",
+    "last_notified": "2026-08-06",
+    "count": 1,
+    "score": 64.5
+  },
+  "github/gh-stack": {
+    "first_notified": "2026-08-06",
+    "last_notified": "2026-08-06",
+    "count": 1,
+    "score": 62.4
   }
 }
