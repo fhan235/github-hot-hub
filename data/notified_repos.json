@@ -59,12 +59,6 @@
     "count": 4,
     "score": 57.5
   },
-  "hasaneyldrm/exercises-dataset": {
-    "first_notified": "2026-07-01",
-    "last_notified": "2026-07-07",
-    "count": 2,
-    "score": 82.5
-  },
   "tt-a1i/archify": {
     "first_notified": "2026-07-02",
     "last_notified": "2026-07-21",
@@ -100,24 +94,6 @@
     "last_notified": "2026-08-02",
     "count": 3,
     "score": 66.7
-  },
-  "altic-dev/FluidVoice": {
-    "first_notified": "2026-07-07",
-    "last_notified": "2026-07-07",
-    "count": 1,
-    "score": 71.2
-  },
-  "usestrix/strix": {
-    "first_notified": "2026-07-07",
-    "last_notified": "2026-07-07",
-    "count": 1,
-    "score": 69.2
-  },
-  "msitarzewski/agency-agents": {
-    "first_notified": "2026-07-07",
-    "last_notified": "2026-07-07",
-    "count": 1,
-    "score": 58.7
   },
   "MadsLorentzen/ai-job-search": {
     "first_notified": "2026-07-08",
@@ -409,9 +385,9 @@
   },
   "citrolabs/ego-lite": {
     "first_notified": "2026-07-25",
-    "last_notified": "2026-08-03",
-    "count": 3,
-    "score": 73.7
+    "last_notified": "2026-08-07",
+    "count": 4,
+    "score": 63.5
   },
   "KnockOutEZ/wigolo": {
     "first_notified": "2026-07-26",
@@ -511,9 +487,9 @@
   },
   "huggingface/speech-to-speech": {
     "first_notified": "2026-08-03",
-    "last_notified": "2026-08-03",
-    "count": 1,
-    "score": 70.3
+    "last_notified": "2026-08-07",
+    "count": 2,
+    "score": 62.8
   },
   "permissionlesstech/bitchat-android": {
     "first_notified": "2026-08-03",
@@ -559,14 +535,26 @@
   },
   "cloudflare/computer": {
     "first_notified": "2026-08-06",
-    "last_notified": "2026-08-06",
-    "count": 1,
-    "score": 64.5
+    "last_notified": "2026-08-07",
+    "count": 2,
+    "score": 77.8
   },
   "github/gh-stack": {
     "first_notified": "2026-08-06",
     "last_notified": "2026-08-06",
     "count": 1,
     "score": 62.4
+  },
+  "usekaneo/kaneo": {
+    "first_notified": "2026-08-07",
+    "last_notified": "2026-08-07",
+    "count": 1,
+    "score": 76.2
+  },
+  "lyogavin/airllm": {
+    "first_notified": "2026-08-07",
+    "last_notified": "2026-08-07",
+    "count": 1,
+    "score": 61.0
   }
 }
