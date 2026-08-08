@@ -29,12 +29,6 @@
     "count": 3,
     "score": 58.1
   },
-  "DeusData/codebase-memory-mcp": {
-    "first_notified": "2026-06-19",
-    "last_notified": "2026-07-08",
-    "count": 5,
-    "score": 62.2
-  },
   "OpenCut-app/OpenCut": {
     "first_notified": "2026-06-23",
     "last_notified": "2026-07-19",
@@ -71,12 +65,6 @@
     "count": 3,
     "score": 58.4
   },
-  "browser-use/video-use": {
-    "first_notified": "2026-07-04",
-    "last_notified": "2026-07-08",
-    "count": 2,
-    "score": 61.2
-  },
   "chthollyphile/folia-major": {
     "first_notified": "2026-07-04",
     "last_notified": "2026-07-11",
@@ -85,9 +73,9 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
-    "last_notified": "2026-08-04",
-    "count": 7,
-    "score": 62.3
+    "last_notified": "2026-08-08",
+    "count": 8,
+    "score": 61.0
   },
   "CoreBunch/Instatic": {
     "first_notified": "2026-07-06",
@@ -100,12 +88,6 @@
     "last_notified": "2026-07-15",
     "count": 2,
     "score": 85.0
-  },
-  "JuliusBrussee/caveman": {
-    "first_notified": "2026-07-08",
-    "last_notified": "2026-07-08",
-    "count": 1,
-    "score": 58.7
   },
   "iOfficeAI/OfficeCLI": {
     "first_notified": "2026-07-08",
@@ -445,9 +427,9 @@
   },
   "alibaba/open-code-review": {
     "first_notified": "2026-07-31",
-    "last_notified": "2026-08-04",
-    "count": 2,
-    "score": 61.5
+    "last_notified": "2026-08-08",
+    "count": 3,
+    "score": 55.9
   },
   "ovexro/dockpanel": {
     "first_notified": "2026-07-31",
@@ -556,5 +538,23 @@
     "last_notified": "2026-08-07",
     "count": 1,
     "score": 61.0
+  },
+  "PrimeIntellect-ai/prime-agent": {
+    "first_notified": "2026-08-08",
+    "last_notified": "2026-08-08",
+    "count": 1,
+    "score": 72.7
+  },
+  "denoland/celld": {
+    "first_notified": "2026-08-08",
+    "last_notified": "2026-08-08",
+    "count": 1,
+    "score": 58.4
+  },
+  "abus-aikorea/voice-pro": {
+    "first_notified": "2026-08-08",
+    "last_notified": "2026-08-08",
+    "count": 1,
+    "score": 54.7
   }
 }
