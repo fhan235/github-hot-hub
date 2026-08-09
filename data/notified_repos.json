@@ -95,30 +95,6 @@
     "count": 4,
     "score": 62.2
   },
-  "webbrain-one/webbrain": {
-    "first_notified": "2026-07-09",
-    "last_notified": "2026-07-09",
-    "count": 1,
-    "score": 64.6
-  },
-  "harvard-edge/cs249r_book": {
-    "first_notified": "2026-07-09",
-    "last_notified": "2026-07-09",
-    "count": 1,
-    "score": 61.3
-  },
-  "openai/codex-plugin-cc": {
-    "first_notified": "2026-07-09",
-    "last_notified": "2026-07-09",
-    "count": 1,
-    "score": 61.0
-  },
-  "alibaba/page-agent": {
-    "first_notified": "2026-07-09",
-    "last_notified": "2026-07-09",
-    "count": 1,
-    "score": 59.9
-  },
   "Zackriya-Solutions/meetily": {
     "first_notified": "2026-07-10",
     "last_notified": "2026-07-14",
@@ -175,9 +151,9 @@
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_notified": "2026-07-12",
-    "last_notified": "2026-07-12",
-    "count": 1,
-    "score": 60.4
+    "last_notified": "2026-08-09",
+    "count": 2,
+    "score": 76.3
   },
   "microsoft/flint-chart": {
     "first_notified": "2026-07-13",
@@ -301,9 +277,9 @@
   },
   "ayghri/i-have-adhd": {
     "first_notified": "2026-07-22",
-    "last_notified": "2026-08-05",
-    "count": 4,
-    "score": 64.6
+    "last_notified": "2026-08-09",
+    "count": 5,
+    "score": 59.5
   },
   "ibelick/ui-skills": {
     "first_notified": "2026-07-22",
@@ -313,9 +289,9 @@
   },
   "block/buzz": {
     "first_notified": "2026-07-23",
-    "last_notified": "2026-08-05",
-    "count": 4,
-    "score": 69.8
+    "last_notified": "2026-08-09",
+    "count": 5,
+    "score": 62.4
   },
   "MoonshotAI/kimi-code": {
     "first_notified": "2026-07-23",
@@ -505,9 +481,9 @@
   },
   "microsoft/AI-For-Beginners": {
     "first_notified": "2026-08-05",
-    "last_notified": "2026-08-05",
-    "count": 1,
-    "score": 61.3
+    "last_notified": "2026-08-09",
+    "count": 2,
+    "score": 59.6
   },
   "zhaoxuya520/reverse-skill": {
     "first_notified": "2026-08-06",
@@ -556,5 +532,11 @@
     "last_notified": "2026-08-08",
     "count": 1,
     "score": 54.7
+  },
+  "esengine/DeepSeek-Reasonix": {
+    "first_notified": "2026-08-09",
+    "last_notified": "2026-08-09",
+    "count": 1,
+    "score": 58.8
   }
 }
