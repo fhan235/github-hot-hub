@@ -35,12 +35,6 @@
     "count": 3,
     "score": 63.8
   },
-  "xbtlin/ai-berkshire": {
-    "first_notified": "2026-06-27",
-    "last_notified": "2026-07-10",
-    "count": 4,
-    "score": 66.0
-  },
   "facebook/astryx": {
     "first_notified": "2026-06-30",
     "last_notified": "2026-07-15",
@@ -106,18 +100,6 @@
     "last_notified": "2026-07-14",
     "count": 2,
     "score": 61.1
-  },
-  "BraveOPotato/FckSignups": {
-    "first_notified": "2026-07-10",
-    "last_notified": "2026-07-10",
-    "count": 1,
-    "score": 65.1
-  },
-  "ModernRelay/omnigraph": {
-    "first_notified": "2026-07-10",
-    "last_notified": "2026-07-10",
-    "count": 1,
-    "score": 63.7
   },
   "bradautomates/claude-video": {
     "first_notified": "2026-07-11",
@@ -463,9 +445,9 @@
   },
   "firecrawl/pdf-inspector": {
     "first_notified": "2026-08-04",
-    "last_notified": "2026-08-04",
-    "count": 1,
-    "score": 65.5
+    "last_notified": "2026-08-10",
+    "count": 2,
+    "score": 84.4
   },
   "different-ai/openwork": {
     "first_notified": "2026-08-04",
@@ -475,9 +457,9 @@
   },
   "huangruiteng/loopx": {
     "first_notified": "2026-08-05",
-    "last_notified": "2026-08-05",
-    "count": 1,
-    "score": 65.3
+    "last_notified": "2026-08-10",
+    "count": 2,
+    "score": 79.6
   },
   "microsoft/AI-For-Beginners": {
     "first_notified": "2026-08-05",
@@ -487,9 +469,9 @@
   },
   "zhaoxuya520/reverse-skill": {
     "first_notified": "2026-08-06",
-    "last_notified": "2026-08-06",
-    "count": 1,
-    "score": 80.5
+    "last_notified": "2026-08-10",
+    "count": 2,
+    "score": 76.9
   },
   "cloudflare/computer": {
     "first_notified": "2026-08-06",
@@ -538,5 +520,17 @@
     "last_notified": "2026-08-09",
     "count": 1,
     "score": 58.8
+  },
+  "semantica-agi/semantica": {
+    "first_notified": "2026-08-10",
+    "last_notified": "2026-08-10",
+    "count": 1,
+    "score": 68.3
+  },
+  "Panniantong/Agent-Reach": {
+    "first_notified": "2026-08-10",
+    "last_notified": "2026-08-10",
+    "count": 1,
+    "score": 65.1
   }
 }
