@@ -59,12 +59,6 @@
     "count": 3,
     "score": 58.4
   },
-  "chthollyphile/folia-major": {
-    "first_notified": "2026-07-04",
-    "last_notified": "2026-07-11",
-    "count": 2,
-    "score": 63.6
-  },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
     "last_notified": "2026-08-08",
@@ -421,9 +415,9 @@
   },
   "virgiliojr94/book-to-skill": {
     "first_notified": "2026-08-02",
-    "last_notified": "2026-08-06",
-    "count": 2,
-    "score": 65.2
+    "last_notified": "2026-08-11",
+    "count": 3,
+    "score": 61.5
   },
   "huggingface/speech-to-speech": {
     "first_notified": "2026-08-03",
@@ -487,15 +481,15 @@
   },
   "usekaneo/kaneo": {
     "first_notified": "2026-08-07",
-    "last_notified": "2026-08-07",
-    "count": 1,
-    "score": 76.2
+    "last_notified": "2026-08-11",
+    "count": 2,
+    "score": 55.2
   },
   "lyogavin/airllm": {
     "first_notified": "2026-08-07",
-    "last_notified": "2026-08-07",
-    "count": 1,
-    "score": 61.0
+    "last_notified": "2026-08-11",
+    "count": 2,
+    "score": 57.7
   },
   "PrimeIntellect-ai/prime-agent": {
     "first_notified": "2026-08-08",
@@ -532,5 +526,17 @@
     "last_notified": "2026-08-10",
     "count": 1,
     "score": 65.1
+  },
+  "satnaing/shadcn-admin": {
+    "first_notified": "2026-08-11",
+    "last_notified": "2026-08-11",
+    "count": 1,
+    "score": 58.1
+  },
+  "unclebob/swarm-forge": {
+    "first_notified": "2026-08-11",
+    "last_notified": "2026-08-11",
+    "count": 1,
+    "score": 56.7
   }
 }
