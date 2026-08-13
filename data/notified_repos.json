@@ -1,10 +1,4 @@
 {
-  "addyosmani/agent-skills": {
-    "first_notified": "2026-04-16",
-    "last_notified": "2026-07-13",
-    "count": 8,
-    "score": 59.3
-  },
   "mattpocock/skills": {
     "first_notified": "2026-04-27",
     "last_notified": "2026-07-30",
@@ -22,12 +16,6 @@
     "last_notified": "2026-07-22",
     "count": 4,
     "score": 57.7
-  },
-  "kenn-io/agentsview": {
-    "first_notified": "2026-06-17",
-    "last_notified": "2026-07-13",
-    "count": 3,
-    "score": 58.1
   },
   "OpenCut-app/OpenCut": {
     "first_notified": "2026-06-23",
@@ -115,9 +103,9 @@
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_notified": "2026-07-12",
-    "last_notified": "2026-08-09",
-    "count": 2,
-    "score": 76.3
+    "last_notified": "2026-08-13",
+    "count": 3,
+    "score": 66.6
   },
   "microsoft/flint-chart": {
     "first_notified": "2026-07-13",
@@ -538,5 +526,29 @@
     "last_notified": "2026-08-12",
     "count": 1,
     "score": 55.6
+  },
+  "cathrynlavery/diagram-design": {
+    "first_notified": "2026-08-13",
+    "last_notified": "2026-08-13",
+    "count": 1,
+    "score": 70.5
+  },
+  "NVIDIA-NeMo/Switchyard": {
+    "first_notified": "2026-08-13",
+    "last_notified": "2026-08-13",
+    "count": 1,
+    "score": 68.7
+  },
+  "harveyai/harvey-labs": {
+    "first_notified": "2026-08-13",
+    "last_notified": "2026-08-13",
+    "count": 1,
+    "score": 66.4
+  },
+  "vitali87/code-graph-rag": {
+    "first_notified": "2026-08-13",
+    "last_notified": "2026-08-13",
+    "count": 1,
+    "score": 65.5
   }
 }
