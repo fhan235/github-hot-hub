@@ -23,12 +23,6 @@
     "count": 3,
     "score": 63.8
   },
-  "facebook/astryx": {
-    "first_notified": "2026-06-30",
-    "last_notified": "2026-07-15",
-    "count": 4,
-    "score": 60.7
-  },
   "every-app/open-seo": {
     "first_notified": "2026-07-01",
     "last_notified": "2026-08-03",
@@ -59,29 +53,11 @@
     "count": 3,
     "score": 66.7
   },
-  "MadsLorentzen/ai-job-search": {
-    "first_notified": "2026-07-08",
-    "last_notified": "2026-07-15",
-    "count": 2,
-    "score": 85.0
-  },
   "iOfficeAI/OfficeCLI": {
     "first_notified": "2026-07-08",
     "last_notified": "2026-07-20",
     "count": 4,
     "score": 62.2
-  },
-  "bradautomates/claude-video": {
-    "first_notified": "2026-07-11",
-    "last_notified": "2026-07-15",
-    "count": 2,
-    "score": 71.7
-  },
-  "kyutai-labs/pocket-tts": {
-    "first_notified": "2026-07-11",
-    "last_notified": "2026-07-15",
-    "count": 2,
-    "score": 57.9
   },
   "malisper/pgrust": {
     "first_notified": "2026-07-12",
