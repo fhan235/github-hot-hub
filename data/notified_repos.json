@@ -7,9 +7,9 @@
   },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-08-05",
-    "count": 11,
-    "score": 68.8
+    "last_notified": "2026-08-16",
+    "count": 12,
+    "score": 59.4
   },
   "HKUDS/Vibe-Trading": {
     "first_notified": "2026-06-09",
@@ -88,18 +88,6 @@
     "last_notified": "2026-07-20",
     "count": 2,
     "score": 62.9
-  },
-  "anthropics/claude-cookbooks": {
-    "first_notified": "2026-07-16",
-    "last_notified": "2026-07-16",
-    "count": 1,
-    "score": 60.4
-  },
-  "rowboatlabs/rowboat": {
-    "first_notified": "2026-07-16",
-    "last_notified": "2026-07-16",
-    "count": 1,
-    "score": 56.4
   },
   "macro-inc/macro": {
     "first_notified": "2026-07-16",
@@ -403,9 +391,9 @@
   },
   "cloudflare/computer": {
     "first_notified": "2026-08-06",
-    "last_notified": "2026-08-12",
-    "count": 3,
-    "score": 83.0
+    "last_notified": "2026-08-16",
+    "count": 4,
+    "score": 59.7
   },
   "github/gh-stack": {
     "first_notified": "2026-08-06",
@@ -508,5 +496,23 @@
     "last_notified": "2026-08-13",
     "count": 1,
     "score": 65.5
+  },
+  "corsairdev/corsair": {
+    "first_notified": "2026-08-16",
+    "last_notified": "2026-08-16",
+    "count": 1,
+    "score": 62.9
+  },
+  "liustack/modlens": {
+    "first_notified": "2026-08-16",
+    "last_notified": "2026-08-16",
+    "count": 1,
+    "score": 61.8
+  },
+  "anthropics/skills": {
+    "first_notified": "2026-08-16",
+    "last_notified": "2026-08-16",
+    "count": 1,
+    "score": 59.9
   }
 }
