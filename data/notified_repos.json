@@ -71,12 +71,6 @@
     "count": 3,
     "score": 66.6
   },
-  "microsoft/flint-chart": {
-    "first_notified": "2026-07-13",
-    "last_notified": "2026-07-17",
-    "count": 2,
-    "score": 67.7
-  },
   "wonderwhy-er/DesktopCommanderMCP": {
     "first_notified": "2026-07-14",
     "last_notified": "2026-07-18",
@@ -100,18 +94,6 @@
     "last_notified": "2026-07-27",
     "count": 4,
     "score": 65.5
-  },
-  "Gentleman-Programming/engram": {
-    "first_notified": "2026-07-17",
-    "last_notified": "2026-07-17",
-    "count": 1,
-    "score": 55.8
-  },
-  "pingdotgg/t3code": {
-    "first_notified": "2026-07-17",
-    "last_notified": "2026-07-17",
-    "count": 1,
-    "score": 54.8
   },
   "vercel-labs/native": {
     "first_notified": "2026-07-18",
@@ -439,9 +421,9 @@
   },
   "semantica-agi/semantica": {
     "first_notified": "2026-08-10",
-    "last_notified": "2026-08-10",
-    "count": 1,
-    "score": 68.3
+    "last_notified": "2026-08-17",
+    "count": 2,
+    "score": 78.9
   },
   "Panniantong/Agent-Reach": {
     "first_notified": "2026-08-10",
@@ -475,15 +457,15 @@
   },
   "cathrynlavery/diagram-design": {
     "first_notified": "2026-08-13",
-    "last_notified": "2026-08-13",
-    "count": 1,
-    "score": 70.5
+    "last_notified": "2026-08-17",
+    "count": 2,
+    "score": 83.4
   },
   "NVIDIA-NeMo/Switchyard": {
     "first_notified": "2026-08-13",
-    "last_notified": "2026-08-13",
-    "count": 1,
-    "score": 68.7
+    "last_notified": "2026-08-17",
+    "count": 2,
+    "score": 73.9
   },
   "harveyai/harvey-labs": {
     "first_notified": "2026-08-13",
@@ -493,9 +475,9 @@
   },
   "vitali87/code-graph-rag": {
     "first_notified": "2026-08-13",
-    "last_notified": "2026-08-13",
-    "count": 1,
-    "score": 65.5
+    "last_notified": "2026-08-17",
+    "count": 2,
+    "score": 66.4
   },
   "corsairdev/corsair": {
     "first_notified": "2026-08-16",
@@ -514,5 +496,11 @@
     "last_notified": "2026-08-16",
     "count": 1,
     "score": 59.9
+  },
+  "anomalyco/opencode": {
+    "first_notified": "2026-08-17",
+    "last_notified": "2026-08-17",
+    "count": 1,
+    "score": 60.3
   }
 }
