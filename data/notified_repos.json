@@ -17,12 +17,6 @@
     "count": 4,
     "score": 57.7
   },
-  "OpenCut-app/OpenCut": {
-    "first_notified": "2026-06-23",
-    "last_notified": "2026-07-19",
-    "count": 3,
-    "score": 63.8
-  },
   "every-app/open-seo": {
     "first_notified": "2026-07-01",
     "last_notified": "2026-08-03",
@@ -61,9 +55,9 @@
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_notified": "2026-07-12",
-    "last_notified": "2026-08-13",
-    "count": 3,
-    "score": 66.6
+    "last_notified": "2026-08-19",
+    "count": 4,
+    "score": 57.1
   },
   "kangarooking/cangjie-skill": {
     "first_notified": "2026-07-16",
@@ -88,12 +82,6 @@
     "last_notified": "2026-07-22",
     "count": 2,
     "score": 60.5
-  },
-  "AIEraDev/Clypra": {
-    "first_notified": "2026-07-19",
-    "last_notified": "2026-07-19",
-    "count": 1,
-    "score": 60.3
   },
   "apache/ossie": {
     "first_notified": "2026-07-20",
@@ -205,9 +193,9 @@
   },
   "citrolabs/ego-lite": {
     "first_notified": "2026-07-25",
-    "last_notified": "2026-08-07",
-    "count": 4,
-    "score": 63.5
+    "last_notified": "2026-08-19",
+    "count": 5,
+    "score": 66.3
   },
   "KnockOutEZ/wigolo": {
     "first_notified": "2026-07-26",
@@ -496,5 +484,23 @@
     "last_notified": "2026-08-18",
     "count": 1,
     "score": 58.7
+  },
+  "AntigmaLabs/ante": {
+    "first_notified": "2026-08-19",
+    "last_notified": "2026-08-19",
+    "count": 1,
+    "score": 65.8
+  },
+  "vercel-labs/deepsec": {
+    "first_notified": "2026-08-19",
+    "last_notified": "2026-08-19",
+    "count": 1,
+    "score": 60.8
+  },
+  "lightningpixel/modly": {
+    "first_notified": "2026-08-19",
+    "last_notified": "2026-08-19",
+    "count": 1,
+    "score": 59.1
   }
 }
