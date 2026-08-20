@@ -47,23 +47,11 @@
     "count": 3,
     "score": 66.7
   },
-  "iOfficeAI/OfficeCLI": {
-    "first_notified": "2026-07-08",
-    "last_notified": "2026-07-20",
-    "count": 4,
-    "score": 62.2
-  },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_notified": "2026-07-12",
     "last_notified": "2026-08-19",
     "count": 4,
     "score": 57.1
-  },
-  "kangarooking/cangjie-skill": {
-    "first_notified": "2026-07-16",
-    "last_notified": "2026-07-20",
-    "count": 2,
-    "score": 62.9
   },
   "macro-inc/macro": {
     "first_notified": "2026-07-16",
@@ -500,6 +488,36 @@
   "lightningpixel/modly": {
     "first_notified": "2026-08-19",
     "last_notified": "2026-08-19",
+    "count": 1,
+    "score": 59.1
+  },
+  "holaboss-ai/holaOS": {
+    "first_notified": "2026-08-20",
+    "last_notified": "2026-08-20",
+    "count": 1,
+    "score": 78.4
+  },
+  "cactus-compute/needle": {
+    "first_notified": "2026-08-20",
+    "last_notified": "2026-08-20",
+    "count": 1,
+    "score": 75.6
+  },
+  "amadeusprotocol/node": {
+    "first_notified": "2026-08-20",
+    "last_notified": "2026-08-20",
+    "count": 1,
+    "score": 66.2
+  },
+  "oseghalep/cloud-cost-optimization-hub": {
+    "first_notified": "2026-08-20",
+    "last_notified": "2026-08-20",
+    "count": 1,
+    "score": 64.0
+  },
+  "chaitanyagiri/munder-difflin": {
+    "first_notified": "2026-08-20",
+    "last_notified": "2026-08-20",
     "count": 1,
     "score": 59.1
   }
