@@ -23,12 +23,6 @@
     "count": 4,
     "score": 57.5
   },
-  "tt-a1i/archify": {
-    "first_notified": "2026-07-02",
-    "last_notified": "2026-07-21",
-    "count": 4,
-    "score": 71.4
-  },
   "Robbyant/lingbot-map": {
     "first_notified": "2026-07-03",
     "last_notified": "2026-07-26",
@@ -89,23 +83,11 @@
     "count": 3,
     "score": 60.2
   },
-  "HenryNdubuaku/maths-cs-ai-compendium": {
-    "first_notified": "2026-07-21",
-    "last_notified": "2026-07-21",
-    "count": 1,
-    "score": 70.8
-  },
   "oblien/openship": {
     "first_notified": "2026-07-21",
     "last_notified": "2026-07-27",
     "count": 2,
     "score": 82.7
-  },
-  "Dicklesworthstone/destructive_command_guard": {
-    "first_notified": "2026-07-21",
-    "last_notified": "2026-07-21",
-    "count": 1,
-    "score": 66.0
   },
   "microsoft/Ontology-Playground": {
     "first_notified": "2026-07-21",
@@ -379,9 +361,9 @@
   },
   "semantica-agi/semantica": {
     "first_notified": "2026-08-10",
-    "last_notified": "2026-08-17",
-    "count": 2,
-    "score": 78.9
+    "last_notified": "2026-08-21",
+    "count": 3,
+    "score": 69.5
   },
   "Panniantong/Agent-Reach": {
     "first_notified": "2026-08-10",
@@ -415,15 +397,15 @@
   },
   "cathrynlavery/diagram-design": {
     "first_notified": "2026-08-13",
-    "last_notified": "2026-08-17",
-    "count": 2,
-    "score": 83.4
+    "last_notified": "2026-08-21",
+    "count": 3,
+    "score": 78.5
   },
   "NVIDIA-NeMo/Switchyard": {
     "first_notified": "2026-08-13",
-    "last_notified": "2026-08-17",
-    "count": 2,
-    "score": 73.9
+    "last_notified": "2026-08-21",
+    "count": 3,
+    "score": 67.0
   },
   "harveyai/harvey-labs": {
     "first_notified": "2026-08-13",
@@ -520,5 +502,17 @@
     "last_notified": "2026-08-20",
     "count": 1,
     "score": 59.1
+  },
+  "MakazhanAlpamys/Soup": {
+    "first_notified": "2026-08-21",
+    "last_notified": "2026-08-21",
+    "count": 1,
+    "score": 77.1
+  },
+  "mahlernim/google-timeline-visualizer": {
+    "first_notified": "2026-08-21",
+    "last_notified": "2026-08-21",
+    "count": 1,
+    "score": 68.7
   }
 }
