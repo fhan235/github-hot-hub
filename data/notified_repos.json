@@ -11,12 +11,6 @@
     "count": 12,
     "score": 59.4
   },
-  "HKUDS/Vibe-Trading": {
-    "first_notified": "2026-06-09",
-    "last_notified": "2026-07-22",
-    "count": 4,
-    "score": 57.7
-  },
   "every-app/open-seo": {
     "first_notified": "2026-07-01",
     "last_notified": "2026-08-03",
@@ -49,21 +43,15 @@
   },
   "macro-inc/macro": {
     "first_notified": "2026-07-16",
-    "last_notified": "2026-08-18",
-    "count": 4,
-    "score": 76.9
+    "last_notified": "2026-08-22",
+    "count": 5,
+    "score": 59.0
   },
   "Nutlope/hallmark": {
     "first_notified": "2026-07-17",
     "last_notified": "2026-07-27",
     "count": 4,
     "score": 65.5
-  },
-  "FB208/OpenBidKit_Yibiao": {
-    "first_notified": "2026-07-18",
-    "last_notified": "2026-07-22",
-    "count": 2,
-    "score": 60.5
   },
   "apache/ossie": {
     "first_notified": "2026-07-20",
@@ -514,5 +502,29 @@
     "last_notified": "2026-08-21",
     "count": 1,
     "score": 68.7
+  },
+  "cordiverse/cordis": {
+    "first_notified": "2026-08-22",
+    "last_notified": "2026-08-22",
+    "count": 1,
+    "score": 80.3
+  },
+  "openai/codex": {
+    "first_notified": "2026-08-22",
+    "last_notified": "2026-08-22",
+    "count": 1,
+    "score": 62.7
+  },
+  "eneskirca/nodeterm": {
+    "first_notified": "2026-08-22",
+    "last_notified": "2026-08-22",
+    "count": 1,
+    "score": 60.4
+  },
+  "public-apis/public-apis": {
+    "first_notified": "2026-08-22",
+    "last_notified": "2026-08-22",
+    "count": 1,
+    "score": 56.2
   }
 }
