@@ -53,12 +53,6 @@
     "count": 4,
     "score": 65.5
   },
-  "apache/ossie": {
-    "first_notified": "2026-07-20",
-    "last_notified": "2026-07-24",
-    "count": 2,
-    "score": 67.1
-  },
   "bojieli/ai-agent-book": {
     "first_notified": "2026-07-20",
     "last_notified": "2026-08-03",
@@ -112,30 +106,6 @@
     "last_notified": "2026-08-18",
     "count": 3,
     "score": 60.9
-  },
-  "tirth8205/code-review-graph": {
-    "first_notified": "2026-07-24",
-    "last_notified": "2026-07-24",
-    "count": 1,
-    "score": 65.1
-  },
-  "microsoft/agent-framework-go": {
-    "first_notified": "2026-07-24",
-    "last_notified": "2026-07-24",
-    "count": 1,
-    "score": 62.8
-  },
-  "XiaoYouChR/Ghost-Downloader-3": {
-    "first_notified": "2026-07-24",
-    "last_notified": "2026-07-24",
-    "count": 1,
-    "score": 62.6
-  },
-  "PrismML-Eng/Bonsai-demo": {
-    "first_notified": "2026-07-24",
-    "last_notified": "2026-07-24",
-    "count": 1,
-    "score": 62.3
   },
   "1jehuang/jcode": {
     "first_notified": "2026-07-25",
@@ -463,9 +433,9 @@
   },
   "cactus-compute/needle": {
     "first_notified": "2026-08-20",
-    "last_notified": "2026-08-20",
-    "count": 1,
-    "score": 75.6
+    "last_notified": "2026-08-24",
+    "count": 2,
+    "score": 61.9
   },
   "amadeusprotocol/node": {
     "first_notified": "2026-08-20",
@@ -481,9 +451,9 @@
   },
   "chaitanyagiri/munder-difflin": {
     "first_notified": "2026-08-20",
-    "last_notified": "2026-08-20",
-    "count": 1,
-    "score": 59.1
+    "last_notified": "2026-08-24",
+    "count": 2,
+    "score": 79.0
   },
   "MakazhanAlpamys/Soup": {
     "first_notified": "2026-08-21",
@@ -550,5 +520,23 @@
     "last_notified": "2026-08-23",
     "count": 1,
     "score": 55.9
+  },
+  "cursor/plugins": {
+    "first_notified": "2026-08-24",
+    "last_notified": "2026-08-24",
+    "count": 1,
+    "score": 65.5
+  },
+  "volcengine/OpenViking": {
+    "first_notified": "2026-08-24",
+    "last_notified": "2026-08-24",
+    "count": 1,
+    "score": 56.7
+  },
+  "Alishahryar1/free-claude-code": {
+    "first_notified": "2026-08-24",
+    "last_notified": "2026-08-24",
+    "count": 1,
+    "score": 56.2
   }
 }
