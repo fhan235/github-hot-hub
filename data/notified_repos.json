@@ -41,12 +41,6 @@
     "count": 5,
     "score": 59.0
   },
-  "Nutlope/hallmark": {
-    "first_notified": "2026-07-17",
-    "last_notified": "2026-07-27",
-    "count": 4,
-    "score": 65.5
-  },
   "bojieli/ai-agent-book": {
     "first_notified": "2026-07-20",
     "last_notified": "2026-08-03",
@@ -58,12 +52,6 @@
     "last_notified": "2026-07-31",
     "count": 3,
     "score": 60.2
-  },
-  "oblien/openship": {
-    "first_notified": "2026-07-21",
-    "last_notified": "2026-07-27",
-    "count": 2,
-    "score": 82.7
   },
   "microsoft/Ontology-Playground": {
     "first_notified": "2026-07-21",
@@ -415,9 +403,9 @@
   },
   "amadeusprotocol/node": {
     "first_notified": "2026-08-20",
-    "last_notified": "2026-08-20",
-    "count": 1,
-    "score": 66.2
+    "last_notified": "2026-08-27",
+    "count": 2,
+    "score": 59.5
   },
   "oseghalep/cloud-cost-optimization-hub": {
     "first_notified": "2026-08-20",
@@ -451,9 +439,9 @@
   },
   "openai/codex": {
     "first_notified": "2026-08-22",
-    "last_notified": "2026-08-22",
-    "count": 1,
-    "score": 62.7
+    "last_notified": "2026-08-27",
+    "count": 2,
+    "score": 60.1
   },
   "eneskirca/nodeterm": {
     "first_notified": "2026-08-22",
@@ -469,9 +457,9 @@
   },
   "akitaonrails/ai-memory": {
     "first_notified": "2026-08-23",
-    "last_notified": "2026-08-23",
-    "count": 1,
-    "score": 74.9
+    "last_notified": "2026-08-27",
+    "count": 2,
+    "score": 64.6
   },
   "harry0703/MoneyPrinterTurbo": {
     "first_notified": "2026-08-23",
@@ -544,5 +532,17 @@
     "last_notified": "2026-08-26",
     "count": 1,
     "score": 56.6
+  },
+  "AprilNEA/OpenLogi": {
+    "first_notified": "2026-08-27",
+    "last_notified": "2026-08-27",
+    "count": 1,
+    "score": 74.5
+  },
+  "securo-finance/securo": {
+    "first_notified": "2026-08-27",
+    "last_notified": "2026-08-27",
+    "count": 1,
+    "score": 62.9
   }
 }
