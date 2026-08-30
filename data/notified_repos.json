@@ -1,10 +1,4 @@
 {
-  "mattpocock/skills": {
-    "first_notified": "2026-04-27",
-    "last_notified": "2026-07-30",
-    "count": 11,
-    "score": 58.3
-  },
   "stablyai/orca": {
     "first_notified": "2026-05-21",
     "last_notified": "2026-08-16",
@@ -94,18 +88,6 @@
     "last_notified": "2026-07-31",
     "count": 2,
     "score": 60.5
-  },
-  "Pumpkin-MC/Pumpkin": {
-    "first_notified": "2026-07-30",
-    "last_notified": "2026-07-30",
-    "count": 1,
-    "score": 59.0
-  },
-  "Automattic/harper": {
-    "first_notified": "2026-07-30",
-    "last_notified": "2026-07-30",
-    "count": 1,
-    "score": 57.7
   },
   "alibaba/open-code-review": {
     "first_notified": "2026-07-31",
@@ -463,9 +445,9 @@
   },
   "volcengine/OpenViking": {
     "first_notified": "2026-08-24",
-    "last_notified": "2026-08-24",
-    "count": 1,
-    "score": 56.7
+    "last_notified": "2026-08-30",
+    "count": 2,
+    "score": 61.4
   },
   "Alishahryar1/free-claude-code": {
     "first_notified": "2026-08-24",
@@ -556,5 +538,29 @@
     "last_notified": "2026-08-29",
     "count": 1,
     "score": 61.6
+  },
+  "omacom/omarchy": {
+    "first_notified": "2026-08-30",
+    "last_notified": "2026-08-30",
+    "count": 1,
+    "score": 70.5
+  },
+  "AgriciDaniel/claude-obsidian": {
+    "first_notified": "2026-08-30",
+    "last_notified": "2026-08-30",
+    "count": 1,
+    "score": 61.4
+  },
+  "ConardLi/garden-skills": {
+    "first_notified": "2026-08-30",
+    "last_notified": "2026-08-30",
+    "count": 1,
+    "score": 59.6
+  },
+  "MadsLorentzen/ai-job-search": {
+    "first_notified": "2026-08-30",
+    "last_notified": "2026-08-30",
+    "count": 1,
+    "score": 58.9
   }
 }
