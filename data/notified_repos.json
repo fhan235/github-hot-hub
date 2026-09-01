@@ -83,24 +83,6 @@
     "count": 3,
     "score": 55.9
   },
-  "pascalorg/editor": {
-    "first_notified": "2026-08-01",
-    "last_notified": "2026-08-01",
-    "count": 1,
-    "score": 56.6
-  },
-  "BuilderIO/agent-native": {
-    "first_notified": "2026-08-01",
-    "last_notified": "2026-08-01",
-    "count": 1,
-    "score": 56.2
-  },
-  "earthtojake/text-to-cad": {
-    "first_notified": "2026-08-01",
-    "last_notified": "2026-08-01",
-    "count": 1,
-    "score": 55.6
-  },
   "opengeos/GeoLibre": {
     "first_notified": "2026-08-02",
     "last_notified": "2026-08-06",
@@ -349,9 +331,9 @@
   },
   "chaitanyagiri/munder-difflin": {
     "first_notified": "2026-08-20",
-    "last_notified": "2026-08-28",
-    "count": 3,
-    "score": 68.0
+    "last_notified": "2026-09-01",
+    "count": 4,
+    "score": 63.0
   },
   "MakazhanAlpamys/Soup": {
     "first_notified": "2026-08-21",
@@ -403,9 +385,9 @@
   },
   "anthropics/claude-plugins-community": {
     "first_notified": "2026-08-23",
-    "last_notified": "2026-08-28",
-    "count": 2,
-    "score": 76.1
+    "last_notified": "2026-09-01",
+    "count": 3,
+    "score": 73.0
   },
   "youssofal/MTPLX": {
     "first_notified": "2026-08-23",
@@ -421,9 +403,9 @@
   },
   "cursor/plugins": {
     "first_notified": "2026-08-24",
-    "last_notified": "2026-08-28",
-    "count": 2,
-    "score": 62.5
+    "last_notified": "2026-09-01",
+    "count": 3,
+    "score": 58.3
   },
   "volcengine/OpenViking": {
     "first_notified": "2026-08-24",
@@ -481,15 +463,15 @@
   },
   "apache/maka": {
     "first_notified": "2026-08-28",
-    "last_notified": "2026-08-28",
-    "count": 1,
-    "score": 72.9
+    "last_notified": "2026-09-01",
+    "count": 2,
+    "score": 66.7
   },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
-    "last_notified": "2026-08-28",
-    "count": 1,
-    "score": 66.6
+    "last_notified": "2026-09-01",
+    "count": 2,
+    "score": 85.0
   },
   "google/sam": {
     "first_notified": "2026-08-29",
