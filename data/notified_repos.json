@@ -5,12 +5,6 @@
     "count": 12,
     "score": 59.4
   },
-  "every-app/open-seo": {
-    "first_notified": "2026-07-01",
-    "last_notified": "2026-08-03",
-    "count": 4,
-    "score": 57.5
-  },
   "diegosouzapw/OmniRoute": {
     "first_notified": "2026-07-05",
     "last_notified": "2026-08-08",
@@ -28,12 +22,6 @@
     "last_notified": "2026-08-22",
     "count": 5,
     "score": 59.0
-  },
-  "bojieli/ai-agent-book": {
-    "first_notified": "2026-07-20",
-    "last_notified": "2026-08-03",
-    "count": 4,
-    "score": 77.1
   },
   "ayghri/i-have-adhd": {
     "first_notified": "2026-07-22",
@@ -82,12 +70,6 @@
     "last_notified": "2026-08-07",
     "count": 2,
     "score": 62.8
-  },
-  "permissionlesstech/bitchat-android": {
-    "first_notified": "2026-08-03",
-    "last_notified": "2026-08-03",
-    "count": 1,
-    "score": 59.8
   },
   "agavra/tuicr": {
     "first_notified": "2026-08-04",
@@ -487,9 +469,9 @@
   },
   "omacom/omarchy": {
     "first_notified": "2026-08-30",
-    "last_notified": "2026-08-30",
-    "count": 1,
-    "score": 70.5
+    "last_notified": "2026-09-03",
+    "count": 2,
+    "score": 60.0
   },
   "AgriciDaniel/claude-obsidian": {
     "first_notified": "2026-08-30",
@@ -556,5 +538,29 @@
     "last_notified": "2026-09-02",
     "count": 1,
     "score": 57.4
+  },
+  "JetBrains/go-modern-guidelines": {
+    "first_notified": "2026-09-03",
+    "last_notified": "2026-09-03",
+    "count": 1,
+    "score": 72.3
+  },
+  "kaifcodec/user-scanner": {
+    "first_notified": "2026-09-03",
+    "last_notified": "2026-09-03",
+    "count": 1,
+    "score": 67.3
+  },
+  "pacifio/atlas": {
+    "first_notified": "2026-09-03",
+    "last_notified": "2026-09-03",
+    "count": 1,
+    "score": 65.3
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+    "first_notified": "2026-09-03",
+    "last_notified": "2026-09-03",
+    "count": 1,
+    "score": 62.8
   }
 }
