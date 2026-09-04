@@ -71,23 +71,11 @@
     "count": 2,
     "score": 62.8
   },
-  "agavra/tuicr": {
-    "first_notified": "2026-08-04",
-    "last_notified": "2026-08-04",
-    "count": 1,
-    "score": 74.0
-  },
   "firecrawl/pdf-inspector": {
     "first_notified": "2026-08-04",
     "last_notified": "2026-08-10",
     "count": 2,
     "score": 84.4
-  },
-  "different-ai/openwork": {
-    "first_notified": "2026-08-04",
-    "last_notified": "2026-08-04",
-    "count": 1,
-    "score": 58.7
   },
   "huangruiteng/loopx": {
     "first_notified": "2026-08-05",
@@ -511,9 +499,9 @@
   },
   "tt-a1i/archify": {
     "first_notified": "2026-08-31",
-    "last_notified": "2026-08-31",
-    "count": 1,
-    "score": 56.2
+    "last_notified": "2026-09-04",
+    "count": 2,
+    "score": 80.5
   },
   "RizRiyz/luvus": {
     "first_notified": "2026-09-02",
@@ -562,5 +550,29 @@
     "last_notified": "2026-09-03",
     "count": 1,
     "score": 62.8
+  },
+  "THU-MAIC/OpenMAIC": {
+    "first_notified": "2026-09-04",
+    "last_notified": "2026-09-04",
+    "count": 1,
+    "score": 71.2
+  },
+  "handsomestWei/patent-disclosure-skill": {
+    "first_notified": "2026-09-04",
+    "last_notified": "2026-09-04",
+    "count": 1,
+    "score": 60.5
+  },
+  "every-app/open-seo": {
+    "first_notified": "2026-09-04",
+    "last_notified": "2026-09-04",
+    "count": 1,
+    "score": 58.5
+  },
+  "Osmantic/ODS": {
+    "first_notified": "2026-09-04",
+    "last_notified": "2026-09-04",
+    "count": 1,
+    "score": 57.1
   }
 }
