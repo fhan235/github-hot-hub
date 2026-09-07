@@ -59,12 +59,6 @@
     "count": 3,
     "score": 61.5
   },
-  "huggingface/speech-to-speech": {
-    "first_notified": "2026-08-03",
-    "last_notified": "2026-08-07",
-    "count": 2,
-    "score": 62.8
-  },
   "firecrawl/pdf-inspector": {
     "first_notified": "2026-08-04",
     "last_notified": "2026-08-10",
@@ -535,9 +529,9 @@
   },
   "K-Dense-AI/scientific-agent-skills": {
     "first_notified": "2026-09-03",
-    "last_notified": "2026-09-03",
-    "count": 1,
-    "score": 62.8
+    "last_notified": "2026-09-07",
+    "count": 2,
+    "score": 57.2
   },
   "THU-MAIC/OpenMAIC": {
     "first_notified": "2026-09-04",
@@ -604,5 +598,29 @@
     "last_notified": "2026-09-06",
     "count": 1,
     "score": 54.5
+  },
+  "debpalash/VoiceStudio": {
+    "first_notified": "2026-09-07",
+    "last_notified": "2026-09-07",
+    "count": 1,
+    "score": 72.8
+  },
+  "experientiallabs/experiential": {
+    "first_notified": "2026-09-07",
+    "last_notified": "2026-09-07",
+    "count": 1,
+    "score": 63.5
+  },
+  "AdventDevInc/kudu": {
+    "first_notified": "2026-09-07",
+    "last_notified": "2026-09-07",
+    "count": 1,
+    "score": 55.2
+  },
+  "browser-use/video-use": {
+    "first_notified": "2026-09-07",
+    "last_notified": "2026-09-07",
+    "count": 1,
+    "score": 54.7
   }
 }
