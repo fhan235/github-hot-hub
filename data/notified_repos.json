@@ -35,12 +35,6 @@
     "count": 3,
     "score": 61.5
   },
-  "firecrawl/pdf-inspector": {
-    "first_notified": "2026-08-04",
-    "last_notified": "2026-08-10",
-    "count": 2,
-    "score": 84.4
-  },
   "huangruiteng/loopx": {
     "first_notified": "2026-08-05",
     "last_notified": "2026-08-14",
@@ -88,12 +82,6 @@
     "last_notified": "2026-08-21",
     "count": 3,
     "score": 69.5
-  },
-  "Panniantong/Agent-Reach": {
-    "first_notified": "2026-08-10",
-    "last_notified": "2026-08-10",
-    "count": 1,
-    "score": 65.1
   },
   "satnaing/shadcn-admin": {
     "first_notified": "2026-08-11",
@@ -361,9 +349,9 @@
   },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
-    "last_notified": "2026-09-05",
-    "count": 3,
-    "score": 74.6
+    "last_notified": "2026-09-10",
+    "count": 4,
+    "score": 64.5
   },
   "google/sam": {
     "first_notified": "2026-08-29",
@@ -427,9 +415,9 @@
   },
   "DietrichGebert/ponytail": {
     "first_notified": "2026-08-31",
-    "last_notified": "2026-08-31",
-    "count": 1,
-    "score": 57.9
+    "last_notified": "2026-09-10",
+    "count": 2,
+    "score": 59.7
   },
   "calesthio/OpenMontage": {
     "first_notified": "2026-08-31",
@@ -616,5 +604,23 @@
     "last_notified": "2026-09-09",
     "count": 1,
     "score": 62.1
+  },
+  "BraveOPotato/FckSignups": {
+    "first_notified": "2026-09-10",
+    "last_notified": "2026-09-10",
+    "count": 1,
+    "score": 65.6
+  },
+  "petergyang/no-ai-slop": {
+    "first_notified": "2026-09-10",
+    "last_notified": "2026-09-10",
+    "count": 1,
+    "score": 60.6
+  },
+  "liquidslr/system-design-notes": {
+    "first_notified": "2026-09-10",
+    "last_notified": "2026-09-10",
+    "count": 1,
+    "score": 59.6
   }
 }
