@@ -65,23 +65,11 @@
     "count": 3,
     "score": 69.5
   },
-  "HakanSeven12/OpenCADStudio": {
-    "first_notified": "2026-08-12",
-    "last_notified": "2026-08-12",
-    "count": 1,
-    "score": 66.8
-  },
-  "pranshuparmar/witr": {
-    "first_notified": "2026-08-12",
-    "last_notified": "2026-08-12",
-    "count": 1,
-    "score": 55.6
-  },
   "cathrynlavery/diagram-design": {
     "first_notified": "2026-08-13",
-    "last_notified": "2026-08-21",
-    "count": 3,
-    "score": 78.5
+    "last_notified": "2026-09-12",
+    "count": 4,
+    "score": 64.0
   },
   "NVIDIA-NeMo/Switchyard": {
     "first_notified": "2026-08-13",
@@ -397,9 +385,9 @@
   },
   "tt-a1i/archify": {
     "first_notified": "2026-08-31",
-    "last_notified": "2026-09-08",
-    "count": 3,
-    "score": 69.2
+    "last_notified": "2026-09-12",
+    "count": 4,
+    "score": 64.4
   },
   "RizRiyz/luvus": {
     "first_notified": "2026-09-02",
@@ -541,9 +529,9 @@
   },
   "magnitudedev/magnitude": {
     "first_notified": "2026-09-08",
-    "last_notified": "2026-09-08",
-    "count": 1,
-    "score": 74.7
+    "last_notified": "2026-09-12",
+    "count": 2,
+    "score": 71.8
   },
   "OpenWhispr/openwhispr": {
     "first_notified": "2026-09-08",
@@ -610,5 +598,17 @@
     "last_notified": "2026-09-11",
     "count": 1,
     "score": 57.9
+  },
+  "bikini/exploitarium": {
+    "first_notified": "2026-09-12",
+    "last_notified": "2026-09-12",
+    "count": 1,
+    "score": 59.1
+  },
+  "earthtojake/text-to-cad": {
+    "first_notified": "2026-09-12",
+    "last_notified": "2026-09-12",
+    "count": 1,
+    "score": 58.1
   }
 }
