@@ -517,9 +517,9 @@
   },
   "arcboxlabs/arcbox": {
     "first_notified": "2026-09-09",
-    "last_notified": "2026-09-09",
-    "count": 1,
-    "score": 78.2
+    "last_notified": "2026-09-15",
+    "count": 2,
+    "score": 77.0
   },
   "Tencent/teamai-cli": {
     "first_notified": "2026-09-09",
@@ -628,5 +628,29 @@
     "last_notified": "2026-09-14",
     "count": 1,
     "score": 56.9
+  },
+  "alsk1992/CloddsBot": {
+    "first_notified": "2026-09-15",
+    "last_notified": "2026-09-15",
+    "count": 1,
+    "score": 73.9
+  },
+  "k2-fsa/OmniVoice": {
+    "first_notified": "2026-09-15",
+    "last_notified": "2026-09-15",
+    "count": 1,
+    "score": 68.3
+  },
+  "jordan-gibbs/hyperresearch": {
+    "first_notified": "2026-09-15",
+    "last_notified": "2026-09-15",
+    "count": 1,
+    "score": 67.6
+  },
+  "langwatch/langwatch": {
+    "first_notified": "2026-09-15",
+    "last_notified": "2026-09-15",
+    "count": 1,
+    "score": 66.1
   }
 }
