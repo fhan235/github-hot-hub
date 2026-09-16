@@ -1,9 +1,9 @@
 {
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-08-16",
-    "count": 12,
-    "score": 59.4
+    "last_notified": "2026-09-16",
+    "count": 13,
+    "score": 65.4
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_notified": "2026-07-12",
@@ -28,12 +28,6 @@
     "last_notified": "2026-08-19",
     "count": 5,
     "score": 66.3
-  },
-  "cloudflare/computer": {
-    "first_notified": "2026-08-06",
-    "last_notified": "2026-08-16",
-    "count": 4,
-    "score": 59.7
   },
   "PrimeIntellect-ai/prime-agent": {
     "first_notified": "2026-08-08",
@@ -64,24 +58,6 @@
     "last_notified": "2026-08-17",
     "count": 2,
     "score": 66.4
-  },
-  "corsairdev/corsair": {
-    "first_notified": "2026-08-16",
-    "last_notified": "2026-08-16",
-    "count": 1,
-    "score": 62.9
-  },
-  "liustack/modlens": {
-    "first_notified": "2026-08-16",
-    "last_notified": "2026-08-16",
-    "count": 1,
-    "score": 61.8
-  },
-  "anthropics/skills": {
-    "first_notified": "2026-08-16",
-    "last_notified": "2026-08-16",
-    "count": 1,
-    "score": 59.9
   },
   "anomalyco/opencode": {
     "first_notified": "2026-08-17",
@@ -283,9 +259,9 @@
   },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
-    "last_notified": "2026-09-10",
-    "count": 4,
-    "score": 64.5
+    "last_notified": "2026-09-16",
+    "count": 5,
+    "score": 76.9
   },
   "google/sam": {
     "first_notified": "2026-08-29",
@@ -547,9 +523,9 @@
   },
   "petergyang/no-ai-slop": {
     "first_notified": "2026-09-10",
-    "last_notified": "2026-09-10",
-    "count": 1,
-    "score": 60.6
+    "last_notified": "2026-09-16",
+    "count": 2,
+    "score": 59.3
   },
   "liquidslr/system-design-notes": {
     "first_notified": "2026-09-10",
@@ -652,5 +628,17 @@
     "last_notified": "2026-09-15",
     "count": 1,
     "score": 66.1
+  },
+  "cloudflare/security-audit-skill": {
+    "first_notified": "2026-09-16",
+    "last_notified": "2026-09-16",
+    "count": 1,
+    "score": 67.0
+  },
+  "HakanSeven12/OpenCADStudio": {
+    "first_notified": "2026-09-16",
+    "last_notified": "2026-09-16",
+    "count": 1,
+    "score": 62.2
   }
 }
