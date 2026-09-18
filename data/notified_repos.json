@@ -17,23 +17,11 @@
     "count": 5,
     "score": 59.0
   },
-  "can1357/oh-my-pi": {
-    "first_notified": "2026-07-23",
-    "last_notified": "2026-08-18",
-    "count": 3,
-    "score": 60.9
-  },
   "citrolabs/ego-lite": {
     "first_notified": "2026-07-25",
     "last_notified": "2026-08-19",
     "count": 5,
     "score": 66.3
-  },
-  "PrimeIntellect-ai/prime-agent": {
-    "first_notified": "2026-08-08",
-    "last_notified": "2026-08-18",
-    "count": 3,
-    "score": 64.2
   },
   "semantica-agi/semantica": {
     "first_notified": "2026-08-10",
@@ -52,18 +40,6 @@
     "last_notified": "2026-08-21",
     "count": 3,
     "score": 67.0
-  },
-  "github/spec-kit": {
-    "first_notified": "2026-08-18",
-    "last_notified": "2026-08-18",
-    "count": 1,
-    "score": 62.1
-  },
-  "Comfy-Org/ComfyUI": {
-    "first_notified": "2026-08-18",
-    "last_notified": "2026-08-18",
-    "count": 1,
-    "score": 58.7
   },
   "AntigmaLabs/ante": {
     "first_notified": "2026-08-19",
@@ -445,9 +421,9 @@
   },
   "debpalash/VoiceStudio": {
     "first_notified": "2026-09-07",
-    "last_notified": "2026-09-11",
-    "count": 2,
-    "score": 67.2
+    "last_notified": "2026-09-18",
+    "count": 3,
+    "score": 71.1
   },
   "experientiallabs/experiential": {
     "first_notified": "2026-09-07",
@@ -571,9 +547,9 @@
   },
   "ayghri/i-have-adhd": {
     "first_notified": "2026-09-14",
-    "last_notified": "2026-09-14",
-    "count": 1,
-    "score": 73.9
+    "last_notified": "2026-09-18",
+    "count": 2,
+    "score": 66.4
   },
   "kunchenguid/firstmate": {
     "first_notified": "2026-09-14",
@@ -640,5 +616,23 @@
     "last_notified": "2026-09-17",
     "count": 1,
     "score": 63.2
+  },
+  "vastsa/PI-Desktop": {
+    "first_notified": "2026-09-18",
+    "last_notified": "2026-09-18",
+    "count": 1,
+    "score": 76.0
+  },
+  "p1neappleXpress/OpenFlux": {
+    "first_notified": "2026-09-18",
+    "last_notified": "2026-09-18",
+    "count": 1,
+    "score": 72.6
+  },
+  "Tencent/BrowserSkill": {
+    "first_notified": "2026-09-18",
+    "last_notified": "2026-09-18",
+    "count": 1,
+    "score": 67.7
   }
 }
