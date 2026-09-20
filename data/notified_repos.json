@@ -29,12 +29,6 @@
     "count": 3,
     "score": 67.0
   },
-  "holaboss-ai/holaOS": {
-    "first_notified": "2026-08-20",
-    "last_notified": "2026-08-20",
-    "count": 1,
-    "score": 78.4
-  },
   "cactus-compute/needle": {
     "first_notified": "2026-08-20",
     "last_notified": "2026-08-24",
@@ -46,12 +40,6 @@
     "last_notified": "2026-08-27",
     "count": 2,
     "score": 59.5
-  },
-  "oseghalep/cloud-cost-optimization-hub": {
-    "first_notified": "2026-08-20",
-    "last_notified": "2026-08-20",
-    "count": 1,
-    "score": 64.0
   },
   "chaitanyagiri/munder-difflin": {
     "first_notified": "2026-08-20",
@@ -193,9 +181,9 @@
   },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
-    "last_notified": "2026-09-16",
-    "count": 5,
-    "score": 76.9
+    "last_notified": "2026-09-20",
+    "count": 6,
+    "score": 68.3
   },
   "google/sam": {
     "first_notified": "2026-08-29",
@@ -565,9 +553,9 @@
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-09-16",
-    "last_notified": "2026-09-16",
-    "count": 1,
-    "score": 67.0
+    "last_notified": "2026-09-20",
+    "count": 2,
+    "score": 59.9
   },
   "HakanSeven12/OpenCADStudio": {
     "first_notified": "2026-09-16",
@@ -628,5 +616,23 @@
     "last_notified": "2026-09-19",
     "count": 1,
     "score": 64.3
+  },
+  "ever-co/ever-gauzy": {
+    "first_notified": "2026-09-20",
+    "last_notified": "2026-09-20",
+    "count": 1,
+    "score": 78.6
+  },
+  "alphaXiv/OpenResearch": {
+    "first_notified": "2026-09-20",
+    "last_notified": "2026-09-20",
+    "count": 1,
+    "score": 78.2
+  },
+  "fleetbase/fleetbase": {
+    "first_notified": "2026-09-20",
+    "last_notified": "2026-09-20",
+    "count": 1,
+    "score": 65.0
   }
 }
