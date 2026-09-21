@@ -11,23 +11,11 @@
     "count": 5,
     "score": 59.0
   },
-  "semantica-agi/semantica": {
-    "first_notified": "2026-08-10",
-    "last_notified": "2026-08-21",
-    "count": 3,
-    "score": 69.5
-  },
   "cathrynlavery/diagram-design": {
     "first_notified": "2026-08-13",
     "last_notified": "2026-09-12",
     "count": 4,
     "score": 64.0
-  },
-  "NVIDIA-NeMo/Switchyard": {
-    "first_notified": "2026-08-13",
-    "last_notified": "2026-08-21",
-    "count": 3,
-    "score": 67.0
   },
   "cactus-compute/needle": {
     "first_notified": "2026-08-20",
@@ -52,12 +40,6 @@
     "last_notified": "2026-09-06",
     "count": 2,
     "score": 64.8
-  },
-  "mahlernim/google-timeline-visualizer": {
-    "first_notified": "2026-08-21",
-    "last_notified": "2026-08-21",
-    "count": 1,
-    "score": 68.7
   },
   "cordiverse/cordis": {
     "first_notified": "2026-08-22",
@@ -301,9 +283,9 @@
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
-    "last_notified": "2026-09-17",
-    "count": 2,
-    "score": 62.1
+    "last_notified": "2026-09-21",
+    "count": 3,
+    "score": 62.6
   },
   "K-Dense-AI/scientific-agent-skills": {
     "first_notified": "2026-09-03",
@@ -493,9 +475,9 @@
   },
   "melgarafael/DeskcommCRM": {
     "first_notified": "2026-09-13",
-    "last_notified": "2026-09-17",
-    "count": 2,
-    "score": 76.1
+    "last_notified": "2026-09-21",
+    "count": 3,
+    "score": 67.6
   },
   "jo-inc/camofox-browser": {
     "first_notified": "2026-09-13",
@@ -634,5 +616,23 @@
     "last_notified": "2026-09-20",
     "count": 1,
     "score": 65.0
+  },
+  "alibaba/open-code-review": {
+    "first_notified": "2026-09-21",
+    "last_notified": "2026-09-21",
+    "count": 1,
+    "score": 75.2
+  },
+  "tech-leads-club/agent-skills": {
+    "first_notified": "2026-09-21",
+    "last_notified": "2026-09-21",
+    "count": 1,
+    "score": 62.7
+  },
+  "Tencent/WeKnora": {
+    "first_notified": "2026-09-21",
+    "last_notified": "2026-09-21",
+    "count": 1,
+    "score": 61.6
   }
 }
