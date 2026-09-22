@@ -5,12 +5,6 @@
     "count": 13,
     "score": 65.4
   },
-  "macro-inc/macro": {
-    "first_notified": "2026-07-16",
-    "last_notified": "2026-08-22",
-    "count": 5,
-    "score": 59.0
-  },
   "cathrynlavery/diagram-design": {
     "first_notified": "2026-08-13",
     "last_notified": "2026-09-12",
@@ -41,29 +35,11 @@
     "count": 2,
     "score": 64.8
   },
-  "cordiverse/cordis": {
-    "first_notified": "2026-08-22",
-    "last_notified": "2026-08-22",
-    "count": 1,
-    "score": 80.3
-  },
   "openai/codex": {
     "first_notified": "2026-08-22",
     "last_notified": "2026-08-27",
     "count": 2,
     "score": 60.1
-  },
-  "eneskirca/nodeterm": {
-    "first_notified": "2026-08-22",
-    "last_notified": "2026-08-22",
-    "count": 1,
-    "score": 60.4
-  },
-  "public-apis/public-apis": {
-    "first_notified": "2026-08-22",
-    "last_notified": "2026-08-22",
-    "count": 1,
-    "score": 56.2
   },
   "akitaonrails/ai-memory": {
     "first_notified": "2026-08-23",
@@ -181,9 +157,9 @@
   },
   "asciimoo/hister": {
     "first_notified": "2026-08-29",
-    "last_notified": "2026-08-29",
-    "count": 1,
-    "score": 63.1
+    "last_notified": "2026-09-22",
+    "count": 2,
+    "score": 62.3
   },
   "workweave/router": {
     "first_notified": "2026-08-29",
@@ -361,9 +337,9 @@
   },
   "debpalash/VoiceStudio": {
     "first_notified": "2026-09-07",
-    "last_notified": "2026-09-18",
-    "count": 3,
-    "score": 71.1
+    "last_notified": "2026-09-22",
+    "count": 4,
+    "score": 60.1
   },
   "experientiallabs/experiential": {
     "first_notified": "2026-09-07",
@@ -535,9 +511,9 @@
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-09-16",
-    "last_notified": "2026-09-20",
-    "count": 2,
-    "score": 59.9
+    "last_notified": "2026-09-22",
+    "count": 3,
+    "score": 83.7
   },
   "HakanSeven12/OpenCADStudio": {
     "first_notified": "2026-09-16",
@@ -559,9 +535,9 @@
   },
   "vastsa/PI-Desktop": {
     "first_notified": "2026-09-18",
-    "last_notified": "2026-09-18",
-    "count": 1,
-    "score": 76.0
+    "last_notified": "2026-09-22",
+    "count": 2,
+    "score": 60.0
   },
   "p1neappleXpress/OpenFlux": {
     "first_notified": "2026-09-18",
@@ -634,5 +610,11 @@
     "last_notified": "2026-09-21",
     "count": 1,
     "score": 61.6
+  },
+  "JustVugg/colibri": {
+    "first_notified": "2026-09-22",
+    "last_notified": "2026-09-22",
+    "count": 1,
+    "score": 68.5
   }
 }
