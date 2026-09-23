@@ -47,29 +47,11 @@
     "count": 2,
     "score": 64.6
   },
-  "harry0703/MoneyPrinterTurbo": {
-    "first_notified": "2026-08-23",
-    "last_notified": "2026-08-23",
-    "count": 1,
-    "score": 59.8
-  },
   "anthropics/claude-plugins-community": {
     "first_notified": "2026-08-23",
     "last_notified": "2026-09-01",
     "count": 3,
     "score": 73.0
-  },
-  "youssofal/MTPLX": {
-    "first_notified": "2026-08-23",
-    "last_notified": "2026-08-23",
-    "count": 1,
-    "score": 58.0
-  },
-  "usestrix/strix": {
-    "first_notified": "2026-08-23",
-    "last_notified": "2026-08-23",
-    "count": 1,
-    "score": 55.9
   },
   "cursor/plugins": {
     "first_notified": "2026-08-24",
@@ -523,9 +505,9 @@
   },
   "yyjeqhc/webcodex": {
     "first_notified": "2026-09-17",
-    "last_notified": "2026-09-17",
-    "count": 1,
-    "score": 66.4
+    "last_notified": "2026-09-23",
+    "count": 2,
+    "score": 69.3
   },
   "abue-ammar/tinycast": {
     "first_notified": "2026-09-17",
@@ -547,9 +529,9 @@
   },
   "Tencent/BrowserSkill": {
     "first_notified": "2026-09-18",
-    "last_notified": "2026-09-18",
-    "count": 1,
-    "score": 67.7
+    "last_notified": "2026-09-23",
+    "count": 2,
+    "score": 81.6
   },
   "SnailSploit/Claude-Red": {
     "first_notified": "2026-09-19",
@@ -616,5 +598,23 @@
     "last_notified": "2026-09-22",
     "count": 1,
     "score": 68.5
+  },
+  "TencentCloud/Octop": {
+    "first_notified": "2026-09-23",
+    "last_notified": "2026-09-23",
+    "count": 1,
+    "score": 76.8
+  },
+  "MG1937/ASC": {
+    "first_notified": "2026-09-23",
+    "last_notified": "2026-09-23",
+    "count": 1,
+    "score": 70.6
+  },
+  "google/ax": {
+    "first_notified": "2026-09-23",
+    "last_notified": "2026-09-23",
+    "count": 1,
+    "score": 70.1
   }
 }
