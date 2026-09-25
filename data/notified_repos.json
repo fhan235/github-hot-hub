@@ -565,9 +565,9 @@
   },
   "alibaba/open-code-review": {
     "first_notified": "2026-09-21",
-    "last_notified": "2026-09-21",
-    "count": 1,
-    "score": 75.2
+    "last_notified": "2026-09-25",
+    "count": 2,
+    "score": 61.9
   },
   "tech-leads-club/agent-skills": {
     "first_notified": "2026-09-21",
@@ -616,5 +616,29 @@
     "last_notified": "2026-09-24",
     "count": 1,
     "score": 56.5
+  },
+  "Open-Dev-Society/OpenStock": {
+    "first_notified": "2026-09-25",
+    "last_notified": "2026-09-25",
+    "count": 1,
+    "score": 64.4
+  },
+  "BuilderIO/agent-native": {
+    "first_notified": "2026-09-25",
+    "last_notified": "2026-09-25",
+    "count": 1,
+    "score": 62.7
+  },
+  "androoAGI/starnet": {
+    "first_notified": "2026-09-25",
+    "last_notified": "2026-09-25",
+    "count": 1,
+    "score": 59.9
+  },
+  "vectorize-io/hindsight": {
+    "first_notified": "2026-09-25",
+    "last_notified": "2026-09-25",
+    "count": 1,
+    "score": 59.6
   }
 }
