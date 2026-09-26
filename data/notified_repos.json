@@ -59,36 +59,6 @@
     "count": 2,
     "score": 61.4
   },
-  "marceloprates/prettymaps": {
-    "first_notified": "2026-08-26",
-    "last_notified": "2026-08-26",
-    "count": 1,
-    "score": 59.8
-  },
-  "apify/apify-mcp-server": {
-    "first_notified": "2026-08-26",
-    "last_notified": "2026-08-26",
-    "count": 1,
-    "score": 59.7
-  },
-  "WorldFlowAI/everything-claude-code": {
-    "first_notified": "2026-08-26",
-    "last_notified": "2026-08-26",
-    "count": 1,
-    "score": 57.7
-  },
-  "bookorbit/bookorbit": {
-    "first_notified": "2026-08-26",
-    "last_notified": "2026-08-26",
-    "count": 1,
-    "score": 56.8
-  },
-  "Tencent/AI-Infra-Guard": {
-    "first_notified": "2026-08-26",
-    "last_notified": "2026-08-26",
-    "count": 1,
-    "score": 56.6
-  },
   "AprilNEA/OpenLogi": {
     "first_notified": "2026-08-27",
     "last_notified": "2026-08-31",
@@ -481,9 +451,9 @@
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-09-16",
-    "last_notified": "2026-09-22",
-    "count": 3,
-    "score": 83.7
+    "last_notified": "2026-09-26",
+    "count": 4,
+    "score": 76.9
   },
   "HakanSeven12/OpenCADStudio": {
     "first_notified": "2026-09-16",
@@ -640,5 +610,29 @@
     "last_notified": "2026-09-25",
     "count": 1,
     "score": 59.6
+  },
+  "agent-substrate/substrate": {
+    "first_notified": "2026-09-26",
+    "last_notified": "2026-09-26",
+    "count": 1,
+    "score": 71.6
+  },
+  "Nasiko-Labs/nasiko": {
+    "first_notified": "2026-09-26",
+    "last_notified": "2026-09-26",
+    "count": 1,
+    "score": 61.7
+  },
+  "bojieli/ai-agent-book": {
+    "first_notified": "2026-09-26",
+    "last_notified": "2026-09-26",
+    "count": 1,
+    "score": 60.9
+  },
+  "yynxxxxx/Codex-X": {
+    "first_notified": "2026-09-26",
+    "last_notified": "2026-09-26",
+    "count": 1,
+    "score": 59.8
   }
 }
