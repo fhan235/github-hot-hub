@@ -11,12 +11,6 @@
     "count": 4,
     "score": 64.0
   },
-  "amadeusprotocol/node": {
-    "first_notified": "2026-08-20",
-    "last_notified": "2026-08-27",
-    "count": 2,
-    "score": 59.5
-  },
   "chaitanyagiri/munder-difflin": {
     "first_notified": "2026-08-20",
     "last_notified": "2026-09-01",
@@ -28,18 +22,6 @@
     "last_notified": "2026-09-06",
     "count": 2,
     "score": 64.8
-  },
-  "openai/codex": {
-    "first_notified": "2026-08-22",
-    "last_notified": "2026-08-27",
-    "count": 2,
-    "score": 60.1
-  },
-  "akitaonrails/ai-memory": {
-    "first_notified": "2026-08-23",
-    "last_notified": "2026-08-27",
-    "count": 2,
-    "score": 64.6
   },
   "anthropics/claude-plugins-community": {
     "first_notified": "2026-08-23",
@@ -64,12 +46,6 @@
     "last_notified": "2026-08-31",
     "count": 2,
     "score": 59.9
-  },
-  "securo-finance/securo": {
-    "first_notified": "2026-08-27",
-    "last_notified": "2026-08-27",
-    "count": 1,
-    "score": 62.9
   },
   "apache/maka": {
     "first_notified": "2026-08-28",
@@ -487,9 +463,9 @@
   },
   "Tencent/BrowserSkill": {
     "first_notified": "2026-09-18",
-    "last_notified": "2026-09-23",
-    "count": 2,
-    "score": 81.6
+    "last_notified": "2026-09-27",
+    "count": 3,
+    "score": 59.0
   },
   "SnailSploit/Claude-Red": {
     "first_notified": "2026-09-19",
@@ -634,5 +610,29 @@
     "last_notified": "2026-09-26",
     "count": 1,
     "score": 59.8
+  },
+  "superdesigndev/treg": {
+    "first_notified": "2026-09-27",
+    "last_notified": "2026-09-27",
+    "count": 1,
+    "score": 71.9
+  },
+  "trailofbits/coop": {
+    "first_notified": "2026-09-27",
+    "last_notified": "2026-09-27",
+    "count": 1,
+    "score": 67.2
+  },
+  "elvisun/newsjack": {
+    "first_notified": "2026-09-27",
+    "last_notified": "2026-09-27",
+    "count": 1,
+    "score": 57.2
+  },
+  "zhouxiaoka/autoclip": {
+    "first_notified": "2026-09-27",
+    "last_notified": "2026-09-27",
+    "count": 1,
+    "score": 55.5
   }
 }
