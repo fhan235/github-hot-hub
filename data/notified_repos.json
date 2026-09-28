@@ -1,9 +1,9 @@
 {
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-09-24",
-    "count": 14,
-    "score": 57.3
+    "last_notified": "2026-09-28",
+    "count": 15,
+    "score": 56.9
   },
   "cathrynlavery/diagram-design": {
     "first_notified": "2026-08-13",
@@ -175,9 +175,9 @@
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
-    "last_notified": "2026-09-21",
-    "count": 3,
-    "score": 62.6
+    "last_notified": "2026-09-28",
+    "count": 4,
+    "score": 55.0
   },
   "K-Dense-AI/scientific-agent-skills": {
     "first_notified": "2026-09-03",
@@ -253,9 +253,9 @@
   },
   "debpalash/VoiceStudio": {
     "first_notified": "2026-09-07",
-    "last_notified": "2026-09-22",
-    "count": 4,
-    "score": 60.1
+    "last_notified": "2026-09-28",
+    "count": 5,
+    "score": 63.0
   },
   "experientiallabs/experiential": {
     "first_notified": "2026-09-07",
@@ -634,5 +634,17 @@
     "last_notified": "2026-09-27",
     "count": 1,
     "score": 55.5
+  },
+  "hydra-db/hydradb": {
+    "first_notified": "2026-09-28",
+    "last_notified": "2026-09-28",
+    "count": 1,
+    "score": 63.3
+  },
+  "DuarteSantos8/openGym": {
+    "first_notified": "2026-09-28",
+    "last_notified": "2026-09-28",
+    "count": 1,
+    "score": 55.2
   }
 }
