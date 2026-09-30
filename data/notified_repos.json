@@ -35,12 +35,6 @@
     "count": 3,
     "score": 58.3
   },
-  "volcengine/OpenViking": {
-    "first_notified": "2026-08-24",
-    "last_notified": "2026-08-30",
-    "count": 2,
-    "score": 61.4
-  },
   "AprilNEA/OpenLogi": {
     "first_notified": "2026-08-27",
     "last_notified": "2026-08-31",
@@ -82,24 +76,6 @@
     "last_notified": "2026-09-03",
     "count": 2,
     "score": 60.0
-  },
-  "AgriciDaniel/claude-obsidian": {
-    "first_notified": "2026-08-30",
-    "last_notified": "2026-08-30",
-    "count": 1,
-    "score": 61.4
-  },
-  "ConardLi/garden-skills": {
-    "first_notified": "2026-08-30",
-    "last_notified": "2026-08-30",
-    "count": 1,
-    "score": 59.6
-  },
-  "MadsLorentzen/ai-job-search": {
-    "first_notified": "2026-08-30",
-    "last_notified": "2026-08-30",
-    "count": 1,
-    "score": 58.9
   },
   "marin-community/marin": {
     "first_notified": "2026-08-31",
@@ -577,15 +553,15 @@
   },
   "agent-substrate/substrate": {
     "first_notified": "2026-09-26",
-    "last_notified": "2026-09-26",
-    "count": 1,
-    "score": 71.6
+    "last_notified": "2026-09-30",
+    "count": 2,
+    "score": 58.6
   },
   "Nasiko-Labs/nasiko": {
     "first_notified": "2026-09-26",
-    "last_notified": "2026-09-26",
-    "count": 1,
-    "score": 61.7
+    "last_notified": "2026-09-30",
+    "count": 2,
+    "score": 63.9
   },
   "bojieli/ai-agent-book": {
     "first_notified": "2026-09-26",
@@ -646,5 +622,23 @@
     "last_notified": "2026-09-29",
     "count": 1,
     "score": 65.2
+  },
+  "Asymptote-Labs/agent-beacon": {
+    "first_notified": "2026-09-30",
+    "last_notified": "2026-09-30",
+    "count": 1,
+    "score": 66.6
+  },
+  "farion1231/cc-switch": {
+    "first_notified": "2026-09-30",
+    "last_notified": "2026-09-30",
+    "count": 1,
+    "score": 63.1
+  },
+  "NVIDIA/OpenShell": {
+    "first_notified": "2026-09-30",
+    "last_notified": "2026-09-30",
+    "count": 1,
+    "score": 58.7
   }
 }
