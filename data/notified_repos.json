@@ -11,35 +11,11 @@
     "count": 4,
     "score": 64.0
   },
-  "chaitanyagiri/munder-difflin": {
-    "first_notified": "2026-08-20",
-    "last_notified": "2026-09-01",
-    "count": 4,
-    "score": 63.0
-  },
   "MakazhanAlpamys/Soup": {
     "first_notified": "2026-08-21",
     "last_notified": "2026-09-06",
     "count": 2,
     "score": 64.8
-  },
-  "anthropics/claude-plugins-community": {
-    "first_notified": "2026-08-23",
-    "last_notified": "2026-09-01",
-    "count": 3,
-    "score": 73.0
-  },
-  "cursor/plugins": {
-    "first_notified": "2026-08-24",
-    "last_notified": "2026-09-01",
-    "count": 3,
-    "score": 58.3
-  },
-  "apache/maka": {
-    "first_notified": "2026-08-28",
-    "last_notified": "2026-09-01",
-    "count": 2,
-    "score": 66.7
   },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
@@ -121,9 +97,9 @@
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
-    "last_notified": "2026-09-28",
-    "count": 4,
-    "score": 55.0
+    "last_notified": "2026-10-02",
+    "count": 5,
+    "score": 63.2
   },
   "K-Dense-AI/scientific-agent-skills": {
     "first_notified": "2026-09-03",
@@ -565,9 +541,9 @@
   },
   "trailofbits/coop": {
     "first_notified": "2026-09-27",
-    "last_notified": "2026-09-27",
-    "count": 1,
-    "score": 67.2
+    "last_notified": "2026-10-02",
+    "count": 2,
+    "score": 64.9
   },
   "elvisun/newsjack": {
     "first_notified": "2026-09-27",
@@ -640,5 +616,23 @@
     "last_notified": "2026-10-01",
     "count": 1,
     "score": 66.1
+  },
+  "paperclipai/paperclip": {
+    "first_notified": "2026-10-02",
+    "last_notified": "2026-10-02",
+    "count": 1,
+    "score": 62.5
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+    "first_notified": "2026-10-02",
+    "last_notified": "2026-10-02",
+    "count": 1,
+    "score": 58.3
+  },
+  "NVIDIA/Model-Optimizer": {
+    "first_notified": "2026-10-02",
+    "last_notified": "2026-10-02",
+    "count": 1,
+    "score": 57.8
   }
 }
