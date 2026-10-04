@@ -35,12 +35,6 @@
     "count": 2,
     "score": 62.3
   },
-  "omacom/omarchy": {
-    "first_notified": "2026-08-30",
-    "last_notified": "2026-09-03",
-    "count": 2,
-    "score": 60.0
-  },
   "DietrichGebert/ponytail": {
     "first_notified": "2026-08-31",
     "last_notified": "2026-09-24",
@@ -52,18 +46,6 @@
     "last_notified": "2026-09-12",
     "count": 4,
     "score": 64.4
-  },
-  "JetBrains/go-modern-guidelines": {
-    "first_notified": "2026-09-03",
-    "last_notified": "2026-09-03",
-    "count": 1,
-    "score": 72.3
-  },
-  "kaifcodec/user-scanner": {
-    "first_notified": "2026-09-03",
-    "last_notified": "2026-09-03",
-    "count": 1,
-    "score": 67.3
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
@@ -565,9 +547,9 @@
   },
   "NVIDIA/OpenShell": {
     "first_notified": "2026-09-30",
-    "last_notified": "2026-09-30",
-    "count": 1,
-    "score": 58.7
+    "last_notified": "2026-10-04",
+    "count": 2,
+    "score": 72.7
   },
   "derv82/wifit3": {
     "first_notified": "2026-10-01",
@@ -622,5 +604,29 @@
     "last_notified": "2026-10-03",
     "count": 1,
     "score": 56.8
+  },
+  "boykopovar/AnyPS5": {
+    "first_notified": "2026-10-04",
+    "last_notified": "2026-10-04",
+    "count": 1,
+    "score": 76.8
+  },
+  "LuxAlgo/Vela": {
+    "first_notified": "2026-10-04",
+    "last_notified": "2026-10-04",
+    "count": 1,
+    "score": 65.8
+  },
+  "t8y2/dbx": {
+    "first_notified": "2026-10-04",
+    "last_notified": "2026-10-04",
+    "count": 1,
+    "score": 57.7
+  },
+  "ruvnet/RuView": {
+    "first_notified": "2026-10-04",
+    "last_notified": "2026-10-04",
+    "count": 1,
+    "score": 56.0
   }
 }
