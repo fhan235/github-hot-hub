@@ -11,12 +11,6 @@
     "count": 4,
     "score": 64.0
   },
-  "MakazhanAlpamys/Soup": {
-    "first_notified": "2026-08-21",
-    "last_notified": "2026-09-06",
-    "count": 2,
-    "score": 64.8
-  },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
     "last_notified": "2026-09-20",
@@ -71,35 +65,11 @@
     "count": 3,
     "score": 62.0
   },
-  "pollen-robotics/microduck_rl": {
-    "first_notified": "2026-09-06",
-    "last_notified": "2026-09-06",
-    "count": 1,
-    "score": 75.5
-  },
-  "martin-olivier/airgorah": {
-    "first_notified": "2026-09-06",
-    "last_notified": "2026-09-06",
-    "count": 1,
-    "score": 71.4
-  },
-  "mvanhorn/last30days-skill": {
-    "first_notified": "2026-09-06",
-    "last_notified": "2026-09-06",
-    "count": 1,
-    "score": 56.6
-  },
-  "google-research/timesfm": {
-    "first_notified": "2026-09-06",
-    "last_notified": "2026-09-06",
-    "count": 1,
-    "score": 54.5
-  },
   "debpalash/VoiceStudio": {
     "first_notified": "2026-09-07",
-    "last_notified": "2026-10-03",
-    "count": 6,
-    "score": 70.9
+    "last_notified": "2026-10-07",
+    "count": 7,
+    "score": 60.7
   },
   "experientiallabs/experiential": {
     "first_notified": "2026-09-07",
@@ -121,9 +91,9 @@
   },
   "magnitudedev/magnitude": {
     "first_notified": "2026-09-08",
-    "last_notified": "2026-09-12",
-    "count": 2,
-    "score": 71.8
+    "last_notified": "2026-10-07",
+    "count": 3,
+    "score": 61.2
   },
   "OpenWhispr/openwhispr": {
     "first_notified": "2026-09-08",
@@ -379,9 +349,9 @@
   },
   "TencentCloud/Octop": {
     "first_notified": "2026-09-23",
-    "last_notified": "2026-10-03",
-    "count": 2,
-    "score": 57.7
+    "last_notified": "2026-10-07",
+    "count": 3,
+    "score": 57.8
   },
   "MG1937/ASC": {
     "first_notified": "2026-09-23",
@@ -634,5 +604,17 @@
     "last_notified": "2026-10-06",
     "count": 1,
     "score": 60.8
+  },
+  "morluto/rea": {
+    "first_notified": "2026-10-07",
+    "last_notified": "2026-10-07",
+    "count": 1,
+    "score": 71.7
+  },
+  "ranxianglei/billion-context": {
+    "first_notified": "2026-10-07",
+    "last_notified": "2026-10-07",
+    "count": 1,
+    "score": 59.4
   }
 }
