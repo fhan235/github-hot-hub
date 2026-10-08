@@ -41,12 +41,6 @@
     "count": 5,
     "score": 63.2
   },
-  "K-Dense-AI/scientific-agent-skills": {
-    "first_notified": "2026-09-03",
-    "last_notified": "2026-09-07",
-    "count": 2,
-    "score": 57.2
-  },
   "THU-MAIC/OpenMAIC": {
     "first_notified": "2026-09-04",
     "last_notified": "2026-09-13",
@@ -71,23 +65,11 @@
     "count": 7,
     "score": 60.7
   },
-  "experientiallabs/experiential": {
-    "first_notified": "2026-09-07",
-    "last_notified": "2026-09-07",
-    "count": 1,
-    "score": 63.5
-  },
   "AdventDevInc/kudu": {
     "first_notified": "2026-09-07",
     "last_notified": "2026-09-11",
     "count": 2,
     "score": 58.5
-  },
-  "browser-use/video-use": {
-    "first_notified": "2026-09-07",
-    "last_notified": "2026-09-07",
-    "count": 1,
-    "score": 54.7
   },
   "magnitudedev/magnitude": {
     "first_notified": "2026-09-08",
@@ -487,9 +469,9 @@
   },
   "NVIDIA/OpenShell": {
     "first_notified": "2026-09-30",
-    "last_notified": "2026-10-04",
-    "count": 2,
-    "score": 72.7
+    "last_notified": "2026-10-08",
+    "count": 3,
+    "score": 62.7
   },
   "derv82/wifit3": {
     "first_notified": "2026-10-01",
@@ -547,15 +529,15 @@
   },
   "boykopovar/AnyPS5": {
     "first_notified": "2026-10-04",
-    "last_notified": "2026-10-04",
-    "count": 1,
-    "score": 76.8
+    "last_notified": "2026-10-08",
+    "count": 2,
+    "score": 63.3
   },
   "LuxAlgo/Vela": {
     "first_notified": "2026-10-04",
-    "last_notified": "2026-10-04",
-    "count": 1,
-    "score": 65.8
+    "last_notified": "2026-10-08",
+    "count": 2,
+    "score": 67.1
   },
   "t8y2/dbx": {
     "first_notified": "2026-10-04",
@@ -616,5 +598,17 @@
     "last_notified": "2026-10-07",
     "count": 1,
     "score": 59.4
+  },
+  "storytold/artcraft": {
+    "first_notified": "2026-10-08",
+    "last_notified": "2026-10-08",
+    "count": 1,
+    "score": 62.7
+  },
+  "hieunc229/mailflare": {
+    "first_notified": "2026-10-08",
+    "last_notified": "2026-10-08",
+    "count": 1,
+    "score": 61.4
   }
 }
