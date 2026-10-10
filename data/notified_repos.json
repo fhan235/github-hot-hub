@@ -83,18 +83,6 @@
     "count": 2,
     "score": 72.9
   },
-  "mattpocock/skills": {
-    "first_notified": "2026-09-09",
-    "last_notified": "2026-09-09",
-    "count": 1,
-    "score": 67.1
-  },
-  "sgl-project/sglang": {
-    "first_notified": "2026-09-09",
-    "last_notified": "2026-09-09",
-    "count": 1,
-    "score": 62.1
-  },
   "BraveOPotato/FckSignups": {
     "first_notified": "2026-09-10",
     "last_notified": "2026-09-10",
@@ -553,9 +541,9 @@
   },
   "ifixai-ai/iFixAi": {
     "first_notified": "2026-10-06",
-    "last_notified": "2026-10-06",
-    "count": 1,
-    "score": 71.7
+    "last_notified": "2026-10-10",
+    "count": 2,
+    "score": 60.5
   },
   "ashhart/TensorFold": {
     "first_notified": "2026-10-06",
@@ -616,5 +604,29 @@
     "last_notified": "2026-10-09",
     "count": 1,
     "score": 61.0
+  },
+  "DmNote-App/DmNote": {
+    "first_notified": "2026-10-10",
+    "last_notified": "2026-10-10",
+    "count": 1,
+    "score": 61.7
+  },
+  "dmtrKovalenko/fframes": {
+    "first_notified": "2026-10-10",
+    "last_notified": "2026-10-10",
+    "count": 1,
+    "score": 59.7
+  },
+  "666ghj/MiroFish": {
+    "first_notified": "2026-10-10",
+    "last_notified": "2026-10-10",
+    "count": 1,
+    "score": 58.7
+  },
+  "Panniantong/Agent-Reach": {
+    "first_notified": "2026-10-10",
+    "last_notified": "2026-10-10",
+    "count": 1,
+    "score": 57.2
   }
 }
