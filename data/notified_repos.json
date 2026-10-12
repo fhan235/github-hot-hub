@@ -59,12 +59,6 @@
     "count": 7,
     "score": 60.7
   },
-  "AdventDevInc/kudu": {
-    "first_notified": "2026-09-07",
-    "last_notified": "2026-09-11",
-    "count": 2,
-    "score": 58.5
-  },
   "magnitudedev/magnitude": {
     "first_notified": "2026-09-08",
     "last_notified": "2026-10-07",
@@ -88,24 +82,6 @@
     "last_notified": "2026-09-16",
     "count": 2,
     "score": 59.3
-  },
-  "microsoft/markitdown": {
-    "first_notified": "2026-09-11",
-    "last_notified": "2026-09-11",
-    "count": 1,
-    "score": 62.6
-  },
-  "The-Swarm-Corporation/AutoHedge": {
-    "first_notified": "2026-09-11",
-    "last_notified": "2026-09-11",
-    "count": 1,
-    "score": 61.1
-  },
-  "clash-verge-rev/clash-verge-rev": {
-    "first_notified": "2026-09-11",
-    "last_notified": "2026-09-11",
-    "count": 1,
-    "score": 57.9
   },
   "bikini/exploitarium": {
     "first_notified": "2026-09-12",
@@ -493,9 +469,9 @@
   },
   "boykopovar/AnyPS5": {
     "first_notified": "2026-10-04",
-    "last_notified": "2026-10-08",
-    "count": 2,
-    "score": 63.3
+    "last_notified": "2026-10-12",
+    "count": 3,
+    "score": 57.6
   },
   "LuxAlgo/Vela": {
     "first_notified": "2026-10-04",
@@ -565,9 +541,9 @@
   },
   "storytold/artcraft": {
     "first_notified": "2026-10-08",
-    "last_notified": "2026-10-08",
-    "count": 1,
-    "score": 62.7
+    "last_notified": "2026-10-12",
+    "count": 2,
+    "score": 58.2
   },
   "hieunc229/mailflare": {
     "first_notified": "2026-10-08",
@@ -628,5 +604,23 @@
     "last_notified": "2026-10-11",
     "count": 1,
     "score": 57.7
+  },
+  "microsoft/mxc": {
+    "first_notified": "2026-10-12",
+    "last_notified": "2026-10-12",
+    "count": 1,
+    "score": 67.9
+  },
+  "danyuchn/asd-ste100-skill": {
+    "first_notified": "2026-10-12",
+    "last_notified": "2026-10-12",
+    "count": 1,
+    "score": 62.1
+  },
+  "kanoqwq/UFI-TOOLS": {
+    "first_notified": "2026-10-12",
+    "last_notified": "2026-10-12",
+    "count": 1,
+    "score": 59.7
   }
 }
