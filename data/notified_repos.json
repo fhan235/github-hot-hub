@@ -5,12 +5,6 @@
     "count": 15,
     "score": 56.9
   },
-  "cathrynlavery/diagram-design": {
-    "first_notified": "2026-08-13",
-    "last_notified": "2026-09-12",
-    "count": 4,
-    "score": 64.0
-  },
   "bilawalsidhu/gods-eye-view": {
     "first_notified": "2026-08-28",
     "last_notified": "2026-09-20",
@@ -28,12 +22,6 @@
     "last_notified": "2026-09-24",
     "count": 4,
     "score": 63.4
-  },
-  "tt-a1i/archify": {
-    "first_notified": "2026-08-31",
-    "last_notified": "2026-09-12",
-    "count": 4,
-    "score": 64.4
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
@@ -82,18 +70,6 @@
     "last_notified": "2026-09-16",
     "count": 2,
     "score": 59.3
-  },
-  "bikini/exploitarium": {
-    "first_notified": "2026-09-12",
-    "last_notified": "2026-09-12",
-    "count": 1,
-    "score": 59.1
-  },
-  "earthtojake/text-to-cad": {
-    "first_notified": "2026-09-12",
-    "last_notified": "2026-09-12",
-    "count": 1,
-    "score": 58.1
   },
   "heygen-com/hyperframes": {
     "first_notified": "2026-09-13",
@@ -391,9 +367,9 @@
   },
   "mvschwarz/openrig": {
     "first_notified": "2026-09-29",
-    "last_notified": "2026-10-09",
-    "count": 3,
-    "score": 71.2
+    "last_notified": "2026-10-13",
+    "count": 4,
+    "score": 62.3
   },
   "Asymptote-Labs/agent-beacon": {
     "first_notified": "2026-09-30",
@@ -469,9 +445,9 @@
   },
   "boykopovar/AnyPS5": {
     "first_notified": "2026-10-04",
-    "last_notified": "2026-10-12",
-    "count": 3,
-    "score": 57.6
+    "last_notified": "2026-10-13",
+    "count": 4,
+    "score": 84.0
   },
   "LuxAlgo/Vela": {
     "first_notified": "2026-10-04",
@@ -553,9 +529,9 @@
   },
   "eolix/photosuite": {
     "first_notified": "2026-10-09",
-    "last_notified": "2026-10-09",
-    "count": 1,
-    "score": 67.1
+    "last_notified": "2026-10-13",
+    "count": 2,
+    "score": 58.6
   },
   "FalkorDB/FalkorDB": {
     "first_notified": "2026-10-09",
@@ -622,5 +598,17 @@
     "last_notified": "2026-10-12",
     "count": 1,
     "score": 59.7
+  },
+  "xerj-org/xerj": {
+    "first_notified": "2026-10-13",
+    "last_notified": "2026-10-13",
+    "count": 1,
+    "score": 65.3
+  },
+  "General-Legal/legal-templates": {
+    "first_notified": "2026-10-13",
+    "last_notified": "2026-10-13",
+    "count": 1,
+    "score": 58.9
   }
 }
