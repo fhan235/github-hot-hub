@@ -29,18 +29,6 @@
     "count": 5,
     "score": 63.2
   },
-  "THU-MAIC/OpenMAIC": {
-    "first_notified": "2026-09-04",
-    "last_notified": "2026-09-13",
-    "count": 3,
-    "score": 57.6
-  },
-  "humanlayer/skills": {
-    "first_notified": "2026-09-05",
-    "last_notified": "2026-09-13",
-    "count": 3,
-    "score": 62.0
-  },
   "debpalash/VoiceStudio": {
     "first_notified": "2026-09-07",
     "last_notified": "2026-10-07",
@@ -71,23 +59,11 @@
     "count": 2,
     "score": 59.3
   },
-  "heygen-com/hyperframes": {
-    "first_notified": "2026-09-13",
-    "last_notified": "2026-09-13",
-    "count": 1,
-    "score": 57.3
-  },
   "melgarafael/DeskcommCRM": {
     "first_notified": "2026-09-13",
     "last_notified": "2026-09-21",
     "count": 3,
     "score": 67.6
-  },
-  "jo-inc/camofox-browser": {
-    "first_notified": "2026-09-13",
-    "last_notified": "2026-09-13",
-    "count": 1,
-    "score": 56.4
   },
   "ayghri/i-have-adhd": {
     "first_notified": "2026-09-14",
@@ -547,9 +523,9 @@
   },
   "DmNote-App/DmNote": {
     "first_notified": "2026-10-10",
-    "last_notified": "2026-10-10",
-    "count": 1,
-    "score": 61.7
+    "last_notified": "2026-10-14",
+    "count": 2,
+    "score": 69.0
   },
   "dmtrKovalenko/fframes": {
     "first_notified": "2026-10-10",
@@ -610,5 +586,29 @@
     "last_notified": "2026-10-13",
     "count": 1,
     "score": 58.9
+  },
+  "xtool-org/xtool": {
+    "first_notified": "2026-10-14",
+    "last_notified": "2026-10-14",
+    "count": 1,
+    "score": 60.5
+  },
+  "vxcontrol/pentagi": {
+    "first_notified": "2026-10-14",
+    "last_notified": "2026-10-14",
+    "count": 1,
+    "score": 60.2
+  },
+  "remotion-dev/remotion": {
+    "first_notified": "2026-10-14",
+    "last_notified": "2026-10-14",
+    "count": 1,
+    "score": 58.4
+  },
+  "EpicGames/raddebugger": {
+    "first_notified": "2026-10-14",
+    "last_notified": "2026-10-14",
+    "count": 1,
+    "score": 58.1
   }
 }
