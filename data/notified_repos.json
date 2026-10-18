@@ -47,12 +47,6 @@
     "count": 3,
     "score": 66.9
   },
-  "Tencent/teamai-cli": {
-    "first_notified": "2026-09-09",
-    "last_notified": "2026-09-17",
-    "count": 2,
-    "score": 72.9
-  },
   "melgarafael/DeskcommCRM": {
     "first_notified": "2026-09-13",
     "last_notified": "2026-09-21",
@@ -76,12 +70,6 @@
     "last_notified": "2026-09-23",
     "count": 2,
     "score": 69.3
-  },
-  "abue-ammar/tinycast": {
-    "first_notified": "2026-09-17",
-    "last_notified": "2026-09-17",
-    "count": 1,
-    "score": 63.2
   },
   "vastsa/PI-Desktop": {
     "first_notified": "2026-09-18",
@@ -403,9 +391,9 @@
   },
   "ifixai-ai/iFixAi": {
     "first_notified": "2026-10-06",
-    "last_notified": "2026-10-10",
-    "count": 2,
-    "score": 60.5
+    "last_notified": "2026-10-18",
+    "count": 3,
+    "score": 65.2
   },
   "ashhart/TensorFold": {
     "first_notified": "2026-10-06",
@@ -427,9 +415,9 @@
   },
   "morluto/rea": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-10-17",
-    "count": 3,
-    "score": 59.1
+    "last_notified": "2026-10-18",
+    "count": 4,
+    "score": 83.2
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
@@ -541,9 +529,9 @@
   },
   "vxcontrol/pentagi": {
     "first_notified": "2026-10-14",
-    "last_notified": "2026-10-14",
-    "count": 1,
-    "score": 60.2
+    "last_notified": "2026-10-18",
+    "count": 2,
+    "score": 61.4
   },
   "remotion-dev/remotion": {
     "first_notified": "2026-10-14",
@@ -574,5 +562,17 @@
     "last_notified": "2026-10-17",
     "count": 1,
     "score": 64.7
+  },
+  "corrinehu/dsh-workbuddy-connect": {
+    "first_notified": "2026-10-18",
+    "last_notified": "2026-10-18",
+    "count": 1,
+    "score": 72.1
+  },
+  "mksglu/context-mode": {
+    "first_notified": "2026-10-18",
+    "last_notified": "2026-10-18",
+    "count": 1,
+    "score": 58.8
   }
 }
