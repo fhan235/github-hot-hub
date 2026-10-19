@@ -53,12 +53,6 @@
     "count": 3,
     "score": 67.6
   },
-  "ayghri/i-have-adhd": {
-    "first_notified": "2026-09-14",
-    "last_notified": "2026-09-18",
-    "count": 2,
-    "score": 66.4
-  },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-09-16",
     "last_notified": "2026-09-26",
@@ -76,12 +70,6 @@
     "last_notified": "2026-09-22",
     "count": 2,
     "score": 60.0
-  },
-  "p1neappleXpress/OpenFlux": {
-    "first_notified": "2026-09-18",
-    "last_notified": "2026-09-18",
-    "count": 1,
-    "score": 72.6
   },
   "Tencent/BrowserSkill": {
     "first_notified": "2026-09-18",
@@ -457,9 +445,9 @@
   },
   "DmNote-App/DmNote": {
     "first_notified": "2026-10-10",
-    "last_notified": "2026-10-14",
-    "count": 2,
-    "score": 69.0
+    "last_notified": "2026-10-19",
+    "count": 3,
+    "score": 59.9
   },
   "dmtrKovalenko/fframes": {
     "first_notified": "2026-10-10",
@@ -574,5 +562,29 @@
     "last_notified": "2026-10-18",
     "count": 1,
     "score": 58.8
+  },
+  "devaccuracy/ledgerforge": {
+    "first_notified": "2026-10-19",
+    "last_notified": "2026-10-19",
+    "count": 1,
+    "score": 64.6
+  },
+  "michael-denyer/pstack-claude": {
+    "first_notified": "2026-10-19",
+    "last_notified": "2026-10-19",
+    "count": 1,
+    "score": 64.4
+  },
+  "CopilotKit/OpenIntelligentUI": {
+    "first_notified": "2026-10-19",
+    "last_notified": "2026-10-19",
+    "count": 1,
+    "score": 63.9
+  },
+  "SegFault42/HeliosGen": {
+    "first_notified": "2026-10-19",
+    "last_notified": "2026-10-19",
+    "count": 1,
+    "score": 60.4
   }
 }
