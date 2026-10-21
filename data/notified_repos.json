@@ -5,12 +5,6 @@
     "count": 15,
     "score": 56.9
   },
-  "bilawalsidhu/gods-eye-view": {
-    "first_notified": "2026-08-28",
-    "last_notified": "2026-09-20",
-    "count": 6,
-    "score": 68.3
-  },
   "asciimoo/hister": {
     "first_notified": "2026-08-29",
     "last_notified": "2026-09-22",
@@ -71,23 +65,11 @@
     "count": 3,
     "score": 59.0
   },
-  "ever-co/ever-gauzy": {
-    "first_notified": "2026-09-20",
-    "last_notified": "2026-09-20",
-    "count": 1,
-    "score": 78.6
-  },
   "alphaXiv/OpenResearch": {
     "first_notified": "2026-09-20",
     "last_notified": "2026-09-24",
     "count": 2,
     "score": 62.6
-  },
-  "fleetbase/fleetbase": {
-    "first_notified": "2026-09-20",
-    "last_notified": "2026-09-20",
-    "count": 1,
-    "score": 65.0
   },
   "alibaba/open-code-review": {
     "first_notified": "2026-09-21",
@@ -313,9 +295,9 @@
   },
   "boykopovar/AnyPS5": {
     "first_notified": "2026-10-04",
-    "last_notified": "2026-10-17",
-    "count": 5,
-    "score": 80.3
+    "last_notified": "2026-10-21",
+    "count": 6,
+    "score": 67.3
   },
   "LuxAlgo/Vela": {
     "first_notified": "2026-10-04",
@@ -379,9 +361,9 @@
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-10-17",
-    "count": 2,
-    "score": 67.5
+    "last_notified": "2026-10-21",
+    "count": 3,
+    "score": 66.2
   },
   "storytold/artcraft": {
     "first_notified": "2026-10-08",
@@ -469,9 +451,9 @@
   },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
-    "last_notified": "2026-10-17",
-    "count": 2,
-    "score": 59.0
+    "last_notified": "2026-10-21",
+    "count": 3,
+    "score": 60.3
   },
   "General-Legal/legal-templates": {
     "first_notified": "2026-10-13",
@@ -562,5 +544,17 @@
     "last_notified": "2026-10-20",
     "count": 1,
     "score": 73.2
+  },
+  "android/skills": {
+    "first_notified": "2026-10-21",
+    "last_notified": "2026-10-21",
+    "count": 1,
+    "score": 61.5
+  },
+  "mixelpixx/Konnect": {
+    "first_notified": "2026-10-21",
+    "last_notified": "2026-10-21",
+    "count": 1,
+    "score": 60.1
   }
 }
