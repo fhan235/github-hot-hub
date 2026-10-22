@@ -35,12 +35,6 @@
     "count": 3,
     "score": 61.2
   },
-  "melgarafael/DeskcommCRM": {
-    "first_notified": "2026-09-13",
-    "last_notified": "2026-09-21",
-    "count": 3,
-    "score": 67.6
-  },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-09-16",
     "last_notified": "2026-09-26",
@@ -76,18 +70,6 @@
     "last_notified": "2026-09-25",
     "count": 2,
     "score": 61.9
-  },
-  "tech-leads-club/agent-skills": {
-    "first_notified": "2026-09-21",
-    "last_notified": "2026-09-21",
-    "count": 1,
-    "score": 62.7
-  },
-  "Tencent/WeKnora": {
-    "first_notified": "2026-09-21",
-    "last_notified": "2026-09-21",
-    "count": 1,
-    "score": 61.6
   },
   "JustVugg/colibri": {
     "first_notified": "2026-09-22",
@@ -355,9 +337,9 @@
   },
   "morluto/rea": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-10-18",
-    "count": 4,
-    "score": 83.2
+    "last_notified": "2026-10-22",
+    "count": 5,
+    "score": 73.2
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
@@ -556,5 +538,29 @@
     "last_notified": "2026-10-21",
     "count": 1,
     "score": 60.1
+  },
+  "ethanplusai/harvey": {
+    "first_notified": "2026-10-22",
+    "last_notified": "2026-10-22",
+    "count": 1,
+    "score": 76.4
+  },
+  "Kruk2/jasna": {
+    "first_notified": "2026-10-22",
+    "last_notified": "2026-10-22",
+    "count": 1,
+    "score": 65.3
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "first_notified": "2026-10-22",
+    "last_notified": "2026-10-22",
+    "count": 1,
+    "score": 60.9
+  },
+  "hmjz100/LinkSwift": {
+    "first_notified": "2026-10-22",
+    "last_notified": "2026-10-22",
+    "count": 1,
+    "score": 60.5
   }
 }
