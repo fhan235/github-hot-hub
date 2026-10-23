@@ -5,12 +5,6 @@
     "count": 15,
     "score": 56.9
   },
-  "asciimoo/hister": {
-    "first_notified": "2026-08-29",
-    "last_notified": "2026-09-22",
-    "count": 2,
-    "score": 62.3
-  },
   "DietrichGebert/ponytail": {
     "first_notified": "2026-08-31",
     "last_notified": "2026-09-24",
@@ -47,12 +41,6 @@
     "count": 2,
     "score": 69.3
   },
-  "vastsa/PI-Desktop": {
-    "first_notified": "2026-09-18",
-    "last_notified": "2026-09-22",
-    "count": 2,
-    "score": 60.0
-  },
   "Tencent/BrowserSkill": {
     "first_notified": "2026-09-18",
     "last_notified": "2026-09-27",
@@ -70,12 +58,6 @@
     "last_notified": "2026-09-25",
     "count": 2,
     "score": 61.9
-  },
-  "JustVugg/colibri": {
-    "first_notified": "2026-09-22",
-    "last_notified": "2026-09-22",
-    "count": 1,
-    "score": 68.5
   },
   "TencentCloud/Octop": {
     "first_notified": "2026-09-23",
@@ -433,9 +415,9 @@
   },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
-    "last_notified": "2026-10-21",
-    "count": 3,
-    "score": 60.3
+    "last_notified": "2026-10-23",
+    "count": 4,
+    "score": 80.4
   },
   "General-Legal/legal-templates": {
     "first_notified": "2026-10-13",
@@ -505,9 +487,9 @@
   },
   "michael-denyer/pstack-claude": {
     "first_notified": "2026-10-19",
-    "last_notified": "2026-10-19",
-    "count": 1,
-    "score": 64.4
+    "last_notified": "2026-10-23",
+    "count": 2,
+    "score": 60.8
   },
   "CopilotKit/OpenIntelligentUI": {
     "first_notified": "2026-10-19",
@@ -562,5 +544,23 @@
     "last_notified": "2026-10-22",
     "count": 1,
     "score": 60.5
+  },
+  "PC2005-cloud/dsh-pet": {
+    "first_notified": "2026-10-23",
+    "last_notified": "2026-10-23",
+    "count": 1,
+    "score": 77.1
+  },
+  "akitaonrails/ai-memory": {
+    "first_notified": "2026-10-23",
+    "last_notified": "2026-10-23",
+    "count": 1,
+    "score": 63.3
+  },
+  "Renhuai123/ziwei-doushu": {
+    "first_notified": "2026-10-23",
+    "last_notified": "2026-10-23",
+    "count": 1,
+    "score": 60.8
   }
 }
