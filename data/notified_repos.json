@@ -1,15 +1,9 @@
 {
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-09-28",
-    "count": 15,
-    "score": 56.9
-  },
-  "DietrichGebert/ponytail": {
-    "first_notified": "2026-08-31",
-    "last_notified": "2026-09-24",
-    "count": 4,
-    "score": 63.4
+    "last_notified": "2026-10-25",
+    "count": 16,
+    "score": 59.6
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
@@ -41,12 +35,6 @@
     "count": 3,
     "score": 59.0
   },
-  "alphaXiv/OpenResearch": {
-    "first_notified": "2026-09-20",
-    "last_notified": "2026-09-24",
-    "count": 2,
-    "score": 62.6
-  },
   "alibaba/open-code-review": {
     "first_notified": "2026-09-21",
     "last_notified": "2026-09-25",
@@ -64,18 +52,6 @@
     "last_notified": "2026-09-29",
     "count": 2,
     "score": 83.7
-  },
-  "arnegiacomo/fugleramme": {
-    "first_notified": "2026-09-24",
-    "last_notified": "2026-09-24",
-    "count": 1,
-    "score": 65.2
-  },
-  "flexprice/flexprice": {
-    "first_notified": "2026-09-24",
-    "last_notified": "2026-09-24",
-    "count": 1,
-    "score": 56.5
   },
   "Open-Dev-Society/OpenStock": {
     "first_notified": "2026-09-25",
@@ -175,9 +151,9 @@
   },
   "Asymptote-Labs/agent-beacon": {
     "first_notified": "2026-09-30",
-    "last_notified": "2026-09-30",
-    "count": 1,
-    "score": 66.6
+    "last_notified": "2026-10-25",
+    "count": 2,
+    "score": 60.3
   },
   "farion1231/cc-switch": {
     "first_notified": "2026-09-30",
@@ -313,9 +289,9 @@
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-10-21",
-    "count": 3,
-    "score": 66.2
+    "last_notified": "2026-10-25",
+    "count": 4,
+    "score": 67.4
   },
   "storytold/artcraft": {
     "first_notified": "2026-10-08",
@@ -574,5 +550,17 @@
     "last_notified": "2026-10-24",
     "count": 1,
     "score": 63.4
+  },
+  "FujiwaraChoki/supoclip": {
+    "first_notified": "2026-10-25",
+    "last_notified": "2026-10-25",
+    "count": 1,
+    "score": 57.6
+  },
+  "anthropics/sandbox-runtime": {
+    "first_notified": "2026-10-25",
+    "last_notified": "2026-10-25",
+    "count": 1,
+    "score": 57.1
   }
 }
