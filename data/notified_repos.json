@@ -23,12 +23,6 @@
     "count": 3,
     "score": 61.2
   },
-  "cloudflare/security-audit-skill": {
-    "first_notified": "2026-09-16",
-    "last_notified": "2026-09-26",
-    "count": 4,
-    "score": 76.9
-  },
   "Tencent/BrowserSkill": {
     "first_notified": "2026-09-18",
     "last_notified": "2026-09-27",
@@ -76,18 +70,6 @@
     "last_notified": "2026-09-30",
     "count": 2,
     "score": 63.9
-  },
-  "bojieli/ai-agent-book": {
-    "first_notified": "2026-09-26",
-    "last_notified": "2026-09-26",
-    "count": 1,
-    "score": 60.9
-  },
-  "yynxxxxx/Codex-X": {
-    "first_notified": "2026-09-26",
-    "last_notified": "2026-09-26",
-    "count": 1,
-    "score": 59.8
   },
   "superdesigndev/treg": {
     "first_notified": "2026-09-27",
@@ -367,9 +349,9 @@
   },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
-    "last_notified": "2026-10-23",
-    "count": 4,
-    "score": 80.4
+    "last_notified": "2026-10-27",
+    "count": 5,
+    "score": 79.1
   },
   "General-Legal/legal-templates": {
     "first_notified": "2026-10-13",
@@ -499,9 +481,9 @@
   },
   "PC2005-cloud/dsh-pet": {
     "first_notified": "2026-10-23",
-    "last_notified": "2026-10-23",
-    "count": 1,
-    "score": 77.1
+    "last_notified": "2026-10-27",
+    "count": 2,
+    "score": 65.0
   },
   "akitaonrails/ai-memory": {
     "first_notified": "2026-10-23",
@@ -511,9 +493,9 @@
   },
   "Renhuai123/ziwei-doushu": {
     "first_notified": "2026-10-23",
-    "last_notified": "2026-10-23",
-    "count": 1,
-    "score": 60.8
+    "last_notified": "2026-10-27",
+    "count": 2,
+    "score": 68.3
   },
   "plugin87/ux-ui-agent-skills": {
     "first_notified": "2026-10-24",
@@ -568,5 +550,17 @@
     "last_notified": "2026-10-26",
     "count": 1,
     "score": 66.4
+  },
+  "JetBrains/thinkrail": {
+    "first_notified": "2026-10-27",
+    "last_notified": "2026-10-27",
+    "count": 1,
+    "score": 66.1
+  },
+  "croffasia/itsaplan": {
+    "first_notified": "2026-10-27",
+    "last_notified": "2026-10-27",
+    "count": 1,
+    "score": 63.1
   }
 }
