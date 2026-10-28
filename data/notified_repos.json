@@ -23,12 +23,6 @@
     "count": 3,
     "score": 61.2
   },
-  "Tencent/BrowserSkill": {
-    "first_notified": "2026-09-18",
-    "last_notified": "2026-09-27",
-    "count": 3,
-    "score": 59.0
-  },
   "TencentCloud/Octop": {
     "first_notified": "2026-09-23",
     "last_notified": "2026-10-07",
@@ -71,29 +65,11 @@
     "count": 2,
     "score": 63.9
   },
-  "superdesigndev/treg": {
-    "first_notified": "2026-09-27",
-    "last_notified": "2026-09-27",
-    "count": 1,
-    "score": 71.9
-  },
   "trailofbits/coop": {
     "first_notified": "2026-09-27",
     "last_notified": "2026-10-02",
     "count": 2,
     "score": 64.9
-  },
-  "elvisun/newsjack": {
-    "first_notified": "2026-09-27",
-    "last_notified": "2026-09-27",
-    "count": 1,
-    "score": 57.2
-  },
-  "zhouxiaoka/autoclip": {
-    "first_notified": "2026-09-27",
-    "last_notified": "2026-09-27",
-    "count": 1,
-    "score": 55.5
   },
   "hydra-db/hydradb": {
     "first_notified": "2026-09-28",
@@ -562,5 +538,35 @@
     "last_notified": "2026-10-27",
     "count": 1,
     "score": 63.1
+  },
+  "cloudflare/security-audit-skill": {
+    "first_notified": "2026-10-28",
+    "last_notified": "2026-10-28",
+    "count": 1,
+    "score": 71.4
+  },
+  "basketikun/infinite-canvas": {
+    "first_notified": "2026-10-28",
+    "last_notified": "2026-10-28",
+    "count": 1,
+    "score": 63.0
+  },
+  "elayadesign/ai-design-skills": {
+    "first_notified": "2026-10-28",
+    "last_notified": "2026-10-28",
+    "count": 1,
+    "score": 62.3
+  },
+  "togg53192-cmd/jailbreaks": {
+    "first_notified": "2026-10-28",
+    "last_notified": "2026-10-28",
+    "count": 1,
+    "score": 60.9
+  },
+  "nightly-labs/openbot": {
+    "first_notified": "2026-10-28",
+    "last_notified": "2026-10-28",
+    "count": 1,
+    "score": 60.2
   }
 }
