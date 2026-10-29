@@ -1,9 +1,9 @@
 {
   "stablyai/orca": {
     "first_notified": "2026-05-21",
-    "last_notified": "2026-10-25",
-    "count": 16,
-    "score": 59.6
+    "last_notified": "2026-10-29",
+    "count": 17,
+    "score": 57.9
   },
   "pacifio/atlas": {
     "first_notified": "2026-09-03",
@@ -109,9 +109,9 @@
   },
   "NVIDIA/OpenShell": {
     "first_notified": "2026-09-30",
-    "last_notified": "2026-10-08",
-    "count": 3,
-    "score": 62.7
+    "last_notified": "2026-10-29",
+    "count": 4,
+    "score": 59.2
   },
   "derv82/wifit3": {
     "first_notified": "2026-10-01",
@@ -568,5 +568,23 @@
     "last_notified": "2026-10-28",
     "count": 1,
     "score": 60.2
+  },
+  "pollen-robotics/microduck": {
+    "first_notified": "2026-10-29",
+    "last_notified": "2026-10-29",
+    "count": 1,
+    "score": 62.7
+  },
+  "SnailSploit/Claude-Red": {
+    "first_notified": "2026-10-29",
+    "last_notified": "2026-10-29",
+    "count": 1,
+    "score": 58.7
+  },
+  "jakubkrehel/skills": {
+    "first_notified": "2026-10-29",
+    "last_notified": "2026-10-29",
+    "count": 1,
+    "score": 56.8
   }
 }
