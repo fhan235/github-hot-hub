@@ -13,9 +13,9 @@
   },
   "debpalash/VoiceStudio": {
     "first_notified": "2026-09-07",
-    "last_notified": "2026-10-24",
-    "count": 9,
-    "score": 62.5
+    "last_notified": "2026-10-31",
+    "count": 10,
+    "score": 61.8
   },
   "magnitudedev/magnitude": {
     "first_notified": "2026-09-08",
@@ -35,17 +35,11 @@
     "count": 3,
     "score": 66.7
   },
-  "agent-substrate/substrate": {
-    "first_notified": "2026-09-26",
-    "last_notified": "2026-09-30",
-    "count": 2,
-    "score": 58.6
-  },
   "Nasiko-Labs/nasiko": {
     "first_notified": "2026-09-26",
-    "last_notified": "2026-09-30",
-    "count": 2,
-    "score": 63.9
+    "last_notified": "2026-10-31",
+    "count": 3,
+    "score": 60.4
   },
   "trailofbits/coop": {
     "first_notified": "2026-09-27",
@@ -76,12 +70,6 @@
     "last_notified": "2026-10-25",
     "count": 2,
     "score": 60.3
-  },
-  "farion1231/cc-switch": {
-    "first_notified": "2026-09-30",
-    "last_notified": "2026-09-30",
-    "count": 1,
-    "score": 63.1
   },
   "NVIDIA/OpenShell": {
     "first_notified": "2026-09-30",
@@ -301,9 +289,9 @@
   },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
-    "last_notified": "2026-10-27",
-    "count": 5,
-    "score": 79.1
+    "last_notified": "2026-10-31",
+    "count": 6,
+    "score": 63.2
   },
   "General-Legal/legal-templates": {
     "first_notified": "2026-10-13",
@@ -592,5 +580,17 @@
     "last_notified": "2026-10-30",
     "count": 1,
     "score": 62.1
+  },
+  "Orkas-AI/Orkas": {
+    "first_notified": "2026-10-31",
+    "last_notified": "2026-10-31",
+    "count": 1,
+    "score": 62.1
+  },
+  "AgriciDaniel/claude-seo": {
+    "first_notified": "2026-10-31",
+    "last_notified": "2026-10-31",
+    "count": 1,
+    "score": 60.7
   }
 }
