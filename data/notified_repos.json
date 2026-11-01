@@ -77,24 +77,6 @@
     "count": 4,
     "score": 59.2
   },
-  "derv82/wifit3": {
-    "first_notified": "2026-10-01",
-    "last_notified": "2026-10-01",
-    "count": 1,
-    "score": 74.1
-  },
-  "dream-num/univer": {
-    "first_notified": "2026-10-01",
-    "last_notified": "2026-10-01",
-    "count": 1,
-    "score": 66.6
-  },
-  "aayushch/laya": {
-    "first_notified": "2026-10-01",
-    "last_notified": "2026-10-01",
-    "count": 1,
-    "score": 66.1
-  },
   "paperclipai/paperclip": {
     "first_notified": "2026-10-02",
     "last_notified": "2026-10-02",
@@ -415,9 +397,9 @@
   },
   "hmjz100/LinkSwift": {
     "first_notified": "2026-10-22",
-    "last_notified": "2026-10-22",
-    "count": 1,
-    "score": 60.5
+    "last_notified": "2026-11-01",
+    "count": 2,
+    "score": 67.7
   },
   "PC2005-cloud/dsh-pet": {
     "first_notified": "2026-10-23",
@@ -493,9 +475,9 @@
   },
   "JetBrains/thinkrail": {
     "first_notified": "2026-10-27",
-    "last_notified": "2026-10-27",
-    "count": 1,
-    "score": 66.1
+    "last_notified": "2026-11-01",
+    "count": 2,
+    "score": 80.8
   },
   "croffasia/itsaplan": {
     "first_notified": "2026-10-27",
@@ -529,9 +511,9 @@
   },
   "nightly-labs/openbot": {
     "first_notified": "2026-10-28",
-    "last_notified": "2026-10-28",
-    "count": 1,
-    "score": 60.2
+    "last_notified": "2026-11-01",
+    "count": 2,
+    "score": 78.6
   },
   "pollen-robotics/microduck": {
     "first_notified": "2026-10-29",
@@ -592,5 +574,17 @@
     "last_notified": "2026-10-31",
     "count": 1,
     "score": 60.7
+  },
+  "YuJunZhiXue/dsh-purge": {
+    "first_notified": "2026-11-01",
+    "last_notified": "2026-11-01",
+    "count": 1,
+    "score": 81.4
+  },
+  "Nutlope/hallmark": {
+    "first_notified": "2026-11-01",
+    "last_notified": "2026-11-01",
+    "count": 1,
+    "score": 76.0
   }
 }
