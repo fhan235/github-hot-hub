@@ -77,18 +77,6 @@
     "count": 2,
     "score": 67.1
   },
-  "t8y2/dbx": {
-    "first_notified": "2026-10-04",
-    "last_notified": "2026-10-04",
-    "count": 1,
-    "score": 57.7
-  },
-  "ruvnet/RuView": {
-    "first_notified": "2026-10-04",
-    "last_notified": "2026-10-04",
-    "count": 1,
-    "score": 56.0
-  },
   "pablostanley/yoinks": {
     "first_notified": "2026-10-05",
     "last_notified": "2026-10-09",
@@ -367,9 +355,9 @@
   },
   "Renhuai123/ziwei-doushu": {
     "first_notified": "2026-10-23",
-    "last_notified": "2026-10-27",
-    "count": 2,
-    "score": 68.3
+    "last_notified": "2026-11-04",
+    "count": 3,
+    "score": 80.6
   },
   "plugin87/ux-ui-agent-skills": {
     "first_notified": "2026-10-24",
@@ -511,9 +499,9 @@
   },
   "milind-soni/OpenMausBot": {
     "first_notified": "2026-10-30",
-    "last_notified": "2026-10-30",
-    "count": 1,
-    "score": 62.1
+    "last_notified": "2026-11-04",
+    "count": 2,
+    "score": 78.0
   },
   "Orkas-AI/Orkas": {
     "first_notified": "2026-10-31",
@@ -580,5 +568,23 @@
     "last_notified": "2026-11-03",
     "count": 1,
     "score": 61.5
+  },
+  "HunYiSage/dsh-purge": {
+    "first_notified": "2026-11-04",
+    "last_notified": "2026-11-04",
+    "count": 1,
+    "score": 77.2
+  },
+  "beenuar/AiSOC": {
+    "first_notified": "2026-11-04",
+    "last_notified": "2026-11-04",
+    "count": 1,
+    "score": 69.2
+  },
+  "kajisho5/ffmpeg-skill": {
+    "first_notified": "2026-11-04",
+    "last_notified": "2026-11-04",
+    "count": 1,
+    "score": 67.9
   }
 }
