@@ -23,23 +23,11 @@
     "count": 3,
     "score": 57.8
   },
-  "vectorize-io/hindsight": {
-    "first_notified": "2026-09-25",
-    "last_notified": "2026-10-05",
-    "count": 3,
-    "score": 66.7
-  },
   "Nasiko-Labs/nasiko": {
     "first_notified": "2026-09-26",
     "last_notified": "2026-10-31",
     "count": 3,
     "score": 60.4
-  },
-  "hydra-db/hydradb": {
-    "first_notified": "2026-09-28",
-    "last_notified": "2026-10-05",
-    "count": 3,
-    "score": 60.2
   },
   "DuarteSantos8/openGym": {
     "first_notified": "2026-09-28",
@@ -82,12 +70,6 @@
     "last_notified": "2026-10-09",
     "count": 2,
     "score": 74.3
-  },
-  "cs341-illinois/coursebook": {
-    "first_notified": "2026-10-05",
-    "last_notified": "2026-10-05",
-    "count": 1,
-    "score": 74.0
   },
   "ifixai-ai/iFixAi": {
     "first_notified": "2026-10-06",
@@ -415,9 +397,9 @@
   },
   "JetBrains/thinkrail": {
     "first_notified": "2026-10-27",
-    "last_notified": "2026-11-01",
-    "count": 2,
-    "score": 80.8
+    "last_notified": "2026-11-05",
+    "count": 3,
+    "score": 69.6
   },
   "croffasia/itsaplan": {
     "first_notified": "2026-10-27",
@@ -451,9 +433,9 @@
   },
   "nightly-labs/openbot": {
     "first_notified": "2026-10-28",
-    "last_notified": "2026-11-01",
-    "count": 2,
-    "score": 78.6
+    "last_notified": "2026-11-05",
+    "count": 3,
+    "score": 71.3
   },
   "pollen-robotics/microduck": {
     "first_notified": "2026-10-29",
@@ -559,9 +541,9 @@
   },
   "DeanChensj/jiangshan-map": {
     "first_notified": "2026-11-03",
-    "last_notified": "2026-11-03",
-    "count": 1,
-    "score": 62.5
+    "last_notified": "2026-11-05",
+    "count": 2,
+    "score": 75.2
   },
   "warmbly/warmbly": {
     "first_notified": "2026-11-03",
@@ -586,5 +568,17 @@
     "last_notified": "2026-11-04",
     "count": 1,
     "score": 67.9
+  },
+  "NVIDIA/auto-ontology": {
+    "first_notified": "2026-11-05",
+    "last_notified": "2026-11-05",
+    "count": 1,
+    "score": 73.0
+  },
+  "pingdotgg/t3code": {
+    "first_notified": "2026-11-05",
+    "last_notified": "2026-11-05",
+    "count": 1,
+    "score": 70.7
   }
 }
