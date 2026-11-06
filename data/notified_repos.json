@@ -77,18 +77,6 @@
     "count": 4,
     "score": 58.5
   },
-  "ashhart/TensorFold": {
-    "first_notified": "2026-10-06",
-    "last_notified": "2026-10-06",
-    "count": 1,
-    "score": 68.6
-  },
-  "Agent-Field/CodeAF": {
-    "first_notified": "2026-10-06",
-    "last_notified": "2026-10-06",
-    "count": 1,
-    "score": 63.1
-  },
   "tester-army/e2e": {
     "first_notified": "2026-10-06",
     "last_notified": "2026-10-11",
@@ -361,9 +349,9 @@
   },
   "leepokai/Codync": {
     "first_notified": "2026-10-24",
-    "last_notified": "2026-10-24",
-    "count": 1,
-    "score": 63.4
+    "last_notified": "2026-11-06",
+    "count": 2,
+    "score": 67.2
   },
   "FujiwaraChoki/supoclip": {
     "first_notified": "2026-10-25",
@@ -409,9 +397,9 @@
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-10-28",
-    "last_notified": "2026-11-02",
-    "count": 2,
-    "score": 63.9
+    "last_notified": "2026-11-06",
+    "count": 3,
+    "score": 61.0
   },
   "basketikun/infinite-canvas": {
     "first_notified": "2026-10-28",
@@ -505,9 +493,9 @@
   },
   "Nutlope/hallmark": {
     "first_notified": "2026-11-01",
-    "last_notified": "2026-11-01",
-    "count": 1,
-    "score": 76.0
+    "last_notified": "2026-11-06",
+    "count": 2,
+    "score": 60.6
   },
   "HKUDS/DeepTutor": {
     "first_notified": "2026-11-02",
@@ -580,5 +568,17 @@
     "last_notified": "2026-11-05",
     "count": 1,
     "score": 70.7
+  },
+  "Leonxlnx/taste-skill": {
+    "first_notified": "2026-11-06",
+    "last_notified": "2026-11-06",
+    "count": 1,
+    "score": 64.3
+  },
+  "DietrichGebert/ponytail": {
+    "first_notified": "2026-11-06",
+    "last_notified": "2026-11-06",
+    "count": 1,
+    "score": 63.5
   }
 }
