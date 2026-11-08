@@ -47,12 +47,6 @@
     "count": 6,
     "score": 67.3
   },
-  "LuxAlgo/Vela": {
-    "first_notified": "2026-10-04",
-    "last_notified": "2026-10-08",
-    "count": 2,
-    "score": 67.1
-  },
   "pablostanley/yoinks": {
     "first_notified": "2026-10-05",
     "last_notified": "2026-10-09",
@@ -73,9 +67,9 @@
   },
   "morluto/rea": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-10-22",
-    "count": 5,
-    "score": 73.2
+    "last_notified": "2026-11-08",
+    "count": 6,
+    "score": 60.5
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
@@ -88,12 +82,6 @@
     "last_notified": "2026-10-20",
     "count": 4,
     "score": 75.2
-  },
-  "hieunc229/mailflare": {
-    "first_notified": "2026-10-08",
-    "last_notified": "2026-10-08",
-    "count": 1,
-    "score": 61.4
   },
   "eolix/photosuite": {
     "first_notified": "2026-10-09",
@@ -313,9 +301,9 @@
   },
   "Renhuai123/ziwei-doushu": {
     "first_notified": "2026-10-23",
-    "last_notified": "2026-11-04",
-    "count": 3,
-    "score": 80.6
+    "last_notified": "2026-11-08",
+    "count": 4,
+    "score": 66.6
   },
   "plugin87/ux-ui-agent-skills": {
     "first_notified": "2026-10-24",
@@ -586,5 +574,23 @@
     "last_notified": "2026-11-07",
     "count": 1,
     "score": 65.7
+  },
+  "crmne/zapfast": {
+    "first_notified": "2026-11-08",
+    "last_notified": "2026-11-08",
+    "count": 1,
+    "score": 59.8
+  },
+  "D4Vinci/Scrapling": {
+    "first_notified": "2026-11-08",
+    "last_notified": "2026-11-08",
+    "count": 1,
+    "score": 58.8
+  },
+  "pbakaus/impeccable": {
+    "first_notified": "2026-11-08",
+    "last_notified": "2026-11-08",
+    "count": 1,
+    "score": 57.4
   }
 }
