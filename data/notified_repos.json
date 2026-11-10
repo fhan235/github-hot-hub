@@ -89,24 +89,6 @@
     "count": 3,
     "score": 59.9
   },
-  "dmtrKovalenko/fframes": {
-    "first_notified": "2026-10-10",
-    "last_notified": "2026-10-10",
-    "count": 1,
-    "score": 59.7
-  },
-  "666ghj/MiroFish": {
-    "first_notified": "2026-10-10",
-    "last_notified": "2026-10-10",
-    "count": 1,
-    "score": 58.7
-  },
-  "Panniantong/Agent-Reach": {
-    "first_notified": "2026-10-10",
-    "last_notified": "2026-10-10",
-    "count": 1,
-    "score": 57.2
-  },
   "lexmount/moli": {
     "first_notified": "2026-10-11",
     "last_notified": "2026-10-16",
@@ -355,9 +337,9 @@
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-10-28",
-    "last_notified": "2026-11-06",
-    "count": 3,
-    "score": 61.0
+    "last_notified": "2026-11-10",
+    "count": 4,
+    "score": 62.9
   },
   "basketikun/infinite-canvas": {
     "first_notified": "2026-10-28",
@@ -379,9 +361,9 @@
   },
   "nightly-labs/openbot": {
     "first_notified": "2026-10-28",
-    "last_notified": "2026-11-05",
-    "count": 3,
-    "score": 71.3
+    "last_notified": "2026-11-10",
+    "count": 4,
+    "score": 63.4
   },
   "pollen-robotics/microduck": {
     "first_notified": "2026-10-29",
@@ -451,9 +433,9 @@
   },
   "Nutlope/hallmark": {
     "first_notified": "2026-11-01",
-    "last_notified": "2026-11-06",
-    "count": 2,
-    "score": 60.6
+    "last_notified": "2026-11-10",
+    "count": 3,
+    "score": 58.6
   },
   "HKUDS/DeepTutor": {
     "first_notified": "2026-11-02",
@@ -574,5 +556,17 @@
     "last_notified": "2026-11-08",
     "count": 1,
     "score": 57.4
+  },
+  "CNCKitchen/ScanRuler": {
+    "first_notified": "2026-11-10",
+    "last_notified": "2026-11-10",
+    "count": 1,
+    "score": 61.4
+  },
+  "max-sixty/worktrunk": {
+    "first_notified": "2026-11-10",
+    "last_notified": "2026-11-10",
+    "count": 1,
+    "score": 58.5
   }
 }
