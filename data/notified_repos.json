@@ -89,24 +89,6 @@
     "count": 2,
     "score": 73.5
   },
-  "microsoft/mxc": {
-    "first_notified": "2026-10-12",
-    "last_notified": "2026-10-12",
-    "count": 1,
-    "score": 67.9
-  },
-  "danyuchn/asd-ste100-skill": {
-    "first_notified": "2026-10-12",
-    "last_notified": "2026-10-12",
-    "count": 1,
-    "score": 62.1
-  },
-  "kanoqwq/UFI-TOOLS": {
-    "first_notified": "2026-10-12",
-    "last_notified": "2026-10-12",
-    "count": 1,
-    "score": 59.7
-  },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
     "last_notified": "2026-10-31",
@@ -265,9 +247,9 @@
   },
   "liguobao/ds-harness-remote": {
     "first_notified": "2026-10-24",
-    "last_notified": "2026-11-07",
-    "count": 2,
-    "score": 68.9
+    "last_notified": "2026-11-12",
+    "count": 3,
+    "score": 67.3
   },
   "affaan-m/ECC": {
     "first_notified": "2026-10-24",
@@ -397,9 +379,9 @@
   },
   "milind-soni/OpenMausBot": {
     "first_notified": "2026-10-30",
-    "last_notified": "2026-11-04",
-    "count": 2,
-    "score": 78.0
+    "last_notified": "2026-11-12",
+    "count": 3,
+    "score": 76.5
   },
   "Orkas-AI/Orkas": {
     "first_notified": "2026-10-31",
@@ -499,9 +481,9 @@
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-11-06",
-    "last_notified": "2026-11-06",
-    "count": 1,
-    "score": 64.3
+    "last_notified": "2026-11-12",
+    "count": 2,
+    "score": 61.9
   },
   "DietrichGebert/ponytail": {
     "first_notified": "2026-11-06",
@@ -541,9 +523,9 @@
   },
   "pbakaus/impeccable": {
     "first_notified": "2026-11-08",
-    "last_notified": "2026-11-08",
-    "count": 1,
-    "score": 57.4
+    "last_notified": "2026-11-12",
+    "count": 2,
+    "score": 55.6
   },
   "CNCKitchen/ScanRuler": {
     "first_notified": "2026-11-10",
@@ -568,5 +550,11 @@
     "last_notified": "2026-11-11",
     "count": 1,
     "score": 56.8
+  },
+  "mattpocock/skills": {
+    "first_notified": "2026-11-12",
+    "last_notified": "2026-11-12",
+    "count": 1,
+    "score": 56.3
   }
 }
