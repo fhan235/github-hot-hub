@@ -23,12 +23,6 @@
     "count": 5,
     "score": 63.7
   },
-  "mvschwarz/openrig": {
-    "first_notified": "2026-09-29",
-    "last_notified": "2026-10-13",
-    "count": 4,
-    "score": 62.3
-  },
   "Asymptote-Labs/agent-beacon": {
     "first_notified": "2026-09-30",
     "last_notified": "2026-10-25",
@@ -61,21 +55,15 @@
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-10-25",
-    "count": 4,
-    "score": 67.4
+    "last_notified": "2026-11-13",
+    "count": 5,
+    "score": 70.9
   },
   "storytold/artcraft": {
     "first_notified": "2026-10-08",
     "last_notified": "2026-10-20",
     "count": 4,
     "score": 75.2
-  },
-  "eolix/photosuite": {
-    "first_notified": "2026-10-09",
-    "last_notified": "2026-10-13",
-    "count": 2,
-    "score": 58.6
   },
   "DmNote-App/DmNote": {
     "first_notified": "2026-10-10",
@@ -94,12 +82,6 @@
     "last_notified": "2026-10-31",
     "count": 6,
     "score": 63.2
-  },
-  "General-Legal/legal-templates": {
-    "first_notified": "2026-10-13",
-    "last_notified": "2026-10-13",
-    "count": 1,
-    "score": 58.9
   },
   "xtool-org/xtool": {
     "first_notified": "2026-10-14",
@@ -427,9 +409,9 @@
   },
   "vercel-labs/agent-desktop": {
     "first_notified": "2026-11-03",
-    "last_notified": "2026-11-09",
-    "count": 2,
-    "score": 85.0
+    "last_notified": "2026-11-13",
+    "count": 3,
+    "score": 67.2
   },
   "CopilotKit/OpenBot": {
     "first_notified": "2026-11-03",
@@ -469,15 +451,15 @@
   },
   "NVIDIA/auto-ontology": {
     "first_notified": "2026-11-05",
-    "last_notified": "2026-11-09",
-    "count": 2,
-    "score": 84.2
+    "last_notified": "2026-11-13",
+    "count": 3,
+    "score": 76.4
   },
   "pingdotgg/t3code": {
     "first_notified": "2026-11-05",
-    "last_notified": "2026-11-09",
-    "count": 2,
-    "score": 69.7
+    "last_notified": "2026-11-13",
+    "count": 3,
+    "score": 63.9
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-11-06",
@@ -556,5 +538,11 @@
     "last_notified": "2026-11-12",
     "count": 1,
     "score": 56.3
+  },
+  "dsx-ai-factory/nvke": {
+    "first_notified": "2026-11-13",
+    "last_notified": "2026-11-13",
+    "count": 1,
+    "score": 73.8
   }
 }
