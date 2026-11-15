@@ -271,9 +271,9 @@
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-10-28",
-    "last_notified": "2026-11-10",
-    "count": 4,
-    "score": 62.9
+    "last_notified": "2026-11-15",
+    "count": 5,
+    "score": 59.0
   },
   "basketikun/infinite-canvas": {
     "first_notified": "2026-10-28",
@@ -544,5 +544,29 @@
     "last_notified": "2026-11-14",
     "count": 1,
     "score": 63.5
+  },
+  "homeassistant-ai/ha-mcp": {
+    "first_notified": "2026-11-15",
+    "last_notified": "2026-11-15",
+    "count": 1,
+    "score": 63.6
+  },
+  "sherlock-project/sherlock": {
+    "first_notified": "2026-11-15",
+    "last_notified": "2026-11-15",
+    "count": 1,
+    "score": 60.5
+  },
+  "vercel-labs/agent-browser": {
+    "first_notified": "2026-11-15",
+    "last_notified": "2026-11-15",
+    "count": 1,
+    "score": 56.1
+  },
+  "soxoj/maigret": {
+    "first_notified": "2026-11-15",
+    "last_notified": "2026-11-15",
+    "count": 1,
+    "score": 55.4
   }
 }
