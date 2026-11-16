@@ -71,12 +71,6 @@
     "count": 3,
     "score": 59.9
   },
-  "lexmount/moli": {
-    "first_notified": "2026-10-11",
-    "last_notified": "2026-10-16",
-    "count": 2,
-    "score": 73.5
-  },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
     "last_notified": "2026-10-31",
@@ -94,12 +88,6 @@
     "last_notified": "2026-10-20",
     "count": 2,
     "score": 66.6
-  },
-  "cathrynlavery/diagram-design": {
-    "first_notified": "2026-10-16",
-    "last_notified": "2026-10-16",
-    "count": 1,
-    "score": 72.3
   },
   "elysia395/dsh-wallpaper-engine": {
     "first_notified": "2026-10-17",
@@ -211,9 +199,9 @@
   },
   "liguobao/ds-harness-remote": {
     "first_notified": "2026-10-24",
-    "last_notified": "2026-11-12",
-    "count": 3,
-    "score": 67.3
+    "last_notified": "2026-11-16",
+    "count": 4,
+    "score": 61.7
   },
   "affaan-m/ECC": {
     "first_notified": "2026-10-24",
@@ -343,9 +331,9 @@
   },
   "milind-soni/OpenMausBot": {
     "first_notified": "2026-10-30",
-    "last_notified": "2026-11-12",
-    "count": 3,
-    "score": 76.5
+    "last_notified": "2026-11-16",
+    "count": 4,
+    "score": 64.1
   },
   "Orkas-AI/Orkas": {
     "first_notified": "2026-10-31",
@@ -568,5 +556,23 @@
     "last_notified": "2026-11-15",
     "count": 1,
     "score": 55.4
+  },
+  "we-promise/sure": {
+    "first_notified": "2026-11-16",
+    "last_notified": "2026-11-16",
+    "count": 1,
+    "score": 66.1
+  },
+  "superplanehq/superplane": {
+    "first_notified": "2026-11-16",
+    "last_notified": "2026-11-16",
+    "count": 1,
+    "score": 58.4
+  },
+  "openai/codex-security": {
+    "first_notified": "2026-11-16",
+    "last_notified": "2026-11-16",
+    "count": 1,
+    "score": 57.0
   }
 }
