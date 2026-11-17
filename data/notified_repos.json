@@ -55,9 +55,9 @@
   },
   "ranxianglei/billion-context": {
     "first_notified": "2026-10-07",
-    "last_notified": "2026-11-13",
-    "count": 5,
-    "score": 70.9
+    "last_notified": "2026-11-17",
+    "count": 6,
+    "score": 61.3
   },
   "storytold/artcraft": {
     "first_notified": "2026-10-08",
@@ -88,12 +88,6 @@
     "last_notified": "2026-10-20",
     "count": 2,
     "score": 66.6
-  },
-  "elysia395/dsh-wallpaper-engine": {
-    "first_notified": "2026-10-17",
-    "last_notified": "2026-10-17",
-    "count": 1,
-    "score": 64.7
   },
   "corrinehu/dsh-workbuddy-connect": {
     "first_notified": "2026-10-18",
@@ -379,9 +373,9 @@
   },
   "vercel-labs/agent-desktop": {
     "first_notified": "2026-11-03",
-    "last_notified": "2026-11-13",
-    "count": 3,
-    "score": 67.2
+    "last_notified": "2026-11-17",
+    "count": 4,
+    "score": 60.5
   },
   "CopilotKit/OpenBot": {
     "first_notified": "2026-11-03",
@@ -427,9 +421,9 @@
   },
   "pingdotgg/t3code": {
     "first_notified": "2026-11-05",
-    "last_notified": "2026-11-13",
-    "count": 3,
-    "score": 63.9
+    "last_notified": "2026-11-17",
+    "count": 4,
+    "score": 61.7
   },
   "Leonxlnx/taste-skill": {
     "first_notified": "2026-11-06",
@@ -574,5 +568,17 @@
     "last_notified": "2026-11-16",
     "count": 1,
     "score": 57.0
+  },
+  "Tencent/LoopForge": {
+    "first_notified": "2026-11-17",
+    "last_notified": "2026-11-17",
+    "count": 1,
+    "score": 67.3
+  },
+  "NVIDIA/SkillEvaluator": {
+    "first_notified": "2026-11-17",
+    "last_notified": "2026-11-17",
+    "count": 1,
+    "score": 60.9
   }
 }
