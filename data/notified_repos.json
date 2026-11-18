@@ -77,29 +77,11 @@
     "count": 6,
     "score": 63.2
   },
-  "vxcontrol/pentagi": {
-    "first_notified": "2026-10-14",
-    "last_notified": "2026-10-18",
-    "count": 2,
-    "score": 61.4
-  },
   "chthollyphile/folia-major": {
     "first_notified": "2026-10-16",
     "last_notified": "2026-10-20",
     "count": 2,
     "score": 66.6
-  },
-  "corrinehu/dsh-workbuddy-connect": {
-    "first_notified": "2026-10-18",
-    "last_notified": "2026-10-18",
-    "count": 1,
-    "score": 72.1
-  },
-  "mksglu/context-mode": {
-    "first_notified": "2026-10-18",
-    "last_notified": "2026-10-18",
-    "count": 1,
-    "score": 58.8
   },
   "devaccuracy/ledgerforge": {
     "first_notified": "2026-10-19",
@@ -457,9 +439,9 @@
   },
   "crmne/zapfast": {
     "first_notified": "2026-11-08",
-    "last_notified": "2026-11-08",
-    "count": 1,
-    "score": 59.8
+    "last_notified": "2026-11-18",
+    "count": 2,
+    "score": 62.0
   },
   "D4Vinci/Scrapling": {
     "first_notified": "2026-11-08",
@@ -493,9 +475,9 @@
   },
   "meta/astryx": {
     "first_notified": "2026-11-11",
-    "last_notified": "2026-11-14",
-    "count": 2,
-    "score": 79.5
+    "last_notified": "2026-11-18",
+    "count": 3,
+    "score": 68.8
   },
   "mattpocock/skills": {
     "first_notified": "2026-11-12",
@@ -517,9 +499,9 @@
   },
   "GoogleChrome/modern-web-guidance-src": {
     "first_notified": "2026-11-14",
-    "last_notified": "2026-11-14",
-    "count": 1,
-    "score": 68.2
+    "last_notified": "2026-11-18",
+    "count": 2,
+    "score": 82.1
   },
   "Jakeschincariol/instagram-agent-skill": {
     "first_notified": "2026-11-14",
@@ -580,5 +562,17 @@
     "last_notified": "2026-11-17",
     "count": 1,
     "score": 60.9
+  },
+  "google-research/paper-orchestra": {
+    "first_notified": "2026-11-18",
+    "last_notified": "2026-11-18",
+    "count": 1,
+    "score": 64.3
+  },
+  "Alishahryar1/free-claude-code": {
+    "first_notified": "2026-11-18",
+    "last_notified": "2026-11-18",
+    "count": 1,
+    "score": 61.9
   }
 }
