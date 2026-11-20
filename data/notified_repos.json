@@ -17,12 +17,6 @@
     "count": 3,
     "score": 60.4
   },
-  "DuarteSantos8/openGym": {
-    "first_notified": "2026-09-28",
-    "last_notified": "2026-10-20",
-    "count": 5,
-    "score": 63.7
-  },
   "Asymptote-Labs/agent-beacon": {
     "first_notified": "2026-09-30",
     "last_notified": "2026-10-25",
@@ -59,35 +53,17 @@
     "count": 6,
     "score": 61.3
   },
-  "storytold/artcraft": {
-    "first_notified": "2026-10-08",
-    "last_notified": "2026-10-20",
-    "count": 4,
-    "score": 75.2
-  },
   "xerj-org/xerj": {
     "first_notified": "2026-10-13",
     "last_notified": "2026-10-31",
     "count": 6,
     "score": 63.2
   },
-  "chthollyphile/folia-major": {
-    "first_notified": "2026-10-16",
-    "last_notified": "2026-10-20",
-    "count": 2,
-    "score": 66.6
-  },
   "michael-denyer/pstack-claude": {
     "first_notified": "2026-10-19",
     "last_notified": "2026-10-23",
     "count": 2,
     "score": 60.8
-  },
-  "LibreSpark/LibreTV": {
-    "first_notified": "2026-10-20",
-    "last_notified": "2026-10-20",
-    "count": 1,
-    "score": 73.2
   },
   "android/skills": {
     "first_notified": "2026-10-21",
@@ -343,9 +319,9 @@
   },
   "DeanChensj/jiangshan-map": {
     "first_notified": "2026-11-03",
-    "last_notified": "2026-11-09",
-    "count": 3,
-    "score": 71.0
+    "last_notified": "2026-11-20",
+    "count": 4,
+    "score": 67.3
   },
   "warmbly/warmbly": {
     "first_notified": "2026-11-03",
@@ -367,9 +343,9 @@
   },
   "kajisho5/ffmpeg-skill": {
     "first_notified": "2026-11-04",
-    "last_notified": "2026-11-04",
-    "count": 1,
-    "score": 67.9
+    "last_notified": "2026-11-20",
+    "count": 2,
+    "score": 67.7
   },
   "NVIDIA/auto-ontology": {
     "first_notified": "2026-11-05",
@@ -574,5 +550,23 @@
     "last_notified": "2026-11-19",
     "count": 1,
     "score": 54.0
+  },
+  "pookjw/HermesEnabler": {
+    "first_notified": "2026-11-20",
+    "last_notified": "2026-11-20",
+    "count": 1,
+    "score": 69.1
+  },
+  "dream-num/univer": {
+    "first_notified": "2026-11-20",
+    "last_notified": "2026-11-20",
+    "count": 1,
+    "score": 65.6
+  },
+  "backnotprop/plannotator": {
+    "first_notified": "2026-11-20",
+    "last_notified": "2026-11-20",
+    "count": 1,
+    "score": 63.1
   }
 }
