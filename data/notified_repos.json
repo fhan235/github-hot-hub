@@ -71,12 +71,6 @@
     "count": 2,
     "score": 64.7
   },
-  "harry0703/MoneyPrinterTurbo": {
-    "first_notified": "2026-10-22",
-    "last_notified": "2026-10-22",
-    "count": 1,
-    "score": 60.9
-  },
   "hmjz100/LinkSwift": {
     "first_notified": "2026-10-22",
     "last_notified": "2026-11-01",
@@ -127,9 +121,9 @@
   },
   "FujiwaraChoki/supoclip": {
     "first_notified": "2026-10-25",
-    "last_notified": "2026-10-25",
-    "count": 1,
-    "score": 57.6
+    "last_notified": "2026-11-22",
+    "count": 2,
+    "score": 55.8
   },
   "anthropics/sandbox-runtime": {
     "first_notified": "2026-10-25",
@@ -409,9 +403,9 @@
   },
   "meta/astryx": {
     "first_notified": "2026-11-11",
-    "last_notified": "2026-11-18",
-    "count": 3,
-    "score": 68.8
+    "last_notified": "2026-11-22",
+    "count": 4,
+    "score": 57.2
   },
   "mattpocock/skills": {
     "first_notified": "2026-11-12",
@@ -433,9 +427,9 @@
   },
   "GoogleChrome/modern-web-guidance-src": {
     "first_notified": "2026-11-14",
-    "last_notified": "2026-11-18",
-    "count": 2,
-    "score": 82.1
+    "last_notified": "2026-11-22",
+    "count": 3,
+    "score": 73.8
   },
   "Jakeschincariol/instagram-agent-skill": {
     "first_notified": "2026-11-14",
@@ -562,5 +556,17 @@
     "last_notified": "2026-11-21",
     "count": 1,
     "score": 59.3
+  },
+  "alibaba/open-code-review": {
+    "first_notified": "2026-11-22",
+    "last_notified": "2026-11-22",
+    "count": 1,
+    "score": 54.7
+  },
+  "elementalsouls/Claude-BugHunter": {
+    "first_notified": "2026-11-22",
+    "last_notified": "2026-11-22",
+    "count": 1,
+    "score": 53.2
   }
 }
