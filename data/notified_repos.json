@@ -53,12 +53,6 @@
     "count": 2,
     "score": 67.7
   },
-  "PC2005-cloud/dsh-pet": {
-    "first_notified": "2026-10-23",
-    "last_notified": "2026-10-27",
-    "count": 2,
-    "score": 65.0
-  },
   "Renhuai123/ziwei-doushu": {
     "first_notified": "2026-10-23",
     "last_notified": "2026-11-08",
@@ -88,12 +82,6 @@
     "last_notified": "2026-11-05",
     "count": 3,
     "score": 69.6
-  },
-  "croffasia/itsaplan": {
-    "first_notified": "2026-10-27",
-    "last_notified": "2026-10-27",
-    "count": 1,
-    "score": 63.1
   },
   "cloudflare/security-audit-skill": {
     "first_notified": "2026-10-28",
@@ -439,9 +427,9 @@
   },
   "tradermonty/claude-trading-skills": {
     "first_notified": "2026-11-19",
-    "last_notified": "2026-11-23",
-    "count": 2,
-    "score": 66.0
+    "last_notified": "2026-11-27",
+    "count": 3,
+    "score": 54.4
   },
   "ModernRelay/omnigraph": {
     "first_notified": "2026-11-19",
@@ -493,9 +481,9 @@
   },
   "alibaba/open-code-review": {
     "first_notified": "2026-11-22",
-    "last_notified": "2026-11-22",
-    "count": 1,
-    "score": 54.7
+    "last_notified": "2026-11-27",
+    "count": 2,
+    "score": 50.6
   },
   "elementalsouls/Claude-BugHunter": {
     "first_notified": "2026-11-22",
@@ -505,15 +493,15 @@
   },
   "ardia-browser/ardia": {
     "first_notified": "2026-11-23",
-    "last_notified": "2026-11-23",
-    "count": 1,
-    "score": 59.0
+    "last_notified": "2026-11-27",
+    "count": 2,
+    "score": 49.1
   },
   "anthropics/skills": {
     "first_notified": "2026-11-23",
-    "last_notified": "2026-11-23",
-    "count": 1,
-    "score": 51.8
+    "last_notified": "2026-11-27",
+    "count": 2,
+    "score": 51.2
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_notified": "2026-11-23",
@@ -538,5 +526,11 @@
     "last_notified": "2026-11-26",
     "count": 1,
     "score": 66.1
+  },
+  "obsidianmd/obsidian-skills": {
+    "first_notified": "2026-11-27",
+    "last_notified": "2026-11-27",
+    "count": 1,
+    "score": 54.0
   }
 }
