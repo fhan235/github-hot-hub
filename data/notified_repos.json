@@ -89,24 +89,6 @@
     "count": 5,
     "score": 59.0
   },
-  "basketikun/infinite-canvas": {
-    "first_notified": "2026-10-28",
-    "last_notified": "2026-10-28",
-    "count": 1,
-    "score": 63.0
-  },
-  "elayadesign/ai-design-skills": {
-    "first_notified": "2026-10-28",
-    "last_notified": "2026-10-28",
-    "count": 1,
-    "score": 62.3
-  },
-  "togg53192-cmd/jailbreaks": {
-    "first_notified": "2026-10-28",
-    "last_notified": "2026-10-28",
-    "count": 1,
-    "score": 60.9
-  },
   "nightly-labs/openbot": {
     "first_notified": "2026-10-28",
     "last_notified": "2026-11-14",
@@ -217,9 +199,9 @@
   },
   "DeanChensj/jiangshan-map": {
     "first_notified": "2026-11-03",
-    "last_notified": "2026-11-24",
-    "count": 5,
-    "score": 61.5
+    "last_notified": "2026-11-28",
+    "count": 6,
+    "score": 49.2
   },
   "warmbly/warmbly": {
     "first_notified": "2026-11-03",
@@ -241,9 +223,9 @@
   },
   "kajisho5/ffmpeg-skill": {
     "first_notified": "2026-11-04",
-    "last_notified": "2026-11-24",
-    "count": 3,
-    "score": 69.8
+    "last_notified": "2026-11-28",
+    "count": 4,
+    "score": 63.3
   },
   "NVIDIA/auto-ontology": {
     "first_notified": "2026-11-05",
@@ -463,9 +445,9 @@
   },
   "backnotprop/plannotator": {
     "first_notified": "2026-11-20",
-    "last_notified": "2026-11-24",
-    "count": 2,
-    "score": 56.9
+    "last_notified": "2026-11-28",
+    "count": 3,
+    "score": 52.2
   },
   "mjmirza/app-store-compliance": {
     "first_notified": "2026-11-21",
@@ -532,5 +514,17 @@
     "last_notified": "2026-11-27",
     "count": 1,
     "score": 54.0
+  },
+  "NYLLON-SOFTWARE/SignuDoc": {
+    "first_notified": "2026-11-28",
+    "last_notified": "2026-11-28",
+    "count": 1,
+    "score": 50.2
+  },
+  "a2ui-project/a2ui": {
+    "first_notified": "2026-11-28",
+    "last_notified": "2026-11-28",
+    "count": 1,
+    "score": 49.0
   }
 }
